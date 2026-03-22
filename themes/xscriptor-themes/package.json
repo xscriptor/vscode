@@ -14,11 +14,11 @@
 
   "repository": {
     "type": "git",
-    "url": "https://github.com/xscriptordev/vscode",
+    "url": "https://github.com/xscriptor/vscode",
     "directory": "themes/xscriptor-themes"
   },
-  "bugs": { "url": "https://github.com/xscriptordev/vscode/issues" },
-  "homepage": "https://github.com/xscriptordev/vscode/tree/main/themes/xscriptor-themes",
+  "bugs": { "url": "https://github.com/xscriptor/vscode/issues" },
+  "homepage": "https://github.com/xscriptor/vscode/tree/main/themes/xscriptor-themes",
 
   "contributes": {
     "themes": [

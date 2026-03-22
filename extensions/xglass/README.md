@@ -2,7 +2,7 @@
 
 An extension that makes your editor look like glass by adjusting the window’s transparency—**only when you ask it to**.
 
-![Preview](https://raw.githubusercontent.com/xscriptordev/vscode/main/extensions/xglass/images/preview.png)
+![Preview](https://raw.githubusercontent.com/xscriptor/vscode/main/extensions/xglass/images/preview.png)
 
 ## Features
 
@@ -165,6 +165,6 @@ xprop -id <windowId> -f _NET_WM_WINDOW_OPACITY 32c \
 
 [MIT](./LICENSE.md)
 
-**Repository:** [https://github.com/xscriptordev/vscode](https://github.com/xscriptordev/vscode)
+**Repository:** [https://github.com/xscriptor/vscode](https://github.com/xscriptor/vscode)
 
 ---

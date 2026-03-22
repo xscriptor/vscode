@@ -5,22 +5,22 @@ Travel through your code with a global aesthetic. From the neon lights of Tokio 
 ## Previews
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xscriptordev/vscode/refs/heads/main/themes/xscriptor-themes/screenshots/xtvsc01.jpg" width="900"/>
+  <img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/xscriptor-themes/screenshots/xtvsc01.jpg" width="900"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xscriptordev/vscode/refs/heads/main/themes/xscriptor-themes/screenshots/xtvsc00.jpg" width="900"/>
+  <img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/xscriptor-themes/screenshots/xtvsc00.jpg" width="900"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xscriptordev/vscode/refs/heads/main/themes/xscriptor-themes/screenshots/xtvsc03.jpg" width="900"/>
+  <img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/xscriptor-themes/screenshots/xtvsc03.jpg" width="900"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xscriptordev/vscode/refs/heads/main/themes/xscriptor-themes/screenshots/xtvsc02.jpg" width="900"/>
+  <img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/xscriptor-themes/screenshots/xtvsc02.jpg" width="900"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xscriptordev/vscode/refs/heads/main/themes/xscriptor-themes/screenshots/xtvsc05.jpg" width="900"/>
+  <img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/xscriptor-themes/screenshots/xtvsc05.jpg" width="900"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xscriptordev/vscode/refs/heads/main/themes/xscriptor-themes/screenshots/xtvsc04.jpg" width="900"/>
+  <img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/xscriptor-themes/screenshots/xtvsc04.jpg" width="900"/>
 </p>
 
 
@@ -128,7 +128,7 @@ This theme collection is released under the MIT License. See [LICENSE](./LICENSE
 
 ## References:
 
-- [Xscriptor Schemes](https://github.com/xscriptordev/vscode/blob/main/themes/xscriptor-themes/references.md)
+- [Xscriptor Schemes](https://github.com/xscriptor/vscode/blob/main/themes/xscriptor-themes/references.md)
 
 ---
 
@@ -136,5 +136,5 @@ This theme collection is released under the MIT License. See [LICENSE](./LICENSE
 
 **Xscriptor** — Theme Designer & Developer
 
-- GitHub: [@xscriptordev](https://github.com/xscriptor)
-- Repository: [Xscriptor Themes](https://github.com/xscriptordev/vscode/tree/main/themes/xscriptor-themes)
+- GitHub: [@xscriptor](https://github.com/xscriptor)
+- Repository: [Xscriptor Themes](https://github.com/xscriptor/vscode/tree/main/themes/xscriptor-themes)

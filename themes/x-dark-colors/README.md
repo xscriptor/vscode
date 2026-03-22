@@ -5,22 +5,22 @@
 ## Preview:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xscriptordev/vscode/refs/heads/main/themes/x-dark-colors/screenshots/preview01.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/x-dark-colors/screenshots/preview01.png" width="900"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xscriptordev/vscode/refs/heads/main/themes/x-dark-colors/screenshots/preview00.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/x-dark-colors/screenshots/preview00.png" width="900"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xscriptordev/vscode/refs/heads/main/themes/x-dark-colors/screenshots/preview03.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/x-dark-colors/screenshots/preview03.png" width="900"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xscriptordev/vscode/refs/heads/main/themes/x-dark-colors/screenshots/preview02.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/x-dark-colors/screenshots/preview02.png" width="900"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xscriptordev/vscode/refs/heads/main/themes/x-dark-colors/screenshots/preview05.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/x-dark-colors/screenshots/preview05.png" width="900"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xscriptordev/vscode/refs/heads/main/themes/x-dark-colors/screenshots/preview04.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/x-dark-colors/screenshots/preview04.png" width="900"/>
 </p>
 
 ## Included Themes
@@ -104,17 +104,17 @@ These themes have been specifically designed to work with the **xglass** extensi
 
 Do you have suggestions or found an issue? 
 
-- [Report a bug](https://github.com/xscriptordev/vscode/issues)
-- [Suggest an improvement](https://github.com/xscriptordev/vscode/issues)
-- [View source code](https://github.com/xscriptordev/vscode/tree/main/themes/x-dark-colors)
+- [Report a bug](https://github.com/xscriptor/vscode/issues)
+- [Suggest an improvement](https://github.com/xscriptor/vscode/issues)
+- [View source code](https://github.com/xscriptor/vscode/tree/main/themes/x-dark-colors)
 
 ## License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/xscriptordev/vscode/blob/main/themes/x-dark-colors/LICENSE) file for more details.
+This project is under the MIT license. See the [LICENSE](https://github.com/xscriptor/vscode/blob/main/themes/x-dark-colors/LICENSE) file for more details.
 
 ## Author
 
-**Xscriptor** - [GitHub](https://github.com/xscriptordev)
+**Xscriptor** - [GitHub](https://github.com/xscriptor)
 
 ---
 
