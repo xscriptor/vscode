@@ -59,6 +59,10 @@ Issues and pull requests are welcome. Please open tickets for bugs or requests i
 
 ## License
 
-MIT License. See `LICENSE` in each package.
+This repository contains multiple packages with different licensing terms. 
+
+* **Default License:** Unless otherwise specified, the code in this repository (including `xglass` and `ui-mods`) is licensed under the **MIT License**. See the root [LICENSE](./LICENSE) file for details.
+
+* **Themes:** The themes located in the `themes/` directory (e.g., `x-dark-colors`, `xscriptor-themes`) are provided under the **Xscriptor Personal Use License**. Redistribution, modification for resale, or commercial use is strictly prohibited. See the `LICENSE` file within each theme's directory for full terms.
 
 
