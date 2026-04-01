@@ -1,121 +1,84 @@
-<h1 align="center">X Dark Colors — Theme Collection for VS Code</h1>
-
-<p align="center">A versatile collection of dark themes for VS Code, designed to look great with transparency using the xglass extension. This pack includes the original high-contrast Core Collection and the new, colorful City Collection. Expect crisp text and clear readability on a pure black</p>
-
-## Preview:
+<h1 align="center">X Dark Colors for VS Code</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/x-dark-colors/screenshots/preview01.png" width="900"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/x-dark-colors/screenshots/preview00.png" width="900"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/x-dark-colors/screenshots/preview03.png" width="900"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/x-dark-colors/screenshots/preview02.png" width="900"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/x-dark-colors/screenshots/preview05.png" width="900"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/x-dark-colors/screenshots/preview04.png" width="900"/>
+  A dark-first theme collection built for high contrast, clean syntax clarity, and excellent results with XGlass transparency.
 </p>
 
-## Included Themes
+<h2>Previews</h2>
+<p align="center"><img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/x-dark-colors/screenshots/preview01.png" alt="X Dark Colors preview 1" width="900" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/x-dark-colors/screenshots/preview00.png" alt="X Dark Colors preview 2" width="900" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/x-dark-colors/screenshots/preview03.png" alt="X Dark Colors preview 3" width="900" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/x-dark-colors/screenshots/preview02.png" alt="X Dark Colors preview 4" width="900" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/x-dark-colors/screenshots/preview05.png" alt="X Dark Colors preview 5" width="900" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/x-dark-colors/screenshots/preview04.png" alt="X Dark Colors preview 6" width="900" /></p>
 
-### Core Collection
-- **X Milán** (formerly X Dark One) - Bright yellow accents
-- **X Almería** (formerly X Dark Retro) - Lime green/Retro style
-- **X Frankfurt** (formerly X Dark Freeze) - Ice blue tones
-- **X Medellín** (formerly X Dark Candy) - Sweet orange/Vibrant
+<h2>Included Themes</h2>
 
-### City Collection (Global)
-- **X Kyoto** (Blue)
-- **X Marrakech** (Red/Orange)
-- **X Reykjavik** (Teal)
-- **X Cairo** (Gold)
-- **X Rio** (Green & Pink)
-- **X Athens** (Blue & Orange)
-- **X Istanbul** (Purple & Yellow)
-- **X Sidney** (Teal & Coral)
-- **X Nice** (Rose Gold & Slate)
-- **X Liverpool** (Grey & Red)
-- **X Barcelona** (Azure & Yellow)
-- **X Rome** (Purple & Gold)
-- **X Múnich** (Neon Green & Black)
-- **X Vienna** (Burgundy & Cream)
-- **X Stockholm** (Nordic Blue & Yellow)
-- **X Stavanger** (Deep Blue & Frost)
-- **X Tampere** (Green & Purple)
-- **X Moscow** (Red & Gold)
-- **X Dubai** (Black & Gold)
-- **X Osaka** (Neon Pink & Cyan)
-- **X Seoul** (Red & Blue)
-- **X Mumbai** (Orange & Teal)
-- **X Bangkok** (Purple & Orange)
-- **X Singapore** (Green & White)
-- **X New York** (Slate & Taxi Yellow)
-- **X Chicago** (Steel Blue & Grey)
-- **X San Francisco** (International Orange & Fog)
-- **X Toronto** (Red & White)
+<h3>Core Collection</h3>
+<ul>
+  <li><strong>X Milan</strong> (formerly X Dark One)</li>
+  <li><strong>X Almeria</strong> (formerly X Dark Retro)</li>
+  <li><strong>X Frankfurt</strong> (formerly X Dark Freeze)</li>
+  <li><strong>X Medellin</strong> (formerly X Dark Candy)</li>
+</ul>
 
-## Key Features
+<h3>City Collection</h3>
+<ul>
+  <li>X Kyoto</li>
+  <li>X Marrakech</li>
+  <li>X Reykjavik</li>
+  <li>X Cairo</li>
+  <li>X Rio</li>
+  <li>X Athens</li>
+  <li>X Istanbul</li>
+  <li>X Sidney</li>
+  <li>X Nice</li>
+  <li>X Liverpool</li>
+  <li>X Barcelona</li>
+  <li>X Rome</li>
+  <li>X Munich</li>
+  <li>X Vienna</li>
+  <li>X Stockholm</li>
+  <li>X Stavanger</li>
+  <li>X Tampere</li>
+  <li>X Moscow</li>
+  <li>X Dubai</li>
+  <li>X Osaka</li>
+  <li>X Seoul</li>
+  <li>X Mumbai</li>
+  <li>X Bangkok</li>
+  <li>X Singapore</li>
+  <li>X New York</li>
+  <li>X Chicago</li>
+  <li>X San Francisco</li>
+  <li>X Toronto</li>
+</ul>
 
-- **High Contrast**: All themes are optimized for maximum readability
-- **xglass Compatibility**: Specifically designed to work perfectly with transparency effects
-- **Enhanced Syntax**: Carefully selected colors for different programming languages
-- **Visual Fatigue Reduction**: Color palettes that minimize eye strain
-- **Highlighted UI Elements**: Buttons, badges and interactive elements with high visibility
+<h2>Key Features</h2>
+<ul>
+  <li>High contrast for long coding sessions.</li>
+  <li>Color palettes tuned for syntax separation and readability.</li>
+  <li>Optimized visuals when using XGlass transparency.</li>
+  <li>Strong emphasis on visible UI controls and badges.</li>
+</ul>
 
-## Installation
+<h2>Installation</h2>
+<ol>
+  <li>Open Extensions view in VS Code (<code>Ctrl+Shift+X</code>).</li>
+  <li>Search for <code>X Dark Colors</code> or <code>Xscriptor</code>.</li>
+  <li>Install the theme pack and choose a theme from <code>Preferences &gt; Color Theme</code>.</li>
+</ol>
 
-### From Visual Studio Code Marketplace
-1. Open Visual Studio Code
-2. Go to Extensions tab (`Ctrl+Shift+X`)
-3. Search for "X Dark Colors" or "Xscriptor"
-4. Click "Install"
+<h2>Contributing</h2>
+<p>
+  Report bugs or request improvements at <a href="https://github.com/xscriptor/vscode/issues">github.com/xscriptor/vscode/issues</a>.
+</p>
 
-### Manual Installation
-1. Download the `.vsix` file from releases
-2. Open VS Code
-3. Press `Ctrl+Shift+P` and run "Extensions: Install from VSIX..."
-4. Select the downloaded file
+<h2>License</h2>
+<p>
+  Licensed as described in <a href="./LICENSE">LICENSE</a>.
+</p>
 
-## Usage
-
-1. **Install the xglass extension** (recommended for better experience)
-2. Open Command Palette (`Ctrl+Shift+P`)
-3. Type "Preferences: Color Theme"
-4. Select one of the X Dark themes (e.g., **X Milán**, **X Kyoto**, **X New York**, etc.)
-
-## Optimized for xglass
-
-These themes have been specifically designed to work with the **xglass** extension, providing:
-
-- **Perfect contrast** with transparent backgrounds
-- **Enhanced readability** in overlapping windows  
-- **Vibrant colors** that remain visible with transparency
-- **Highlighted UI elements** for easy navigation
-
-
-## Contributing
-
-Do you have suggestions or found an issue? 
-
-- [Report a bug](https://github.com/xscriptor/vscode/issues)
-- [Suggest an improvement](https://github.com/xscriptor/vscode/issues)
-- [View source code](https://github.com/xscriptor/vscode/tree/main/themes/x-dark-colors)
-
-## License
-
-This project is under the MIT license. See the [LICENSE](https://github.com/xscriptor/vscode/blob/main/themes/x-dark-colors/LICENSE) file for more details.
-
-## Author
-
-**Xscriptor** - [GitHub](https://github.com/xscriptor)
-
----
-
-*Optimized for Visual Studio Code with [xglass](https://marketplace.visualstudio.com/items?itemName=xscriptor.xglass) transparency*
+<p>
+  Recommended with <a href="https://marketplace.visualstudio.com/items?itemName=xscriptor.xglass">XGlass</a> for transparent setups.
+</p>

@@ -4,7 +4,7 @@
   "description": "Collection of themes for Visual Studio Code by Xscriptor.",
   "version": "1.0.8",
   "publisher": "xscriptor",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "engines": { "vscode": "^1.85.0" },
   "extensionKind": ["ui"],
   "categories": ["Themes"],
