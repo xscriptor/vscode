@@ -1,170 +1,135 @@
-# XGlass for VS Code
+<h1 align="center">XGlass for VS Code</h1>
 
-An extension that makes your editor look like glass by adjusting the window’s transparency—**only when you ask it to**.
+<p align="center">
+  Make your VS Code window look like glass by changing opacity only when you trigger it.
+</p>
 
-![Preview](https://raw.githubusercontent.com/xscriptor/vscode/main/extensions/xglass/images/preview.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xscriptor/vscode/main/extensions/xglass/images/preview.png" alt="XGlass preview" width="860" />
+</p>
 
-## Features
+<hr />
 
-* Change the window transparency via **commands** or **keyboard shortcuts**.
-* Configure default level and step size in **Settings**.
-* Works on **Windows** (native Win32 API via in-memory C# helper) and **Linux (X11/Xorg)**.
+<h2>Contents</h2>
+<ul>
+  <li><a href="#features">Features</a></li>
+  <li><a href="#requirements">Requirements</a></li>
+  <li><a href="#activation-opt-in">Activation (Opt-In)</a></li>
+  <li><a href="#settings">Settings</a></li>
+  <li><a href="#how-it-works">How It Works</a></li>
+  <li><a href="#security-and-privacy">Security and Privacy</a></li>
+  <li><a href="#compatibility-and-limitations">Compatibility and Limitations</a></li>
+  <li><a href="#troubleshooting">Troubleshooting</a></li>
+  <li><a href="#installation">Installation</a></li>
+  <li><a href="#license">License</a></li>
+</ul>
 
----
+<h2 id="features">Features</h2>
+<ul>
+  <li>Control window transparency using commands or keyboard shortcuts.</li>
+  <li>Configure default alpha and step in settings.</li>
+  <li>Works on Windows and Linux X11/Xorg.</li>
+</ul>
 
-## Requirements
+<h2 id="requirements">Requirements</h2>
 
-**Windows**
+<h3>Windows</h3>
+<ul>
+  <li>Windows 10 or newer.</li>
+  <li>PowerShell available in PATH.</li>
+</ul>
 
-* Windows 10 or later.
-* PowerShell available in PATH (standard on Windows).
+<h3>Linux (X11/Xorg)</h3>
+<ul>
+  <li>Xorg session required (Wayland is not supported).</li>
+  <li><code>xprop</code> must be installed.</li>
+</ul>
 
-**Linux (X11/Xorg)**
+<pre><code># Fedora
+sudo dnf install xorg-x11-utils
 
-* An Xorg session (Wayland is **not supported**).
-* `xprop` installed:
+# Debian/Ubuntu
+sudo apt install x11-utils
 
-  ```bash
-  # Fedora
-  sudo dnf install xorg-x11-utils
-  # Debian/Ubuntu
-  sudo apt install x11-utils
-  # Arch
-  sudo pacman -S xorg-xprop
-  ```
+# Arch
+sudo pacman -S xorg-xprop
+</code></pre>
 
----
+<h2 id="activation-opt-in">Activation (Opt-In)</h2>
+<p>
+  XGlass does not run automatically. It activates only when you execute one of its commands.
+</p>
 
-## Activation (Opt-In)
+<h3>Command Palette</h3>
+<ol>
+  <li>Open Command Palette (<code>Ctrl+Shift+P</code>).</li>
+  <li>Search for <code>xglass</code> and run one of these commands.</li>
+</ol>
 
-XGlass **does not run automatically**. It only activates when you invoke one of its commands:
+<ul>
+  <li><strong>xglass: Enable Transparency Mode</strong>: sets alpha to <code>150</code>.</li>
+  <li><strong>xglass: + transparency</strong>: increases transparency.</li>
+  <li><strong>xglass: - transparency</strong>: decreases transparency.</li>
+  <li><strong>xglass: full transparency</strong>: minimum alpha.</li>
+  <li><strong>xglass: No transparency</strong>: restores full opacity.</li>
+</ul>
 
-### Command Palette
+<h3>Keyboard Shortcuts</h3>
+<ul>
+  <li><code>Ctrl+Alt+Z</code>: + transparency</li>
+  <li><code>Ctrl+Alt+C</code>: - transparency</li>
+  <li><code>Ctrl+Alt+X</code>: No transparency</li>
+</ul>
 
-1. Open the Command Palette (`Ctrl+Shift+P`)
-2. Type “xglass” and select one of:
+<h2 id="settings">Settings</h2>
+<ul>
+  <li><code>xglass.alpha</code>: alpha from <code>1</code> to <code>255</code>.</li>
+  <li><code>xglass.step</code>: increase/decrease step size, default <code>10</code>.</li>
+</ul>
 
-   * **xglass: Enable Transparency Mode** — sets default transparency (**150**)
-   * **xglass: + transparency** — increase transparency (more transparent)
-   * **xglass: - transparency** — decrease transparency (less transparent)
-   * **xglass: full transparency** — minimum alpha (most transparent)
-   * **xglass: No transparency** — restores full opacity
+<h2 id="how-it-works">How It Works</h2>
 
-### Keyboard Shortcuts
+<h3>Windows</h3>
+<ul>
+  <li>Loads an in-memory C# helper through PowerShell <code>Add-Type</code>.</li>
+  <li>Applies <code>WS_EX_LAYERED</code> and sets alpha via <code>SetLayeredWindowAttributes</code>.</li>
+</ul>
 
-* `Ctrl+Alt+Z` → **+ transparency**
-* `Ctrl+Alt+C` → **- transparency**
-* `Ctrl+Alt+X` → **No transparency**
+<h3>Linux (X11/Xorg)</h3>
+<ul>
+  <li>Finds VS Code windows by process id.</li>
+  <li>Sets <code>_NET_WM_WINDOW_OPACITY</code> using <code>xprop</code>.</li>
+</ul>
 
-> You can change shortcuts in **File → Preferences → Keyboard Shortcuts**.
+<h2 id="security-and-privacy">Security and Privacy</h2>
+<ul>
+  <li>Only command-based activation; no background auto-start.</li>
+  <li>No telemetry and no network calls.</li>
+  <li>No admin rights required.</li>
+  <li>Only affects the current VS Code window opacity.</li>
+</ul>
 
----
+<h2 id="compatibility-and-limitations">Compatibility and Limitations</h2>
+<ul>
+  <li>Windows 10 or newer supported.</li>
+  <li>Linux supported only on X11/Xorg with <code>xprop</code>.</li>
+  <li>Some compositors/window managers may ignore opacity settings.</li>
+</ul>
 
-## Settings
+<h2 id="troubleshooting">Troubleshooting</h2>
+<ul>
+  <li>Windows: verify PowerShell is available and execution policy allows in-memory type loading.</li>
+  <li>Linux: verify X11/Xorg session and <code>xprop</code> availability.</li>
+  <li>Reset: run <strong>xglass: No transparency</strong> to restore alpha <code>255</code>.</li>
+</ul>
 
-* `xglass.alpha` — Transparency level **1–255** (1 = most transparent, 255 = opaque).
-* `xglass.step` — Step size used by the increase/decrease commands (default: **10**).
+<h2 id="installation">Installation</h2>
+<ul>
+  <li>Install from VSIX: <code>code --install-extension xglass-1.0.2.vsix</code></li>
+  <li>Or search for <strong>XGlass</strong> in the Extensions view.</li>
+</ul>
 
-The “Enable Transparency Mode” command uses alpha **150** by default.
+<h2 id="license">License</h2>
+<p><a href="./LICENSE.md">MIT</a></p>
 
----
-
-## How It Works
-
-### Windows (Win32 API via PowerShell + C#)
-
-* On first use, the extension loads an **in-memory C# type** using PowerShell’s `Add-Type`.
-* The C# helper uses P/Invoke into `user32.dll` to:
-
-  * add `WS_EX_LAYERED` to the window’s extended style, and
-  * call `SetLayeredWindowAttributes(hwnd, 0, alpha, LWA_ALPHA)`.
-
-**Key calls (conceptual):**
-
-```csharp
-// mark window as layered
-WS windowLong = User32.GetWindowLong(hWnd, GWL.EXSTYLE);
-User32.SetWindowLong(hWnd, GWL.EXSTYLE, windowLong | WS.EX_LAYERED);
-
-// apply alpha (0–255)
-User32.SetLayeredWindowAttributes(hWnd, 0, alpha, LWA.ALPHA);
-```
-
-**Why this approach?**
-It’s the standard Windows mechanism for per-window opacity; the helper runs in-memory (no extra binaries) and targets only the current VS Code process.
-
-### Linux (X11/Xorg + xprop)
-
-* Detects VS Code windows by process id (`pgrep 'code'` + `_NET_WM_PID`).
-* Sets `_NET_WM_WINDOW_OPACITY` using `xprop`:
-
-```bash
-xprop -id <windowId> -f _NET_WM_WINDOW_OPACITY 32c \
-  -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * <alpha> / 255)))
-```
-
-**Why this approach?**
-`_NET_WM_WINDOW_OPACITY` is the EWMH standard for opacity on X11; `xprop` is the canonical tool to set it.
-
-> **Note:** Some window managers/compositors may ignore or override opacity settings.
-
----
-
-## Security & Privacy
-
-* **Activation model:** The extension **only activates on command** (`xglass.enable`, `xglass.increase`, `xglass.decrease`, `xglass.max`, `xglass.min`). It **does not** auto-run at startup.
-* **No telemetry / data collection:** No network calls, no personal data stored or transmitted.
-* **No elevation:** Does **not** require admin rights. Does **not** modify VS Code binaries.
-* **Scope:** Only adjusts **window attributes** (opacity) of the current VS Code process.
-* **Windows:** Loads a small **in-memory C# helper** via PowerShell (`Add-Type`). No additional files are written.
-* **Linux:** Uses `xprop` (X11 only). **Wayland not supported**.
-* **This extension deos not acces, modify, or interact with any process or window outside of the current VS Code instance.**
----
-
-## Compatibility & Limitations
-
-* **Windows 10+**: Supported.
-* **Linux (X11/Xorg)**: Requires `xprop`; Wayland is **not** supported.
-* Certain WMs/compositors may not honor `_NET_WM_WINDOW_OPACITY`.
-* Accessibility: high transparency can reduce contrast; consider your theme/contrast needs.
-
----
-
-## Troubleshooting
-
-### Windows
-
-* If you hit an execution policy error, ensure PowerShell can load in-memory types for the current session.
-* Ensure PowerShell is available in PATH (default on Windows).
-
-### Linux
-
-* Confirm you’re running **X11/Xorg**, not Wayland.
-* Ensure `xprop` is installed and callable from PATH.
-* If nothing changes, your WM/compositor may ignore opacity—check its settings or try another compositor.
-
-### Uninstall / Reset
-
-* Run **“xglass: No transparency”** to restore full opacity (255).
-* Disable or uninstall the extension from the Extensions view.
-
----
-
-## Installation
-
-* From VSIX:
-
-  ```bash
-  code --install-extension xglass-1.0.2.vsix
-  ```
-* Or search **“XGlass”** in the Extensions view and install.
-
----
-
-## License
-
-[MIT](./LICENSE.md)
-
-**Repository:** [https://github.com/xscriptor/vscode](https://github.com/xscriptor/vscode)
-
----
+<p>Repository: <a href="https://github.com/xscriptor/vscode">github.com/xscriptor/vscode</a></p>
