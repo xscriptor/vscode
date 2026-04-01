@@ -320,13 +320,14 @@
 		"symbolIcon.variableForeground": "#5ad4e6",
 		"tab.activeBackground": "#0a0a0a",
 		"tab.activeBorder": "#fce566",
+		"tab.activeBorderTop": "#00000000",
 		"tab.activeForeground": "#fce566",
 		"tab.activeModifiedBorder": "#525053",
-		"tab.border": "#222222",
+		"tab.border": "#00000000",
 		"tab.hoverBackground": "#0a0a0a",
 		"tab.hoverBorder": "#525053",
 		"tab.inactiveBackground": "#0a0a0a",
-		"tab.inactiveForeground": "#8b888f",
+		"tab.inactiveForeground": "#fce566",
 		"tab.inactiveModifiedBorder": "#525053",
 		"tab.lastPinnedBorder": "#525053",
 		"tab.unfocusedActiveBorder": "#8b888f",
@@ -334,7 +335,7 @@
 		"tab.unfocusedActiveModifiedBorder": "#363537",
 		"tab.unfocusedHoverBackground": "#222222",
 		"tab.unfocusedHoverBorder": "#222222",
-		"tab.unfocusedInactiveForeground": "#8b888f",
+		"tab.unfocusedInactiveForeground": "#fce566",
 		"tab.unfocusedInactiveModifiedBorder": "#363537",
 		"terminal.ansiBlack": "#363537",
 		"terminal.ansiBlue": "#fd9353",
@@ -379,7 +380,6 @@
 		"editorStickyScrollHover.background": "#222222",
 		"panelStickyScroll.background": "#0a0a0a",
 		"panelStickyScroll.border": "#222222",
-		"tab.activeBorderTop": "#fce566",
 		"textBlockQuote.background": "#363537",
 		"textBlockQuote.border": "#363537",
 		"textCodeBlock.background": "#363537",
@@ -394,8 +394,7 @@
 		"titleBar.inactiveForeground": "#525053",
 		"walkThrough.embeddedEditorBackground": "#191919",
 		"welcomePage.tileBackground": "#222222",
-		"widget.shadow": "#0a0a0a",
-		
+		"widget.shadow": "#0a0a0a"
 	},
 	"tokenColors": [
 		{

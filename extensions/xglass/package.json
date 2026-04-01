@@ -2,7 +2,7 @@
   "name": "xglass",
   "displayName": "Xglass",
   "description": "Make of glass your editor",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "publisher": "xscriptor",
   "license": "MIT",
   "engines": {
@@ -34,11 +34,15 @@
         "xglass.alpha": {
           "type": "integer",
           "default": 200,
+          "minimum": 1,
+          "maximum": 255,
           "description": "Transparency level [1-255]"
         },
         "xglass.step": {
           "type": "integer",
           "default": 10,
+          "minimum": 1,
+          "maximum": 100,
           "description": "Increment of alpha"
         }
       }
