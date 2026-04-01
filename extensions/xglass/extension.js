@@ -1,5 +1,20 @@
 const { workspace, window, commands } = require('vscode');
 
+function clampAlpha(value) {
+  const n = Number(value);
+  if (!Number.isFinite(n)) return 200;
+  if (n < 1) return 1;
+  if (n > 255) return 255;
+  return Math.round(n);
+}
+
+function clampStep(value) {
+  const n = Number(value);
+  if (!Number.isFinite(n) || n < 1) return 10;
+  if (n > 100) return 100;
+  return Math.round(n);
+}
+
 function activate(context) {
   const config = () => workspace.getConfiguration('xglass');
 
@@ -27,8 +42,7 @@ function activate(context) {
 
     setAlpha = async (alpha) => {
       try {
-        if (alpha < 1) alpha = 1;
-        else if (alpha > 255) alpha = 255;
+        alpha = clampAlpha(alpha);
 
         await ensureWinReady();
 
@@ -46,16 +60,16 @@ function activate(context) {
   } else if (process.platform === 'linux') {
   const cp = require('child_process');
 
-  // Verify xprop (X11). .
-  try {
-    cp.spawnSync('which', ['xprop'], { stdio: 'ignore' });
-  } catch {
-    setAlpha = () => window.showErrorMessage('xglass Error: xprop not found (X11 only).');
+  // Verify xprop (X11).
+  const xpropCheck = cp.spawnSync('which', ['xprop'], { stdio: 'ignore' });
+  const hasXprop = xpropCheck.status === 0;
+  if (!hasXprop) {
+    setAlpha = () => window.showErrorMessage('xglass Error: xprop not found (X11 only). Install x11-utils/xorg-x11-utils.');
   }
 
   // show if is wayland
   if (process.env.XDG_SESSION_TYPE === 'wayland') {
-    console.warn('xglass: Wayland session detected — not supported.');
+    console.warn('xglass: Wayland session detected - not supported.');
   }
 
   // obtain code window
@@ -90,10 +104,10 @@ function activate(context) {
     }
   };
 
+  if (hasXprop) {
   setAlpha = (alpha) => {
     try {
-      if (alpha < 1) alpha = 1;
-      else if (alpha > 255) alpha = 255;
+      alpha = clampAlpha(alpha);
 
       const ids = getCodeWindowIds();
       if (!ids.length) {
@@ -120,6 +134,7 @@ function activate(context) {
       window.showErrorMessage(`xglass Error (linux): ${err.message || err}`);
     }
   };
+  }
 }
 
 
@@ -127,16 +142,16 @@ function activate(context) {
 
   // ---- Commands (trigger activation) ----
   context.subscriptions.push(commands.registerCommand('xglass.enable', () => {
-    setAlpha(200); // activate and set alpha=200
+    setAlpha(200);
   }));
 
   context.subscriptions.push(commands.registerCommand('xglass.increase', () => {
-    const alpha = config().get('alpha') - config().get('step');
+    const alpha = clampAlpha(config().get('alpha')) - clampStep(config().get('step'));
     setAlpha(alpha);
   }));
 
   context.subscriptions.push(commands.registerCommand('xglass.decrease', () => {
-    const alpha = config().get('alpha') + config().get('step');
+    const alpha = clampAlpha(config().get('alpha')) + clampStep(config().get('step'));
     setAlpha(alpha);
   }));
 

@@ -1,10 +1,10 @@
 ## Phase 1 · Repository foundation (already done) <!-- phase:foundation -->
 
-- [ ] Consolidate monorepo structure with packages in `extensions/`, `themes/`, and `ui-mods/` (#5)
-- [ ] Publish root documentation: `README.md`, `CONTRIBUTING.md`, `SECURITY.md`, `CODE_OF_CONDUCT.md`, `SUPPORT.md`, `CHANGELOG.md` (#6)
-- [ ] Normalize package `README.md` files to GitHub-compatible HTML format (#7)
-- [ ] Define initial visual identity and previews in `assets/` and theme folders (#8)
-- [ ] Keep per-package licensing strategy (`MIT` for tooling and dedicated licenses for themes) (#9)
+- [/] Consolidate monorepo structure with packages in `extensions/`, `themes/`, and `ui-mods/` (#5)
+- [/] Publish root documentation: `README.md`, `CONTRIBUTING.md`, `SECURITY.md`, `CODE_OF_CONDUCT.md`, `SUPPORT.md`, `CHANGELOG.md` (#6)
+- [/] Normalize package `README.md` files to GitHub-compatible HTML format (#7)
+- [/] Define initial visual identity and previews in `assets/` and theme folders (#8)
+- [/] Keep per-package licensing strategy (`MIT` for tooling and dedicated licenses for themes) (#9)
 
 ## Phase 2 · Governance and automation <!-- phase:automation -->
 

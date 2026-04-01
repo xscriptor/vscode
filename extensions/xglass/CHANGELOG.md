@@ -3,6 +3,16 @@
 All important modifications to this VSCode theme collection will be documented in this file.
 
 ---
+## [1.1.0] - 2026-04-01
+### Added
+- Input clamping helpers for safer alpha and step handling
+
+### Fixed
+- Linux X11 dependency check now validates `xprop` availability correctly
+- Linux commands now show a clearer install hint when `xprop` is missing
+- Command behavior now normalizes invalid config values before applying opacity
+- Documentation now matches actual defaults (`Enable` uses alpha 200)
+
 ## [1.0.2]
 . Minimum update: documentation
 

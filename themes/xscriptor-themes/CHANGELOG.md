@@ -3,6 +3,26 @@
 All important modifications to this VSCode theme collection will be documented in this file.
 
 ---
+## [1.1.1] - 2026-04-02
+### Fixed
+- Tokio theme: Fixed tab bar background color to match tab panel color (#191919 instead of #0a0a0a)
+- Tokio & X themes: Refined tab styling with transparent borders and golden icon colors
+
+## [1.1.0] - 2026-04-01
+### Added
+- Enhanced visual hierarchy with bracket pair guides (6 nesting levels) using palette colors
+- Modern UI features: sticky scroll, inlay hints, terminal command decorations
+- Colorful border combinations using theme palette definitions for improved visual consistency
+
+### Changed
+- Improved contrast and readability across all themes
+- Enhanced terminal decorations with theme-specific color combinations
+- Updated bracket pair highlighting for better code navigation
+
+### Fixed
+- Corrected invisible borders to use palette-based colors
+- Improved UI consistency across all interface elements
+
 ## [1.0.8] - 2025-12-31
 - Update docs.
 - Update package.json.

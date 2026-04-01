@@ -1,8 +1,23 @@
-# Changelog — Xscriptor Themes
+# Changelog — X Dark Colors
 
 All important modifications to this VSCode theme collection will be documented in this file.
 
 ---
+## [1.2.0] - 2026-04-01
+### Added
+- Enhanced visual hierarchy with bracket pair guides and sticky scroll support
+- Colorful border combinations using palette-specific accent colors
+- Terminal command decorations with city-themed color palettes
+
+### Changed
+- Improved contrast and accessibility for all UI elements
+- Enhanced border styling using palette combinations instead of monochromatic colors
+- Updated inlay hints and panel styling for better code readability
+
+### Fixed
+- Corrected invisible borders in Milan and other themes using palette accent colors
+- Improved bracket pair highlighting with distinct colors per nesting level
+
 ## [1.1.0] - 2026-01-18
 ### Added
 - 8 new city-themed color palettes:

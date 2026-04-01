@@ -1,0 +1,2625 @@
+{
+  "fonts": [
+    {
+      "id": "xscriptor-product-icons-numbers",
+      "src": [
+        {
+          "path": "./fonts/xscriptor-product-icons.woff",
+          "format": "woff"
+        }
+      ],
+      "weight": "normal",
+      "style": "normal"
+    }
+  ],
+  "iconDefinitions": {
+    "account": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "activate-breakpoints": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "add": {
+      "fontCharacter": "8",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "add-small": {
+      "fontCharacter": "8",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "agent": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "alert": {
+      "fontCharacter": "7",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "archive": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "array": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "arrow-both": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "arrow-circle-down": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "arrow-circle-left": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "arrow-circle-right": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "arrow-circle-up": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "arrow-down": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "arrow-left": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "arrow-right": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "arrow-small-down": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "arrow-small-left": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "arrow-small-right": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "arrow-small-up": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "arrow-swap": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "arrow-up": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "ask": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "attach": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "azure": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "azure-devops": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "beaker": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "beaker-stop": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "bell": {
+      "fontCharacter": "2",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "bell-dot": {
+      "fontCharacter": "2",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "bell-slash": {
+      "fontCharacter": "2",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "bell-slash-dot": {
+      "fontCharacter": "2",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "blank": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "bold": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "book": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "bookmark": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "bracket": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "bracket-dot": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "bracket-error": {
+      "fontCharacter": "7",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "briefcase": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "broadcast": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "browser": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "bug": {
+      "fontCharacter": "7",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "build": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "calendar": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "call-incoming": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "call-outgoing": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "case-sensitive": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "chat-export": {
+      "fontCharacter": "8",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "chat-import": {
+      "fontCharacter": "8",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "chat-sparkle": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "chat-sparkle-error": {
+      "fontCharacter": "7",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "chat-sparkle-warning": {
+      "fontCharacter": "7",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "check": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "check-all": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "checklist": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "chevron-down": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "chevron-left": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "chevron-right": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "chevron-up": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "chip": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "chrome-close": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "chrome-maximize": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "chrome-minimize": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "chrome-restore": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "circle": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "circle-filled": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "circle-large": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "circle-large-filled": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "circle-large-outline": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "circle-outline": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "circle-slash": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "circle-small": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "circle-small-filled": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "circuit-board": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "claude": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "clear-all": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "clippy": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "clock": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "clockface": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "clone": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "close": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "close-all": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "close-dirty": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "cloud": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "cloud-download": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "cloud-small": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "cloud-upload": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "code": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "code-oss": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "code-review": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "coffee": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "collapse-all": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "collection": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "collection-small": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "color-mode": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "combine": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "comment": {
+      "fontCharacter": "3",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "comment-add": {
+      "fontCharacter": "8",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "comment-discussion": {
+      "fontCharacter": "3",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "comment-discussion-quote": {
+      "fontCharacter": "3",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "comment-discussion-sparkle": {
+      "fontCharacter": "3",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "comment-draft": {
+      "fontCharacter": "3",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "comment-unresolved": {
+      "fontCharacter": "3",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "compare-changes": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "compass": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "compass-active": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "compass-dot": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "console": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "copilot": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "copilot-blocked": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "copilot-error": {
+      "fontCharacter": "7",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "copilot-in-progress": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "copilot-large": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "copilot-not-connected": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "copilot-snooze": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "copilot-success": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "copilot-unavailable": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "copilot-warning": {
+      "fontCharacter": "7",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "copilot-warning-large": {
+      "fontCharacter": "7",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "copy": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "coverage": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "credit-card": {
+      "fontCharacter": "4",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "cursor": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "dash": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "dashboard": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "database": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-all": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-alt": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-alt-small": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-breakpoint": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-breakpoint-conditional": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-breakpoint-conditional-disabled": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-breakpoint-conditional-unverified": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-breakpoint-data": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-breakpoint-data-disabled": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-breakpoint-data-unverified": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-breakpoint-disabled": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-breakpoint-function": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-breakpoint-function-disabled": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-breakpoint-function-unverified": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-breakpoint-log": {
+      "fontCharacter": "7",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-breakpoint-log-disabled": {
+      "fontCharacter": "7",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-breakpoint-log-unverified": {
+      "fontCharacter": "7",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-breakpoint-unsupported": {
+      "fontCharacter": "8",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-breakpoint-unverified": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-connected": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-console": {
+      "fontCharacter": "8",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-continue": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-continue-small": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-coverage": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-disconnect": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-hint": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-line-by-line": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-pause": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-rerun": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-restart": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-restart-frame": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-reverse-continue": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-stackframe": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-stackframe-active": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-stackframe-dot": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-stackframe-focused": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-start": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-step-back": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-step-into": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-step-out": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-step-over": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "debug-stop": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "desktop-download": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "device-camera": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "device-camera-video": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "device-desktop": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "device-mobile": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "diff": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "diff-added": {
+      "fontCharacter": "8",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "diff-ignored": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "diff-modified": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "diff-multiple": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "diff-removed": {
+      "fontCharacter": "9",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "diff-renamed": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "diff-sidebyside": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "diff-single": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "discard": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "download": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "edit": {
+      "fontCharacter": "4",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "edit-code": {
+      "fontCharacter": "4",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "edit-session": {
+      "fontCharacter": "4",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "edit-sparkle": {
+      "fontCharacter": "4",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "editor-layout": {
+      "fontCharacter": "4",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "ellipsis": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "empty-window": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "eraser": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "error": {
+      "fontCharacter": "7",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "error-small": {
+      "fontCharacter": "7",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "exclude": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "expand-all": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "export": {
+      "fontCharacter": "8",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "extensions": {
+      "fontCharacter": "9",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "extensions-large": {
+      "fontCharacter": "9",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "eye": {
+      "fontCharacter": "3",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "eye-closed": {
+      "fontCharacter": "3",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "eye-unwatch": {
+      "fontCharacter": "3",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "eye-watch": {
+      "fontCharacter": "3",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "feedback": {
+      "fontCharacter": "3",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "file": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "file-add": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "file-binary": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "file-code": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "file-directory": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "file-directory-create": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "file-media": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "file-pdf": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "file-submodule": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "file-symlink-directory": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "file-symlink-file": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "file-text": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "file-zip": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "files": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "filter": {
+      "fontCharacter": "2",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "filter-filled": {
+      "fontCharacter": "2",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "flag": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "flame": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "fold": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "fold-down": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "fold-horizontal": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "fold-horizontal-filled": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "fold-up": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "fold-vertical": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "fold-vertical-filled": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "folder": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "folder-active": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "folder-library": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "folder-opened": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "forward": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "game": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "gather": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "gear": {
+      "fontCharacter": "4",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "gift": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "gist": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "gist-fork": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "gist-new": {
+      "fontCharacter": "8",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "gist-private": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "gist-secret": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "git-branch": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "git-branch-changes": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "git-branch-conflicts": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "git-branch-create": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "git-branch-delete": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "git-branch-staged-changes": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "git-commit": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "git-compare": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "git-fork-private": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "git-merge": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "git-pull-request": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "git-pull-request-abandoned": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "git-pull-request-assignee": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "git-pull-request-closed": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "git-pull-request-create": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "git-pull-request-done": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "git-pull-request-draft": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "git-pull-request-go-to-changes": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "git-pull-request-label": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "git-pull-request-milestone": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "git-pull-request-new-changes": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "git-pull-request-reviewer": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "git-stash": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "git-stash-apply": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "git-stash-pop": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "github": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "github-action": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "github-alt": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "github-inverted": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "github-project": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "globe": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "go-to-editing-session": {
+      "fontCharacter": "4",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "go-to-file": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "go-to-search": {
+      "fontCharacter": "2",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "grabber": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "graph": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "graph-left": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "graph-line": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "graph-scatter": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "gripper": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "group-by-ref-type": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "heart": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "heart-filled": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "history": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "home": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "horizontal-rule": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "hubot": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "inbox": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "indent": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "index-zero": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "info": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "insert": {
+      "fontCharacter": "8",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "inspect": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "issue-closed": {
+      "fontCharacter": "7",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "issue-draft": {
+      "fontCharacter": "7",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "issue-opened": {
+      "fontCharacter": "7",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "issue-reopened": {
+      "fontCharacter": "7",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "issues": {
+      "fontCharacter": "7",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "italic": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "jersey": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "json": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "kebab-horizontal": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "kebab-vertical": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "key": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "keyboard": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "keyboard-tab": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "keyboard-tab-above": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "keyboard-tab-below": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "law": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "layers": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "layers-active": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "layers-dot": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "layout": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "layout-activitybar-left": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "layout-activitybar-right": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "layout-centered": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "layout-menubar": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "layout-panel": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "layout-panel-center": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "layout-panel-dock": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "layout-panel-justify": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "layout-panel-left": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "layout-panel-off": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "layout-panel-right": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "layout-sidebar-left": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "layout-sidebar-left-dock": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "layout-sidebar-left-off": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "layout-sidebar-right": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "layout-sidebar-right-dock": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "layout-sidebar-right-off": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "layout-statusbar": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "library": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "light-bulb": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "lightbulb": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "lightbulb-autofix": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "lightbulb-empty": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "lightbulb-sparkle": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "link": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "link-external": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "list-filter": {
+      "fontCharacter": "2",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "list-flat": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "list-ordered": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "list-selection": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "list-tree": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "list-unordered": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "live-share": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "loading": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "location": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "lock": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "lock-small": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "log-in": {
+      "fontCharacter": "7",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "log-out": {
+      "fontCharacter": "7",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "logo-github": {
+      "fontCharacter": "7",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "magnet": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "mail": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "mail-read": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "mail-reply": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "map": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "map-filled": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "map-horizontal": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "map-horizontal-filled": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "map-vertical": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "map-vertical-filled": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "mark-github": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "markdown": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "mcp": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "megaphone": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "mention": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "menu": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "merge": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "merge-into": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "mic": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "mic-filled": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "microscope": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "milestone": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "mirror": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "mirror-private": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "mirror-public": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "more": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "mortar-board": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "move": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "multiple-windows": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "music": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "mute": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "new-collection": {
+      "fontCharacter": "8",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "new-file": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "new-folder": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "new-session": {
+      "fontCharacter": "8",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "newline": {
+      "fontCharacter": "8",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "no-newline": {
+      "fontCharacter": "8",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "note": {
+      "fontCharacter": "3",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "notebook": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "notebook-template": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "octoface": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "open-in-product": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "open-in-window": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "open-preview": {
+      "fontCharacter": "3",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "openai": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "organization": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "organization-filled": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "organization-outline": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "output": {
+      "fontCharacter": "7",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "package": {
+      "fontCharacter": "9",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "paintcan": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "pass": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "pass-filled": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "pencil": {
+      "fontCharacter": "4",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "percentage": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "person": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "person-add": {
+      "fontCharacter": "8",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "person-filled": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "person-follow": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "person-outline": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "piano": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "pie-chart": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "pin": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "pinned": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "pinned-dirty": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "play": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "play-circle": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "plug": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "plus": {
+      "fontCharacter": "8",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "ports-view-icon": {
+      "fontCharacter": "8",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "preserve-case": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "preview": {
+      "fontCharacter": "3",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "primitive-dot": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "primitive-square": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "project": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "pulse": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "python": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "question": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "quote": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "quotes": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "radio-tower": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "reactions": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "record": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "record-keys": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "record-small": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "redo": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "references": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "refresh": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "regex": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "remote": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "remote-explorer": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "remove": {
+      "fontCharacter": "9",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "remove-close": {
+      "fontCharacter": "9",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "remove-small": {
+      "fontCharacter": "9",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "rename": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "repl": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "replace": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "replace-all": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "reply": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "repo": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "repo-clone": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "repo-create": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "repo-delete": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "repo-fetch": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "repo-force-push": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "repo-forked": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "repo-pinned": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "repo-pull": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "repo-push": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "repo-selected": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "repo-sync": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "report": {
+      "fontCharacter": "8",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "request-changes": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "robot": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "rocket": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "root-folder": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "root-folder-opened": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "rss": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "ruby": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "run": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "run-above": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "run-all": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "run-all-coverage": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "run-below": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "run-coverage": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "run-errors": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "run-with-deps": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "save": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "save-all": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "save-as": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "screen-cut": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "screen-full": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "screen-normal": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "search": {
+      "fontCharacter": "2",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "search-fuzzy": {
+      "fontCharacter": "2",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "search-large": {
+      "fontCharacter": "2",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "search-save": {
+      "fontCharacter": "2",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "search-sparkle": {
+      "fontCharacter": "2",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "search-stop": {
+      "fontCharacter": "2",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "search-view-icon": {
+      "fontCharacter": "3",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "selection": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "send": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "send-to-remote-agent": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "server": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "server-environment": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "server-process": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "session-in-progress": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "settings": {
+      "fontCharacter": "4",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "settings-gear": {
+      "fontCharacter": "4",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "share": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "shield": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "sign-in": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "sign-out": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "skip": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "smiley": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "snake": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "sort-percentage": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "sort-precedence": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "source-control": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "sparkle": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "sparkle-filled": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "split-horizontal": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "split-vertical": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "squirrel": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "star": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "star-add": {
+      "fontCharacter": "8",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "star-delete": {
+      "fontCharacter": "9",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "star-empty": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "star-full": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "star-half": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "stop": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "stop-circle": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "strikethrough": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "surround-with": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-array": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-boolean": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-class": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-color": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-constant": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-constructor": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-enum": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-enum-member": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-event": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-field": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-file": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-folder": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-function": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-interface": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-key": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-keyword": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-method": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-method-arrow": {
+      "fontCharacter": "5",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-misc": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-module": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-namespace": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-null": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-number": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-numeric": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-object": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-operator": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-package": {
+      "fontCharacter": "9",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-parameter": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-property": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-reference": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-ruler": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-snippet": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-string": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-struct": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-structure": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-text": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-type-parameter": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-unit": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-value": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "symbol-variable": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "sync": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "sync-ignored": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "table": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "tag": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "tag-add": {
+      "fontCharacter": "8",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "tag-remove": {
+      "fontCharacter": "9",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "target": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "tasklist": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "telescope": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "terminal": {
+      "fontCharacter": "X",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "terminal-bash": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "terminal-cmd": {
+      "fontCharacter": "3",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "terminal-debian": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "terminal-decoration-error": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "terminal-decoration-incomplete": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "terminal-decoration-mark": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "terminal-decoration-success": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "terminal-git-bash": {
+      "fontCharacter": "1",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "terminal-linux": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "terminal-powershell": {
+      "fontCharacter": "2",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "terminal-secure": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "terminal-tmux": {
+      "fontCharacter": "4",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "terminal-ubuntu": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "text-size": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "thinking": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "three-bars": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "thumbsdown": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "thumbsdown-filled": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "thumbsup": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "thumbsup-filled": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "tools": {
+      "fontCharacter": "4",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "trash": {
+      "fontCharacter": "9",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "trashcan": {
+      "fontCharacter": "9",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "triangle-down": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "triangle-left": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "triangle-right": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "triangle-up": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "twitter": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "type-hierarchy": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "type-hierarchy-sub": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "type-hierarchy-super": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "unarchive": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "unfold": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "ungroup-by-ref-type": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "unlock": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "unmute": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "unverified": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "variable": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "variable-group": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "verified": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "verified-filled": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "versions": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "vm": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "vm-active": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "vm-connect": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "vm-outline": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "vm-running": {
+      "fontCharacter": "6",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "vm-small": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "vr": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "vscode": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "vscode-insiders": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "wand": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "warning": {
+      "fontCharacter": "7",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "watch": {
+      "fontCharacter": "3",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "whitespace": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "whole-word": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "window": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "window-active": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "word-wrap": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "workspace-trusted": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "workspace-unknown": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "workspace-untrusted": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "worktree": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "worktree-small": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "wrench": {
+      "fontCharacter": "4",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "wrench-subaction": {
+      "fontCharacter": "4",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "x": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "zap": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "zoom-in": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    },
+    "zoom-out": {
+      "fontCharacter": "0",
+      "fontId": "xscriptor-product-icons-numbers"
+    }
+  }
+}

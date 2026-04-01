@@ -54,7 +54,35 @@
 </ol>
 
 <pre><code>{
-  "workbench.iconTheme": "xscriptor-icons"
+  "workbench.iconTheme": "x-icons"
+}
+</code></pre>
+
+<h3>Enable Product Icon Theme</h3>
+<ol>
+  <li>Open Command Palette (<code>Ctrl+Shift+P</code> or <code>Cmd+Shift+P</code>).</li>
+  <li>Run <code>Preferences: Product Icon Theme</code>.</li>
+  <li>Select one variant:</li>
+</ol>
+
+<ul>
+  <li><code>Xscriptor Product Icons</code> (glyph variant)</li>
+  <li><code>Xscriptor Product Icons Text (1 Letter)</code></li>
+  <li><code>Xscriptor Product Icons Numbers</code></li>
+</ul>
+
+<pre><code>{
+  "workbench.productIconTheme": "xscriptor-product-icons"
+}
+</code></pre>
+
+<pre><code>{
+  "workbench.productIconTheme": "xscriptor-product-icons-text"
+}
+</code></pre>
+
+<pre><code>{
+  "workbench.productIconTheme": "xscriptor-product-icons-numbers"
 }
 </code></pre>
 
@@ -66,7 +94,7 @@
 </ol>
 
 <p>Terminal install (VSIX):</p>
-<pre><code>code --install-extension xscriptor-themes-1.0.8.vsix</code></pre>
+<pre><code>code --install-extension xscriptor-themes-1.1.0.vsix</code></pre>
 
 <h2>References</h2>
 <ul>
