@@ -1,4 +1,4 @@
-import iconNames from './preview-icons.json' assert { type: 'json' };
+import iconNames from './preview-icons.json' with { type: 'json' };
 
 (() => {
   const variant = document.body.dataset.previewVariant || 'x-min';
@@ -8,7 +8,7 @@ import iconNames from './preview-icons.json' assert { type: 'json' };
       heading: 'x Product Icons',
       description: 'Compact preview rendered from shared SVG metadata.'
     },
-    x: {
+    'x': {
       svgFolder: './svg-x',
       heading: 'x Product Icons',
       description: 'Shared preview rendered from the larger badge variant.'
@@ -33,11 +33,14 @@ import iconNames from './preview-icons.json' assert { type: 'json' };
   }
 
   grid.innerHTML = iconNames
-    .map((name) => `
+    .map((name) => {
+      const iconFile = name.endsWith('.svg') ? name : `${name}.svg`;
+      return `
       <div class="card">
-        <img src="${config.svgFolder}/${name}.svg" alt="${name}" loading="lazy" />
+        <img src="${config.svgFolder}/${iconFile}" alt="${name}" loading="lazy" />
         <span>${name}</span>
       </div>
-    `)
+    `;
+    })
     .join('');
 })();
