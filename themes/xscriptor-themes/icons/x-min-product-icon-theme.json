@@ -1,0 +1,2602 @@
+{
+  "fonts": [
+    {
+      "id": "x-min",
+      "src": [
+        {
+          "path": "./product icons/fonts/x-min.woff",
+          "format": "woff"
+        }
+      ],
+      "weight": "normal",
+      "style": "normal",
+      "size": "100%"
+    }
+  ],
+  "iconDefinitions": {
+    "add": {
+      "fontCharacter": "\\f31a",
+      "fontId": "x-min"
+    },
+    "plus": {
+      "fontCharacter": "\\f31a",
+      "fontId": "x-min"
+    },
+    "gist-new": {
+      "fontCharacter": "\\f31a",
+      "fontId": "x-min"
+    },
+    "repo-create": {
+      "fontCharacter": "\\f31a",
+      "fontId": "x-min"
+    },
+    "lightbulb": {
+      "fontCharacter": "\\f1fb",
+      "fontId": "x-min"
+    },
+    "light-bulb": {
+      "fontCharacter": "\\f1fb",
+      "fontId": "x-min"
+    },
+    "repo": {
+      "fontCharacter": "\\f195",
+      "fontId": "x-min"
+    },
+    "repo-delete": {
+      "fontCharacter": "\\f195",
+      "fontId": "x-min"
+    },
+    "gist-fork": {
+      "fontCharacter": "\\f19a",
+      "fontId": "x-min"
+    },
+    "repo-forked": {
+      "fontCharacter": "\\f19a",
+      "fontId": "x-min"
+    },
+    "git-pull-request": {
+      "fontCharacter": "\\f241",
+      "fontId": "x-min"
+    },
+    "git-pull-request-abandoned": {
+      "fontCharacter": "\\f241",
+      "fontId": "x-min"
+    },
+    "record-keys": {
+      "fontCharacter": "\\f1ac",
+      "fontId": "x-min"
+    },
+    "keyboard": {
+      "fontCharacter": "\\f1ac",
+      "fontId": "x-min"
+    },
+    "tag": {
+      "fontCharacter": "\\f141",
+      "fontId": "x-min"
+    },
+    "git-pull-request-label": {
+      "fontCharacter": "\\f141",
+      "fontId": "x-min"
+    },
+    "tag-add": {
+      "fontCharacter": "\\f141",
+      "fontId": "x-min"
+    },
+    "tag-remove": {
+      "fontCharacter": "\\f141",
+      "fontId": "x-min"
+    },
+    "person": {
+      "fontCharacter": "\\f1c0",
+      "fontId": "x-min"
+    },
+    "person-follow": {
+      "fontCharacter": "\\f1c0",
+      "fontId": "x-min"
+    },
+    "person-outline": {
+      "fontCharacter": "\\f1c0",
+      "fontId": "x-min"
+    },
+    "person-filled": {
+      "fontCharacter": "\\f1c0",
+      "fontId": "x-min"
+    },
+    "source-control": {
+      "fontCharacter": "\\f16a",
+      "fontId": "x-min"
+    },
+    "mirror": {
+      "fontCharacter": "\\f1dc",
+      "fontId": "x-min"
+    },
+    "mirror-public": {
+      "fontCharacter": "\\f1dc",
+      "fontId": "x-min"
+    },
+    "star": {
+      "fontCharacter": "\\f164",
+      "fontId": "x-min"
+    },
+    "star-add": {
+      "fontCharacter": "\\f164",
+      "fontId": "x-min"
+    },
+    "star-delete": {
+      "fontCharacter": "\\f164",
+      "fontId": "x-min"
+    },
+    "star-empty": {
+      "fontCharacter": "\\f164",
+      "fontId": "x-min"
+    },
+    "comment": {
+      "fontCharacter": "\\f2c2",
+      "fontId": "x-min"
+    },
+    "comment-add": {
+      "fontCharacter": "\\f2c2",
+      "fontId": "x-min"
+    },
+    "alert": {
+      "fontCharacter": "\\f10e",
+      "fontId": "x-min"
+    },
+    "warning": {
+      "fontCharacter": "\\f10e",
+      "fontId": "x-min"
+    },
+    "search": {
+      "fontCharacter": "\\f17b",
+      "fontId": "x-min"
+    },
+    "search-save": {
+      "fontCharacter": "\\f17b",
+      "fontId": "x-min"
+    },
+    "log-out": {
+      "fontCharacter": "\\f16f",
+      "fontId": "x-min"
+    },
+    "sign-out": {
+      "fontCharacter": "\\f16f",
+      "fontId": "x-min"
+    },
+    "log-in": {
+      "fontCharacter": "\\f170",
+      "fontId": "x-min"
+    },
+    "sign-in": {
+      "fontCharacter": "\\f170",
+      "fontId": "x-min"
+    },
+    "eye": {
+      "fontCharacter": "\\f26d",
+      "fontId": "x-min"
+    },
+    "eye-unwatch": {
+      "fontCharacter": "\\f26d",
+      "fontId": "x-min"
+    },
+    "eye-watch": {
+      "fontCharacter": "\\f26d",
+      "fontId": "x-min"
+    },
+    "circle-filled": {
+      "fontCharacter": "\\f2e2",
+      "fontId": "x-min"
+    },
+    "primitive-dot": {
+      "fontCharacter": "\\f2e2",
+      "fontId": "x-min"
+    },
+    "close-dirty": {
+      "fontCharacter": "\\f2e2",
+      "fontId": "x-min"
+    },
+    "debug-breakpoint": {
+      "fontCharacter": "\\f2e2",
+      "fontId": "x-min"
+    },
+    "debug-breakpoint-disabled": {
+      "fontCharacter": "\\f2e2",
+      "fontId": "x-min"
+    },
+    "debug-hint": {
+      "fontCharacter": "\\f2e2",
+      "fontId": "x-min"
+    },
+    "terminal-decoration-success": {
+      "fontCharacter": "\\f2e2",
+      "fontId": "x-min"
+    },
+    "primitive-square": {
+      "fontCharacter": "\\f1b5",
+      "fontId": "x-min"
+    },
+    "edit": {
+      "fontCharacter": "\\f27a",
+      "fontId": "x-min"
+    },
+    "pencil": {
+      "fontCharacter": "\\f27a",
+      "fontId": "x-min"
+    },
+    "info": {
+      "fontCharacter": "\\f224",
+      "fontId": "x-min"
+    },
+    "issue-opened": {
+      "fontCharacter": "\\f224",
+      "fontId": "x-min"
+    },
+    "gist-private": {
+      "fontCharacter": "\\f1ee",
+      "fontId": "x-min"
+    },
+    "git-fork-private": {
+      "fontCharacter": "\\f1ee",
+      "fontId": "x-min"
+    },
+    "lock": {
+      "fontCharacter": "\\f1ee",
+      "fontId": "x-min"
+    },
+    "mirror-private": {
+      "fontCharacter": "\\f1ee",
+      "fontId": "x-min"
+    },
+    "close": {
+      "fontCharacter": "\\f2d5",
+      "fontId": "x-min"
+    },
+    "remove-close": {
+      "fontCharacter": "\\f2d5",
+      "fontId": "x-min"
+    },
+    "x": {
+      "fontCharacter": "\\f2d5",
+      "fontId": "x-min"
+    },
+    "repo-sync": {
+      "fontCharacter": "\\f143",
+      "fontId": "x-min"
+    },
+    "sync": {
+      "fontCharacter": "\\f143",
+      "fontId": "x-min"
+    },
+    "clone": {
+      "fontCharacter": "\\f28b",
+      "fontId": "x-min"
+    },
+    "desktop-download": {
+      "fontCharacter": "\\f28b",
+      "fontId": "x-min"
+    },
+    "beaker": {
+      "fontCharacter": "\\f304",
+      "fontId": "x-min"
+    },
+    "microscope": {
+      "fontCharacter": "\\f304",
+      "fontId": "x-min"
+    },
+    "vm": {
+      "fontCharacter": "\\f113",
+      "fontId": "x-min"
+    },
+    "device-desktop": {
+      "fontCharacter": "\\f113",
+      "fontId": "x-min"
+    },
+    "file": {
+      "fontCharacter": "\\f262",
+      "fontId": "x-min"
+    },
+    "more": {
+      "fontCharacter": "\\f278",
+      "fontId": "x-min"
+    },
+    "ellipsis": {
+      "fontCharacter": "\\f278",
+      "fontId": "x-min"
+    },
+    "kebab-horizontal": {
+      "fontCharacter": "\\f278",
+      "fontId": "x-min"
+    },
+    "mail-reply": {
+      "fontCharacter": "\\f19e",
+      "fontId": "x-min"
+    },
+    "reply": {
+      "fontCharacter": "\\f19e",
+      "fontId": "x-min"
+    },
+    "organization": {
+      "fontCharacter": "\\f1c8",
+      "fontId": "x-min"
+    },
+    "organization-filled": {
+      "fontCharacter": "\\f1c8",
+      "fontId": "x-min"
+    },
+    "organization-outline": {
+      "fontCharacter": "\\f1c8",
+      "fontId": "x-min"
+    },
+    "new-file": {
+      "fontCharacter": "\\f1d5",
+      "fontId": "x-min"
+    },
+    "file-add": {
+      "fontCharacter": "\\f1d5",
+      "fontId": "x-min"
+    },
+    "new-folder": {
+      "fontCharacter": "\\f1d4",
+      "fontId": "x-min"
+    },
+    "file-directory-create": {
+      "fontCharacter": "\\f1d4",
+      "fontId": "x-min"
+    },
+    "trash": {
+      "fontCharacter": "\\f12c",
+      "fontId": "x-min"
+    },
+    "trashcan": {
+      "fontCharacter": "\\f12c",
+      "fontId": "x-min"
+    },
+    "history": {
+      "fontCharacter": "\\f22b",
+      "fontId": "x-min"
+    },
+    "clock": {
+      "fontCharacter": "\\f22b",
+      "fontId": "x-min"
+    },
+    "folder": {
+      "fontCharacter": "\\f256",
+      "fontId": "x-min"
+    },
+    "file-directory": {
+      "fontCharacter": "\\f256",
+      "fontId": "x-min"
+    },
+    "symbol-folder": {
+      "fontCharacter": "\\f256",
+      "fontId": "x-min"
+    },
+    "logo-github": {
+      "fontCharacter": "\\f239",
+      "fontId": "x-min"
+    },
+    "mark-github": {
+      "fontCharacter": "\\f239",
+      "fontId": "x-min"
+    },
+    "github": {
+      "fontCharacter": "\\f239",
+      "fontId": "x-min"
+    },
+    "terminal": {
+      "fontCharacter": "\\f135",
+      "fontId": "x-min"
+    },
+    "console": {
+      "fontCharacter": "\\f135",
+      "fontId": "x-min"
+    },
+    "repl": {
+      "fontCharacter": "\\f135",
+      "fontId": "x-min"
+    },
+    "zap": {
+      "fontCharacter": "\\f157",
+      "fontId": "x-min"
+    },
+    "symbol-event": {
+      "fontCharacter": "\\f157",
+      "fontId": "x-min"
+    },
+    "error": {
+      "fontCharacter": "\\f274",
+      "fontId": "x-min"
+    },
+    "stop": {
+      "fontCharacter": "\\f274",
+      "fontId": "x-min"
+    },
+    "variable": {
+      "fontCharacter": "\\f145",
+      "fontId": "x-min"
+    },
+    "symbol-variable": {
+      "fontCharacter": "\\f145",
+      "fontId": "x-min"
+    },
+    "array": {
+      "fontCharacter": "\\f15e",
+      "fontId": "x-min"
+    },
+    "symbol-array": {
+      "fontCharacter": "\\f15e",
+      "fontId": "x-min"
+    },
+    "symbol-module": {
+      "fontCharacter": "\\f14e",
+      "fontId": "x-min"
+    },
+    "symbol-package": {
+      "fontCharacter": "\\f14e",
+      "fontId": "x-min"
+    },
+    "symbol-namespace": {
+      "fontCharacter": "\\f14e",
+      "fontId": "x-min"
+    },
+    "symbol-object": {
+      "fontCharacter": "\\f14e",
+      "fontId": "x-min"
+    },
+    "symbol-method": {
+      "fontCharacter": "\\f150",
+      "fontId": "x-min"
+    },
+    "symbol-function": {
+      "fontCharacter": "\\f150",
+      "fontId": "x-min"
+    },
+    "symbol-constructor": {
+      "fontCharacter": "\\f150",
+      "fontId": "x-min"
+    },
+    "symbol-boolean": {
+      "fontCharacter": "\\f15d",
+      "fontId": "x-min"
+    },
+    "symbol-null": {
+      "fontCharacter": "\\f15d",
+      "fontId": "x-min"
+    },
+    "symbol-numeric": {
+      "fontCharacter": "\\f14d",
+      "fontId": "x-min"
+    },
+    "symbol-number": {
+      "fontCharacter": "\\f14d",
+      "fontId": "x-min"
+    },
+    "symbol-structure": {
+      "fontCharacter": "\\f146",
+      "fontId": "x-min"
+    },
+    "symbol-struct": {
+      "fontCharacter": "\\f146",
+      "fontId": "x-min"
+    },
+    "symbol-parameter": {
+      "fontCharacter": "\\f14b",
+      "fontId": "x-min"
+    },
+    "symbol-type-parameter": {
+      "fontCharacter": "\\f14b",
+      "fontId": "x-min"
+    },
+    "symbol-key": {
+      "fontCharacter": "\\f153",
+      "fontId": "x-min"
+    },
+    "symbol-text": {
+      "fontCharacter": "\\f153",
+      "fontId": "x-min"
+    },
+    "symbol-reference": {
+      "fontCharacter": "\\f236",
+      "fontId": "x-min"
+    },
+    "go-to-file": {
+      "fontCharacter": "\\f236",
+      "fontId": "x-min"
+    },
+    "symbol-enum": {
+      "fontCharacter": "\\f158",
+      "fontId": "x-min"
+    },
+    "symbol-value": {
+      "fontCharacter": "\\f158",
+      "fontId": "x-min"
+    },
+    "symbol-ruler": {
+      "fontCharacter": "\\f149",
+      "fontId": "x-min"
+    },
+    "symbol-unit": {
+      "fontCharacter": "\\f149",
+      "fontId": "x-min"
+    },
+    "activate-breakpoints": {
+      "fontCharacter": "\\f31c",
+      "fontId": "x-min"
+    },
+    "archive": {
+      "fontCharacter": "\\f318",
+      "fontId": "x-min"
+    },
+    "arrow-both": {
+      "fontCharacter": "\\f317",
+      "fontId": "x-min"
+    },
+    "arrow-down": {
+      "fontCharacter": "\\f312",
+      "fontId": "x-min"
+    },
+    "arrow-left": {
+      "fontCharacter": "\\f311",
+      "fontId": "x-min"
+    },
+    "arrow-right": {
+      "fontCharacter": "\\f310",
+      "fontId": "x-min"
+    },
+    "arrow-small-down": {
+      "fontCharacter": "\\f30f",
+      "fontId": "x-min"
+    },
+    "arrow-small-left": {
+      "fontCharacter": "\\f30e",
+      "fontId": "x-min"
+    },
+    "arrow-small-right": {
+      "fontCharacter": "\\f30d",
+      "fontId": "x-min"
+    },
+    "arrow-small-up": {
+      "fontCharacter": "\\f30c",
+      "fontId": "x-min"
+    },
+    "arrow-up": {
+      "fontCharacter": "\\f30a",
+      "fontId": "x-min"
+    },
+    "bell": {
+      "fontCharacter": "\\f300",
+      "fontId": "x-min"
+    },
+    "bold": {
+      "fontCharacter": "\\f2ff",
+      "fontId": "x-min"
+    },
+    "book": {
+      "fontCharacter": "\\f2fe",
+      "fontId": "x-min"
+    },
+    "bookmark": {
+      "fontCharacter": "\\f2fd",
+      "fontId": "x-min"
+    },
+    "debug-breakpoint-conditional-unverified": {
+      "fontCharacter": "\\f2a9",
+      "fontId": "x-min"
+    },
+    "debug-breakpoint-conditional": {
+      "fontCharacter": "\\f2a8",
+      "fontId": "x-min"
+    },
+    "debug-breakpoint-conditional-disabled": {
+      "fontCharacter": "\\f2a8",
+      "fontId": "x-min"
+    },
+    "debug-breakpoint-data-unverified": {
+      "fontCharacter": "\\f2a7",
+      "fontId": "x-min"
+    },
+    "debug-breakpoint-data": {
+      "fontCharacter": "\\f2a6",
+      "fontId": "x-min"
+    },
+    "debug-breakpoint-data-disabled": {
+      "fontCharacter": "\\f2a6",
+      "fontId": "x-min"
+    },
+    "debug-breakpoint-log-unverified": {
+      "fontCharacter": "\\f2a3",
+      "fontId": "x-min"
+    },
+    "debug-breakpoint-log": {
+      "fontCharacter": "\\f2a2",
+      "fontId": "x-min"
+    },
+    "debug-breakpoint-log-disabled": {
+      "fontCharacter": "\\f2a2",
+      "fontId": "x-min"
+    },
+    "briefcase": {
+      "fontCharacter": "\\f2fa",
+      "fontId": "x-min"
+    },
+    "broadcast": {
+      "fontCharacter": "\\f2f9",
+      "fontId": "x-min"
+    },
+    "browser": {
+      "fontCharacter": "\\f2f8",
+      "fontId": "x-min"
+    },
+    "bug": {
+      "fontCharacter": "\\f2f7",
+      "fontId": "x-min"
+    },
+    "calendar": {
+      "fontCharacter": "\\f2f5",
+      "fontId": "x-min"
+    },
+    "case-sensitive": {
+      "fontCharacter": "\\f2f2",
+      "fontId": "x-min"
+    },
+    "check": {
+      "fontCharacter": "\\f2ed",
+      "fontId": "x-min"
+    },
+    "checklist": {
+      "fontCharacter": "\\f2ec",
+      "fontId": "x-min"
+    },
+    "chevron-down": {
+      "fontCharacter": "\\f2eb",
+      "fontId": "x-min"
+    },
+    "chevron-left": {
+      "fontCharacter": "\\f2ea",
+      "fontId": "x-min"
+    },
+    "chevron-right": {
+      "fontCharacter": "\\f2e9",
+      "fontId": "x-min"
+    },
+    "chevron-up": {
+      "fontCharacter": "\\f2e8",
+      "fontId": "x-min"
+    },
+    "chrome-close": {
+      "fontCharacter": "\\f2e6",
+      "fontId": "x-min"
+    },
+    "chrome-maximize": {
+      "fontCharacter": "\\f2e5",
+      "fontId": "x-min"
+    },
+    "chrome-minimize": {
+      "fontCharacter": "\\f2e4",
+      "fontId": "x-min"
+    },
+    "chrome-restore": {
+      "fontCharacter": "\\f2e3",
+      "fontId": "x-min"
+    },
+    "circle-outline": {
+      "fontCharacter": "\\f2dc",
+      "fontId": "x-min"
+    },
+    "circle": {
+      "fontCharacter": "\\f2dc",
+      "fontId": "x-min"
+    },
+    "debug-breakpoint-unverified": {
+      "fontCharacter": "\\f2dc",
+      "fontId": "x-min"
+    },
+    "terminal-decoration-incomplete": {
+      "fontCharacter": "\\f2dc",
+      "fontId": "x-min"
+    },
+    "circle-slash": {
+      "fontCharacter": "\\f2df",
+      "fontId": "x-min"
+    },
+    "circuit-board": {
+      "fontCharacter": "\\f2db",
+      "fontId": "x-min"
+    },
+    "clear-all": {
+      "fontCharacter": "\\f2d9",
+      "fontId": "x-min"
+    },
+    "clippy": {
+      "fontCharacter": "\\f2d8",
+      "fontId": "x-min"
+    },
+    "close-all": {
+      "fontCharacter": "\\f2d6",
+      "fontId": "x-min"
+    },
+    "cloud-download": {
+      "fontCharacter": "\\f2d4",
+      "fontId": "x-min"
+    },
+    "cloud-upload": {
+      "fontCharacter": "\\f2d2",
+      "fontId": "x-min"
+    },
+    "code": {
+      "fontCharacter": "\\f2ce",
+      "fontId": "x-min"
+    },
+    "collapse-all": {
+      "fontCharacter": "\\f2cc",
+      "fontId": "x-min"
+    },
+    "color-mode": {
+      "fontCharacter": "\\f2c9",
+      "fontId": "x-min"
+    },
+    "comment-discussion": {
+      "fontCharacter": "\\f2c5",
+      "fontId": "x-min"
+    },
+    "credit-card": {
+      "fontCharacter": "\\f2b1",
+      "fontId": "x-min"
+    },
+    "dash": {
+      "fontCharacter": "\\f2af",
+      "fontId": "x-min"
+    },
+    "dashboard": {
+      "fontCharacter": "\\f2ae",
+      "fontId": "x-min"
+    },
+    "database": {
+      "fontCharacter": "\\f2ad",
+      "fontId": "x-min"
+    },
+    "debug-continue": {
+      "fontCharacter": "\\f29d",
+      "fontId": "x-min"
+    },
+    "debug-disconnect": {
+      "fontCharacter": "\\f29b",
+      "fontId": "x-min"
+    },
+    "debug-pause": {
+      "fontCharacter": "\\f299",
+      "fontId": "x-min"
+    },
+    "debug-restart": {
+      "fontCharacter": "\\f296",
+      "fontId": "x-min"
+    },
+    "debug-start": {
+      "fontCharacter": "\\f292",
+      "fontId": "x-min"
+    },
+    "debug-step-into": {
+      "fontCharacter": "\\f290",
+      "fontId": "x-min"
+    },
+    "debug-step-out": {
+      "fontCharacter": "\\f28f",
+      "fontId": "x-min"
+    },
+    "debug-step-over": {
+      "fontCharacter": "\\f28e",
+      "fontId": "x-min"
+    },
+    "debug-stop": {
+      "fontCharacter": "\\f28d",
+      "fontId": "x-min"
+    },
+    "debug": {
+      "fontCharacter": "\\f28c",
+      "fontId": "x-min"
+    },
+    "device-camera-video": {
+      "fontCharacter": "\\f28a",
+      "fontId": "x-min"
+    },
+    "device-camera": {
+      "fontCharacter": "\\f289",
+      "fontId": "x-min"
+    },
+    "device-mobile": {
+      "fontCharacter": "\\f288",
+      "fontId": "x-min"
+    },
+    "diff-added": {
+      "fontCharacter": "\\f287",
+      "fontId": "x-min"
+    },
+    "diff-ignored": {
+      "fontCharacter": "\\f286",
+      "fontId": "x-min"
+    },
+    "diff-modified": {
+      "fontCharacter": "\\f285",
+      "fontId": "x-min"
+    },
+    "diff-removed": {
+      "fontCharacter": "\\f283",
+      "fontId": "x-min"
+    },
+    "diff-renamed": {
+      "fontCharacter": "\\f282",
+      "fontId": "x-min"
+    },
+    "diff": {
+      "fontCharacter": "\\f280",
+      "fontId": "x-min"
+    },
+    "diff-sidebyside": {
+      "fontCharacter": "\\f280",
+      "fontId": "x-min"
+    },
+    "discard": {
+      "fontCharacter": "\\f27f",
+      "fontId": "x-min"
+    },
+    "editor-layout": {
+      "fontCharacter": "\\f279",
+      "fontId": "x-min"
+    },
+    "empty-window": {
+      "fontCharacter": "\\f277",
+      "fontId": "x-min"
+    },
+    "exclude": {
+      "fontCharacter": "\\f273",
+      "fontId": "x-min"
+    },
+    "extensions": {
+      "fontCharacter": "\\f26f",
+      "fontId": "x-min"
+    },
+    "eye-closed": {
+      "fontCharacter": "\\f26e",
+      "fontId": "x-min"
+    },
+    "file-binary": {
+      "fontCharacter": "\\f26b",
+      "fontId": "x-min"
+    },
+    "file-code": {
+      "fontCharacter": "\\f26a",
+      "fontId": "x-min"
+    },
+    "file-media": {
+      "fontCharacter": "\\f269",
+      "fontId": "x-min"
+    },
+    "file-pdf": {
+      "fontCharacter": "\\f268",
+      "fontId": "x-min"
+    },
+    "file-submodule": {
+      "fontCharacter": "\\f267",
+      "fontId": "x-min"
+    },
+    "file-symlink-directory": {
+      "fontCharacter": "\\f266",
+      "fontId": "x-min"
+    },
+    "file-symlink-file": {
+      "fontCharacter": "\\f265",
+      "fontId": "x-min"
+    },
+    "file-zip": {
+      "fontCharacter": "\\f263",
+      "fontId": "x-min"
+    },
+    "files": {
+      "fontCharacter": "\\f261",
+      "fontId": "x-min"
+    },
+    "filter": {
+      "fontCharacter": "\\f25f",
+      "fontId": "x-min"
+    },
+    "flame": {
+      "fontCharacter": "\\f25d",
+      "fontId": "x-min"
+    },
+    "fold-down": {
+      "fontCharacter": "\\f25c",
+      "fontId": "x-min"
+    },
+    "fold-up": {
+      "fontCharacter": "\\f25b",
+      "fontId": "x-min"
+    },
+    "fold": {
+      "fontCharacter": "\\f25a",
+      "fontId": "x-min"
+    },
+    "folder-active": {
+      "fontCharacter": "\\f259",
+      "fontId": "x-min"
+    },
+    "folder-opened": {
+      "fontCharacter": "\\f257",
+      "fontId": "x-min"
+    },
+    "gear": {
+      "fontCharacter": "\\f253",
+      "fontId": "x-min"
+    },
+    "gift": {
+      "fontCharacter": "\\f252",
+      "fontId": "x-min"
+    },
+    "gist-secret": {
+      "fontCharacter": "\\f251",
+      "fontId": "x-min"
+    },
+    "gist": {
+      "fontCharacter": "\\f250",
+      "fontId": "x-min"
+    },
+    "git-commit": {
+      "fontCharacter": "\\f24b",
+      "fontId": "x-min"
+    },
+    "git-compare": {
+      "fontCharacter": "\\f24a",
+      "fontId": "x-min"
+    },
+    "compare-changes": {
+      "fontCharacter": "\\f24a",
+      "fontId": "x-min"
+    },
+    "git-merge": {
+      "fontCharacter": "\\f248",
+      "fontId": "x-min"
+    },
+    "github-action": {
+      "fontCharacter": "\\f23d",
+      "fontId": "x-min"
+    },
+    "github-alt": {
+      "fontCharacter": "\\f23c",
+      "fontId": "x-min"
+    },
+    "globe": {
+      "fontCharacter": "\\f238",
+      "fontId": "x-min"
+    },
+    "grabber": {
+      "fontCharacter": "\\f234",
+      "fontId": "x-min"
+    },
+    "graph": {
+      "fontCharacter": "\\f230",
+      "fontId": "x-min"
+    },
+    "gripper": {
+      "fontCharacter": "\\f22f",
+      "fontId": "x-min"
+    },
+    "heart": {
+      "fontCharacter": "\\f22c",
+      "fontId": "x-min"
+    },
+    "home": {
+      "fontCharacter": "\\f22a",
+      "fontId": "x-min"
+    },
+    "horizontal-rule": {
+      "fontCharacter": "\\f229",
+      "fontId": "x-min"
+    },
+    "hubot": {
+      "fontCharacter": "\\f228",
+      "fontId": "x-min"
+    },
+    "inbox": {
+      "fontCharacter": "\\f227",
+      "fontId": "x-min"
+    },
+    "issue-reopened": {
+      "fontCharacter": "\\f220",
+      "fontId": "x-min"
+    },
+    "issues": {
+      "fontCharacter": "\\f21f",
+      "fontId": "x-min"
+    },
+    "italic": {
+      "fontCharacter": "\\f21e",
+      "fontId": "x-min"
+    },
+    "jersey": {
+      "fontCharacter": "\\f21d",
+      "fontId": "x-min"
+    },
+    "json": {
+      "fontCharacter": "\\f21c",
+      "fontId": "x-min"
+    },
+    "bracket": {
+      "fontCharacter": "\\f21c",
+      "fontId": "x-min"
+    },
+    "kebab-vertical": {
+      "fontCharacter": "\\f21b",
+      "fontId": "x-min"
+    },
+    "key": {
+      "fontCharacter": "\\f21a",
+      "fontId": "x-min"
+    },
+    "law": {
+      "fontCharacter": "\\f216",
+      "fontId": "x-min"
+    },
+    "lightbulb-autofix": {
+      "fontCharacter": "\\f1fe",
+      "fontId": "x-min"
+    },
+    "link-external": {
+      "fontCharacter": "\\f1fa",
+      "fontId": "x-min"
+    },
+    "link": {
+      "fontCharacter": "\\f1f9",
+      "fontId": "x-min"
+    },
+    "list-ordered": {
+      "fontCharacter": "\\f1f6",
+      "fontId": "x-min"
+    },
+    "list-unordered": {
+      "fontCharacter": "\\f1f3",
+      "fontId": "x-min"
+    },
+    "live-share": {
+      "fontCharacter": "\\f1f2",
+      "fontId": "x-min"
+    },
+    "loading": {
+      "fontCharacter": "\\f1f1",
+      "fontId": "x-min"
+    },
+    "location": {
+      "fontCharacter": "\\f1f0",
+      "fontId": "x-min"
+    },
+    "mail-read": {
+      "fontCharacter": "\\f1ec",
+      "fontId": "x-min"
+    },
+    "mail": {
+      "fontCharacter": "\\f1eb",
+      "fontId": "x-min"
+    },
+    "markdown": {
+      "fontCharacter": "\\f1e6",
+      "fontId": "x-min"
+    },
+    "megaphone": {
+      "fontCharacter": "\\f1e4",
+      "fontId": "x-min"
+    },
+    "mention": {
+      "fontCharacter": "\\f1e3",
+      "fontId": "x-min"
+    },
+    "milestone": {
+      "fontCharacter": "\\f1dd",
+      "fontId": "x-min"
+    },
+    "git-pull-request-milestone": {
+      "fontCharacter": "\\f1dd",
+      "fontId": "x-min"
+    },
+    "mortar-board": {
+      "fontCharacter": "\\f1db",
+      "fontId": "x-min"
+    },
+    "move": {
+      "fontCharacter": "\\f1da",
+      "fontId": "x-min"
+    },
+    "multiple-windows": {
+      "fontCharacter": "\\f1d9",
+      "fontId": "x-min"
+    },
+    "mute": {
+      "fontCharacter": "\\f1d7",
+      "fontId": "x-min"
+    },
+    "no-newline": {
+      "fontCharacter": "\\f1d1",
+      "fontId": "x-min"
+    },
+    "note": {
+      "fontCharacter": "\\f1d0",
+      "fontId": "x-min"
+    },
+    "octoface": {
+      "fontCharacter": "\\f1cd",
+      "fontId": "x-min"
+    },
+    "open-preview": {
+      "fontCharacter": "\\f1ca",
+      "fontId": "x-min"
+    },
+    "package": {
+      "fontCharacter": "\\f1c6",
+      "fontId": "x-min"
+    },
+    "paintcan": {
+      "fontCharacter": "\\f1c5",
+      "fontId": "x-min"
+    },
+    "pin": {
+      "fontCharacter": "\\f1bd",
+      "fontId": "x-min"
+    },
+    "play": {
+      "fontCharacter": "\\f1b9",
+      "fontId": "x-min"
+    },
+    "run": {
+      "fontCharacter": "\\f1b9",
+      "fontId": "x-min"
+    },
+    "plug": {
+      "fontCharacter": "\\f1b8",
+      "fontId": "x-min"
+    },
+    "preserve-case": {
+      "fontCharacter": "\\f1b7",
+      "fontId": "x-min"
+    },
+    "preview": {
+      "fontCharacter": "\\f1b6",
+      "fontId": "x-min"
+    },
+    "project": {
+      "fontCharacter": "\\f1b4",
+      "fontId": "x-min"
+    },
+    "pulse": {
+      "fontCharacter": "\\f1b3",
+      "fontId": "x-min"
+    },
+    "question": {
+      "fontCharacter": "\\f1b1",
+      "fontId": "x-min"
+    },
+    "quote": {
+      "fontCharacter": "\\f1b0",
+      "fontId": "x-min"
+    },
+    "radio-tower": {
+      "fontCharacter": "\\f1ae",
+      "fontId": "x-min"
+    },
+    "reactions": {
+      "fontCharacter": "\\f1ad",
+      "fontId": "x-min"
+    },
+    "references": {
+      "fontCharacter": "\\f1a8",
+      "fontId": "x-min"
+    },
+    "refresh": {
+      "fontCharacter": "\\f1a7",
+      "fontId": "x-min"
+    },
+    "regex": {
+      "fontCharacter": "\\f1a6",
+      "fontId": "x-min"
+    },
+    "remote-explorer": {
+      "fontCharacter": "\\f1a5",
+      "fontId": "x-min"
+    },
+    "remote": {
+      "fontCharacter": "\\f1a4",
+      "fontId": "x-min"
+    },
+    "remove": {
+      "fontCharacter": "\\f1a2",
+      "fontId": "x-min"
+    },
+    "replace-all": {
+      "fontCharacter": "\\f1a0",
+      "fontId": "x-min"
+    },
+    "replace": {
+      "fontCharacter": "\\f19f",
+      "fontId": "x-min"
+    },
+    "repo-clone": {
+      "fontCharacter": "\\f19d",
+      "fontId": "x-min"
+    },
+    "repo-force-push": {
+      "fontCharacter": "\\f19b",
+      "fontId": "x-min"
+    },
+    "repo-pull": {
+      "fontCharacter": "\\f198",
+      "fontId": "x-min"
+    },
+    "repo-push": {
+      "fontCharacter": "\\f197",
+      "fontId": "x-min"
+    },
+    "report": {
+      "fontCharacter": "\\f194",
+      "fontId": "x-min"
+    },
+    "request-changes": {
+      "fontCharacter": "\\f193",
+      "fontId": "x-min"
+    },
+    "rocket": {
+      "fontCharacter": "\\f191",
+      "fontId": "x-min"
+    },
+    "root-folder-opened": {
+      "fontCharacter": "\\f190",
+      "fontId": "x-min"
+    },
+    "root-folder": {
+      "fontCharacter": "\\f18f",
+      "fontId": "x-min"
+    },
+    "rss": {
+      "fontCharacter": "\\f18e",
+      "fontId": "x-min"
+    },
+    "ruby": {
+      "fontCharacter": "\\f18d",
+      "fontId": "x-min"
+    },
+    "save-all": {
+      "fontCharacter": "\\f185",
+      "fontId": "x-min"
+    },
+    "save-as": {
+      "fontCharacter": "\\f184",
+      "fontId": "x-min"
+    },
+    "save": {
+      "fontCharacter": "\\f183",
+      "fontId": "x-min"
+    },
+    "screen-full": {
+      "fontCharacter": "\\f181",
+      "fontId": "x-min"
+    },
+    "screen-normal": {
+      "fontCharacter": "\\f180",
+      "fontId": "x-min"
+    },
+    "search-stop": {
+      "fontCharacter": "\\f17c",
+      "fontId": "x-min"
+    },
+    "server": {
+      "fontCharacter": "\\f176",
+      "fontId": "x-min"
+    },
+    "settings-gear": {
+      "fontCharacter": "\\f174",
+      "fontId": "x-min"
+    },
+    "settings": {
+      "fontCharacter": "\\f173",
+      "fontId": "x-min"
+    },
+    "shield": {
+      "fontCharacter": "\\f171",
+      "fontId": "x-min"
+    },
+    "smiley": {
+      "fontCharacter": "\\f16d",
+      "fontId": "x-min"
+    },
+    "sort-precedence": {
+      "fontCharacter": "\\f16b",
+      "fontId": "x-min"
+    },
+    "split-horizontal": {
+      "fontCharacter": "\\f167",
+      "fontId": "x-min"
+    },
+    "split-vertical": {
+      "fontCharacter": "\\f166",
+      "fontId": "x-min"
+    },
+    "squirrel": {
+      "fontCharacter": "\\f165",
+      "fontId": "x-min"
+    },
+    "star-full": {
+      "fontCharacter": "\\f163",
+      "fontId": "x-min"
+    },
+    "star-half": {
+      "fontCharacter": "\\f162",
+      "fontId": "x-min"
+    },
+    "symbol-class": {
+      "fontCharacter": "\\f15c",
+      "fontId": "x-min"
+    },
+    "symbol-color": {
+      "fontCharacter": "\\f15b",
+      "fontId": "x-min"
+    },
+    "symbol-constant": {
+      "fontCharacter": "\\f15a",
+      "fontId": "x-min"
+    },
+    "symbol-enum-member": {
+      "fontCharacter": "\\f159",
+      "fontId": "x-min"
+    },
+    "symbol-field": {
+      "fontCharacter": "\\f156",
+      "fontId": "x-min"
+    },
+    "symbol-file": {
+      "fontCharacter": "\\f155",
+      "fontId": "x-min"
+    },
+    "symbol-interface": {
+      "fontCharacter": "\\f154",
+      "fontId": "x-min"
+    },
+    "symbol-keyword": {
+      "fontCharacter": "\\f152",
+      "fontId": "x-min"
+    },
+    "symbol-misc": {
+      "fontCharacter": "\\f14f",
+      "fontId": "x-min"
+    },
+    "symbol-operator": {
+      "fontCharacter": "\\f14c",
+      "fontId": "x-min"
+    },
+    "symbol-property": {
+      "fontCharacter": "\\f14a",
+      "fontId": "x-min"
+    },
+    "wrench": {
+      "fontCharacter": "\\f14a",
+      "fontId": "x-min"
+    },
+    "wrench-subaction": {
+      "fontCharacter": "\\f14a",
+      "fontId": "x-min"
+    },
+    "symbol-snippet": {
+      "fontCharacter": "\\f148",
+      "fontId": "x-min"
+    },
+    "tasklist": {
+      "fontCharacter": "\\f13f",
+      "fontId": "x-min"
+    },
+    "telescope": {
+      "fontCharacter": "\\f13e",
+      "fontId": "x-min"
+    },
+    "text-size": {
+      "fontCharacter": "\\f134",
+      "fontId": "x-min"
+    },
+    "three-bars": {
+      "fontCharacter": "\\f132",
+      "fontId": "x-min"
+    },
+    "thumbsdown": {
+      "fontCharacter": "\\f130",
+      "fontId": "x-min"
+    },
+    "thumbsup": {
+      "fontCharacter": "\\f12e",
+      "fontId": "x-min"
+    },
+    "tools": {
+      "fontCharacter": "\\f12d",
+      "fontId": "x-min"
+    },
+    "triangle-down": {
+      "fontCharacter": "\\f12b",
+      "fontId": "x-min"
+    },
+    "triangle-left": {
+      "fontCharacter": "\\f12a",
+      "fontId": "x-min"
+    },
+    "triangle-right": {
+      "fontCharacter": "\\f129",
+      "fontId": "x-min"
+    },
+    "triangle-up": {
+      "fontCharacter": "\\f128",
+      "fontId": "x-min"
+    },
+    "twitter": {
+      "fontCharacter": "\\f127",
+      "fontId": "x-min"
+    },
+    "unfold": {
+      "fontCharacter": "\\f122",
+      "fontId": "x-min"
+    },
+    "unlock": {
+      "fontCharacter": "\\f120",
+      "fontId": "x-min"
+    },
+    "unmute": {
+      "fontCharacter": "\\f11f",
+      "fontId": "x-min"
+    },
+    "unverified": {
+      "fontCharacter": "\\f11e",
+      "fontId": "x-min"
+    },
+    "verified": {
+      "fontCharacter": "\\f11b",
+      "fontId": "x-min"
+    },
+    "versions": {
+      "fontCharacter": "\\f11a",
+      "fontId": "x-min"
+    },
+    "vm-active": {
+      "fontCharacter": "\\f119",
+      "fontId": "x-min"
+    },
+    "vm-outline": {
+      "fontCharacter": "\\f117",
+      "fontId": "x-min"
+    },
+    "vm-running": {
+      "fontCharacter": "\\f115",
+      "fontId": "x-min"
+    },
+    "watch": {
+      "fontCharacter": "\\f10d",
+      "fontId": "x-min"
+    },
+    "whitespace": {
+      "fontCharacter": "\\f10c",
+      "fontId": "x-min"
+    },
+    "whole-word": {
+      "fontCharacter": "\\f10b",
+      "fontId": "x-min"
+    },
+    "window": {
+      "fontCharacter": "\\f109",
+      "fontId": "x-min"
+    },
+    "word-wrap": {
+      "fontCharacter": "\\f108",
+      "fontId": "x-min"
+    },
+    "zoom-in": {
+      "fontCharacter": "\\f102",
+      "fontId": "x-min"
+    },
+    "zoom-out": {
+      "fontCharacter": "\\f101",
+      "fontId": "x-min"
+    },
+    "list-filter": {
+      "fontCharacter": "\\f1f8",
+      "fontId": "x-min"
+    },
+    "list-flat": {
+      "fontCharacter": "\\f1f7",
+      "fontId": "x-min"
+    },
+    "list-selection": {
+      "fontCharacter": "\\f1f5",
+      "fontId": "x-min"
+    },
+    "selection": {
+      "fontCharacter": "\\f1f5",
+      "fontId": "x-min"
+    },
+    "list-tree": {
+      "fontCharacter": "\\f1f4",
+      "fontId": "x-min"
+    },
+    "debug-breakpoint-function-unverified": {
+      "fontCharacter": "\\f2a5",
+      "fontId": "x-min"
+    },
+    "debug-breakpoint-function": {
+      "fontCharacter": "\\f2a4",
+      "fontId": "x-min"
+    },
+    "debug-breakpoint-function-disabled": {
+      "fontCharacter": "\\f2a4",
+      "fontId": "x-min"
+    },
+    "debug-stackframe-active": {
+      "fontCharacter": "\\f294",
+      "fontId": "x-min"
+    },
+    "circle-small-filled": {
+      "fontCharacter": "\\f2de",
+      "fontId": "x-min"
+    },
+    "debug-stackframe-dot": {
+      "fontCharacter": "\\f2de",
+      "fontId": "x-min"
+    },
+    "terminal-decoration-mark": {
+      "fontCharacter": "\\f2de",
+      "fontId": "x-min"
+    },
+    "debug-stackframe": {
+      "fontCharacter": "\\f293",
+      "fontId": "x-min"
+    },
+    "debug-stackframe-focused": {
+      "fontCharacter": "\\f293",
+      "fontId": "x-min"
+    },
+    "debug-breakpoint-unsupported": {
+      "fontCharacter": "\\f2a1",
+      "fontId": "x-min"
+    },
+    "symbol-string": {
+      "fontCharacter": "\\f147",
+      "fontId": "x-min"
+    },
+    "debug-reverse-continue": {
+      "fontCharacter": "\\f295",
+      "fontId": "x-min"
+    },
+    "debug-step-back": {
+      "fontCharacter": "\\f291",
+      "fontId": "x-min"
+    },
+    "debug-restart-frame": {
+      "fontCharacter": "\\f297",
+      "fontId": "x-min"
+    },
+    "debug-alt": {
+      "fontCharacter": "\\f2aa",
+      "fontId": "x-min"
+    },
+    "call-incoming": {
+      "fontCharacter": "\\f2f4",
+      "fontId": "x-min"
+    },
+    "call-outgoing": {
+      "fontCharacter": "\\f2f3",
+      "fontId": "x-min"
+    },
+    "menu": {
+      "fontCharacter": "\\f1e2",
+      "fontId": "x-min"
+    },
+    "expand-all": {
+      "fontCharacter": "\\f272",
+      "fontId": "x-min"
+    },
+    "feedback": {
+      "fontCharacter": "\\f26c",
+      "fontId": "x-min"
+    },
+    "git-pull-request-reviewer": {
+      "fontCharacter": "\\f26c",
+      "fontId": "x-min"
+    },
+    "group-by-ref-type": {
+      "fontCharacter": "\\f22e",
+      "fontId": "x-min"
+    },
+    "ungroup-by-ref-type": {
+      "fontCharacter": "\\f121",
+      "fontId": "x-min"
+    },
+    "account": {
+      "fontCharacter": "\\f31d",
+      "fontId": "x-min"
+    },
+    "git-pull-request-assignee": {
+      "fontCharacter": "\\f31d",
+      "fontId": "x-min"
+    },
+    "bell-dot": {
+      "fontCharacter": "\\f303",
+      "fontId": "x-min"
+    },
+    "debug-console": {
+      "fontCharacter": "\\f29f",
+      "fontId": "x-min"
+    },
+    "library": {
+      "fontCharacter": "\\f1ff",
+      "fontId": "x-min"
+    },
+    "output": {
+      "fontCharacter": "\\f1c7",
+      "fontId": "x-min"
+    },
+    "run-all": {
+      "fontCharacter": "\\f18a",
+      "fontId": "x-min"
+    },
+    "sync-ignored": {
+      "fontCharacter": "\\f144",
+      "fontId": "x-min"
+    },
+    "pinned": {
+      "fontCharacter": "\\f1bb",
+      "fontId": "x-min"
+    },
+    "github-inverted": {
+      "fontCharacter": "\\f23b",
+      "fontId": "x-min"
+    },
+    "server-process": {
+      "fontCharacter": "\\f177",
+      "fontId": "x-min"
+    },
+    "server-environment": {
+      "fontCharacter": "\\f178",
+      "fontId": "x-min"
+    },
+    "pass": {
+      "fontCharacter": "\\f1c3",
+      "fontId": "x-min"
+    },
+    "issue-closed": {
+      "fontCharacter": "\\f1c3",
+      "fontId": "x-min"
+    },
+    "stop-circle": {
+      "fontCharacter": "\\f161",
+      "fontId": "x-min"
+    },
+    "play-circle": {
+      "fontCharacter": "\\f1ba",
+      "fontId": "x-min"
+    },
+    "record": {
+      "fontCharacter": "\\f1aa",
+      "fontId": "x-min"
+    },
+    "debug-alt-small": {
+      "fontCharacter": "\\f2ab",
+      "fontId": "x-min"
+    },
+    "vm-connect": {
+      "fontCharacter": "\\f118",
+      "fontId": "x-min"
+    },
+    "cloud": {
+      "fontCharacter": "\\f2d1",
+      "fontId": "x-min"
+    },
+    "merge": {
+      "fontCharacter": "\\f1e0",
+      "fontId": "x-min"
+    },
+    "export": {
+      "fontCharacter": "\\f271",
+      "fontId": "x-min"
+    },
+    "graph-left": {
+      "fontCharacter": "\\f233",
+      "fontId": "x-min"
+    },
+    "magnet": {
+      "fontCharacter": "\\f1ed",
+      "fontId": "x-min"
+    },
+    "notebook": {
+      "fontCharacter": "\\f1ce",
+      "fontId": "x-min"
+    },
+    "redo": {
+      "fontCharacter": "\\f1a9",
+      "fontId": "x-min"
+    },
+    "check-all": {
+      "fontCharacter": "\\f2ee",
+      "fontId": "x-min"
+    },
+    "pinned-dirty": {
+      "fontCharacter": "\\f1bc",
+      "fontId": "x-min"
+    },
+    "pass-filled": {
+      "fontCharacter": "\\f1c4",
+      "fontId": "x-min"
+    },
+    "circle-large-filled": {
+      "fontCharacter": "\\f2e1",
+      "fontId": "x-min"
+    },
+    "circle-large": {
+      "fontCharacter": "\\f2e0",
+      "fontId": "x-min"
+    },
+    "circle-large-outline": {
+      "fontCharacter": "\\f2e0",
+      "fontId": "x-min"
+    },
+    "combine": {
+      "fontCharacter": "\\f2c8",
+      "fontId": "x-min"
+    },
+    "gather": {
+      "fontCharacter": "\\f2c8",
+      "fontId": "x-min"
+    },
+    "table": {
+      "fontCharacter": "\\f142",
+      "fontId": "x-min"
+    },
+    "variable-group": {
+      "fontCharacter": "\\f11d",
+      "fontId": "x-min"
+    },
+    "type-hierarchy": {
+      "fontCharacter": "\\f124",
+      "fontId": "x-min"
+    },
+    "type-hierarchy-sub": {
+      "fontCharacter": "\\f126",
+      "fontId": "x-min"
+    },
+    "type-hierarchy-super": {
+      "fontCharacter": "\\f125",
+      "fontId": "x-min"
+    },
+    "git-pull-request-create": {
+      "fontCharacter": "\\f246",
+      "fontId": "x-min"
+    },
+    "run-above": {
+      "fontCharacter": "\\f18c",
+      "fontId": "x-min"
+    },
+    "run-below": {
+      "fontCharacter": "\\f189",
+      "fontId": "x-min"
+    },
+    "notebook-template": {
+      "fontCharacter": "\\f1cf",
+      "fontId": "x-min"
+    },
+    "debug-rerun": {
+      "fontCharacter": "\\f298",
+      "fontId": "x-min"
+    },
+    "workspace-trusted": {
+      "fontCharacter": "\\f107",
+      "fontId": "x-min"
+    },
+    "workspace-untrusted": {
+      "fontCharacter": "\\f105",
+      "fontId": "x-min"
+    },
+    "workspace-unknown": {
+      "fontCharacter": "\\f106",
+      "fontId": "x-min"
+    },
+    "terminal-cmd": {
+      "fontCharacter": "\\f13c",
+      "fontId": "x-min"
+    },
+    "terminal-debian": {
+      "fontCharacter": "\\f13b",
+      "fontId": "x-min"
+    },
+    "terminal-linux": {
+      "fontCharacter": "\\f139",
+      "fontId": "x-min"
+    },
+    "terminal-powershell": {
+      "fontCharacter": "\\f138",
+      "fontId": "x-min"
+    },
+    "terminal-tmux": {
+      "fontCharacter": "\\f137",
+      "fontId": "x-min"
+    },
+    "terminal-ubuntu": {
+      "fontCharacter": "\\f136",
+      "fontId": "x-min"
+    },
+    "terminal-bash": {
+      "fontCharacter": "\\f13d",
+      "fontId": "x-min"
+    },
+    "arrow-swap": {
+      "fontCharacter": "\\f30b",
+      "fontId": "x-min"
+    },
+    "copy": {
+      "fontCharacter": "\\f2b3",
+      "fontId": "x-min"
+    },
+    "person-add": {
+      "fontCharacter": "\\f1c1",
+      "fontId": "x-min"
+    },
+    "filter-filled": {
+      "fontCharacter": "\\f260",
+      "fontId": "x-min"
+    },
+    "wand": {
+      "fontCharacter": "\\f10f",
+      "fontId": "x-min"
+    },
+    "debug-line-by-line": {
+      "fontCharacter": "\\f29a",
+      "fontId": "x-min"
+    },
+    "inspect": {
+      "fontCharacter": "\\f222",
+      "fontId": "x-min"
+    },
+    "layers": {
+      "fontCharacter": "\\f213",
+      "fontId": "x-min"
+    },
+    "layers-dot": {
+      "fontCharacter": "\\f214",
+      "fontId": "x-min"
+    },
+    "layers-active": {
+      "fontCharacter": "\\f215",
+      "fontId": "x-min"
+    },
+    "compass": {
+      "fontCharacter": "\\f2bf",
+      "fontId": "x-min"
+    },
+    "compass-dot": {
+      "fontCharacter": "\\f2c0",
+      "fontId": "x-min"
+    },
+    "compass-active": {
+      "fontCharacter": "\\f2c1",
+      "fontId": "x-min"
+    },
+    "azure": {
+      "fontCharacter": "\\f306",
+      "fontId": "x-min"
+    },
+    "issue-draft": {
+      "fontCharacter": "\\f221",
+      "fontId": "x-min"
+    },
+    "git-pull-request-closed": {
+      "fontCharacter": "\\f247",
+      "fontId": "x-min"
+    },
+    "git-pull-request-draft": {
+      "fontCharacter": "\\f244",
+      "fontId": "x-min"
+    },
+    "debug-all": {
+      "fontCharacter": "\\f2ac",
+      "fontId": "x-min"
+    },
+    "debug-coverage": {
+      "fontCharacter": "\\f29c",
+      "fontId": "x-min"
+    },
+    "run-errors": {
+      "fontCharacter": "\\f187",
+      "fontId": "x-min"
+    },
+    "folder-library": {
+      "fontCharacter": "\\f258",
+      "fontId": "x-min"
+    },
+    "debug-continue-small": {
+      "fontCharacter": "\\f29e",
+      "fontId": "x-min"
+    },
+    "beaker-stop": {
+      "fontCharacter": "\\f305",
+      "fontId": "x-min"
+    },
+    "graph-line": {
+      "fontCharacter": "\\f232",
+      "fontId": "x-min"
+    },
+    "graph-scatter": {
+      "fontCharacter": "\\f231",
+      "fontId": "x-min"
+    },
+    "pie-chart": {
+      "fontCharacter": "\\f1be",
+      "fontId": "x-min"
+    },
+    "bracket-dot": {
+      "fontCharacter": "\\f2fc",
+      "fontId": "x-min"
+    },
+    "bracket-error": {
+      "fontCharacter": "\\f2fb",
+      "fontId": "x-min"
+    },
+    "lock-small": {
+      "fontCharacter": "\\f1ef",
+      "fontId": "x-min"
+    },
+    "azure-devops": {
+      "fontCharacter": "\\f307",
+      "fontId": "x-min"
+    },
+    "verified-filled": {
+      "fontCharacter": "\\f11c",
+      "fontId": "x-min"
+    },
+    "newline": {
+      "fontCharacter": "\\f1d2",
+      "fontId": "x-min"
+    },
+    "layout": {
+      "fontCharacter": "\\f200",
+      "fontId": "x-min"
+    },
+    "layout-activitybar-left": {
+      "fontCharacter": "\\f212",
+      "fontId": "x-min"
+    },
+    "layout-activitybar-right": {
+      "fontCharacter": "\\f211",
+      "fontId": "x-min"
+    },
+    "layout-panel-left": {
+      "fontCharacter": "\\f20b",
+      "fontId": "x-min"
+    },
+    "layout-panel-center": {
+      "fontCharacter": "\\f20e",
+      "fontId": "x-min"
+    },
+    "layout-panel-justify": {
+      "fontCharacter": "\\f20c",
+      "fontId": "x-min"
+    },
+    "layout-panel-right": {
+      "fontCharacter": "\\f209",
+      "fontId": "x-min"
+    },
+    "layout-panel": {
+      "fontCharacter": "\\f208",
+      "fontId": "x-min"
+    },
+    "layout-sidebar-left": {
+      "fontCharacter": "\\f205",
+      "fontId": "x-min"
+    },
+    "layout-sidebar-right": {
+      "fontCharacter": "\\f202",
+      "fontId": "x-min"
+    },
+    "layout-statusbar": {
+      "fontCharacter": "\\f201",
+      "fontId": "x-min"
+    },
+    "layout-menubar": {
+      "fontCharacter": "\\f20f",
+      "fontId": "x-min"
+    },
+    "layout-centered": {
+      "fontCharacter": "\\f210",
+      "fontId": "x-min"
+    },
+    "target": {
+      "fontCharacter": "\\f140",
+      "fontId": "x-min"
+    },
+    "indent": {
+      "fontCharacter": "\\f226",
+      "fontId": "x-min"
+    },
+    "record-small": {
+      "fontCharacter": "\\f1ab",
+      "fontId": "x-min"
+    },
+    "error-small": {
+      "fontCharacter": "\\f275",
+      "fontId": "x-min"
+    },
+    "terminal-decoration-error": {
+      "fontCharacter": "\\f275",
+      "fontId": "x-min"
+    },
+    "arrow-circle-down": {
+      "fontCharacter": "\\f316",
+      "fontId": "x-min"
+    },
+    "arrow-circle-left": {
+      "fontCharacter": "\\f315",
+      "fontId": "x-min"
+    },
+    "arrow-circle-right": {
+      "fontCharacter": "\\f314",
+      "fontId": "x-min"
+    },
+    "arrow-circle-up": {
+      "fontCharacter": "\\f313",
+      "fontId": "x-min"
+    },
+    "layout-sidebar-right-off": {
+      "fontCharacter": "\\f203",
+      "fontId": "x-min"
+    },
+    "layout-panel-off": {
+      "fontCharacter": "\\f20a",
+      "fontId": "x-min"
+    },
+    "layout-sidebar-left-off": {
+      "fontCharacter": "\\f206",
+      "fontId": "x-min"
+    },
+    "heart-filled": {
+      "fontCharacter": "\\f22d",
+      "fontId": "x-min"
+    },
+    "map": {
+      "fontCharacter": "\\f1e7",
+      "fontId": "x-min"
+    },
+    "map-horizontal": {
+      "fontCharacter": "\\f1e7",
+      "fontId": "x-min"
+    },
+    "fold-horizontal": {
+      "fontCharacter": "\\f1e7",
+      "fontId": "x-min"
+    },
+    "map-filled": {
+      "fontCharacter": "\\f1ea",
+      "fontId": "x-min"
+    },
+    "map-horizontal-filled": {
+      "fontCharacter": "\\f1ea",
+      "fontId": "x-min"
+    },
+    "fold-horizontal-filled": {
+      "fontCharacter": "\\f1ea",
+      "fontId": "x-min"
+    },
+    "circle-small": {
+      "fontCharacter": "\\f2dd",
+      "fontId": "x-min"
+    },
+    "bell-slash": {
+      "fontCharacter": "\\f301",
+      "fontId": "x-min"
+    },
+    "bell-slash-dot": {
+      "fontCharacter": "\\f302",
+      "fontId": "x-min"
+    },
+    "comment-unresolved": {
+      "fontCharacter": "\\f2c3",
+      "fontId": "x-min"
+    },
+    "git-pull-request-go-to-changes": {
+      "fontCharacter": "\\f243",
+      "fontId": "x-min"
+    },
+    "git-pull-request-new-changes": {
+      "fontCharacter": "\\f242",
+      "fontId": "x-min"
+    },
+    "search-fuzzy": {
+      "fontCharacter": "\\f17f",
+      "fontId": "x-min"
+    },
+    "comment-draft": {
+      "fontCharacter": "\\f2c4",
+      "fontId": "x-min"
+    },
+    "send": {
+      "fontCharacter": "\\f179",
+      "fontId": "x-min"
+    },
+    "sparkle": {
+      "fontCharacter": "\\f168",
+      "fontId": "x-min"
+    },
+    "insert": {
+      "fontCharacter": "\\f223",
+      "fontId": "x-min"
+    },
+    "mic": {
+      "fontCharacter": "\\f1de",
+      "fontId": "x-min"
+    },
+    "thumbsdown-filled": {
+      "fontCharacter": "\\f131",
+      "fontId": "x-min"
+    },
+    "thumbsup-filled": {
+      "fontCharacter": "\\f12f",
+      "fontId": "x-min"
+    },
+    "coffee": {
+      "fontCharacter": "\\f2cd",
+      "fontId": "x-min"
+    },
+    "snake": {
+      "fontCharacter": "\\f16c",
+      "fontId": "x-min"
+    },
+    "game": {
+      "fontCharacter": "\\f254",
+      "fontId": "x-min"
+    },
+    "vr": {
+      "fontCharacter": "\\f112",
+      "fontId": "x-min"
+    },
+    "chip": {
+      "fontCharacter": "\\f2e7",
+      "fontId": "x-min"
+    },
+    "piano": {
+      "fontCharacter": "\\f1bf",
+      "fontId": "x-min"
+    },
+    "music": {
+      "fontCharacter": "\\f1d8",
+      "fontId": "x-min"
+    },
+    "mic-filled": {
+      "fontCharacter": "\\f1df",
+      "fontId": "x-min"
+    },
+    "repo-fetch": {
+      "fontCharacter": "\\f19c",
+      "fontId": "x-min"
+    },
+    "copilot": {
+      "fontCharacter": "\\f2b4",
+      "fontId": "x-min"
+    },
+    "lightbulb-sparkle": {
+      "fontCharacter": "\\f1fc",
+      "fontId": "x-min"
+    },
+    "robot": {
+      "fontCharacter": "\\f192",
+      "fontId": "x-min"
+    },
+    "sparkle-filled": {
+      "fontCharacter": "\\f169",
+      "fontId": "x-min"
+    },
+    "diff-single": {
+      "fontCharacter": "\\f281",
+      "fontId": "x-min"
+    },
+    "diff-multiple": {
+      "fontCharacter": "\\f284",
+      "fontId": "x-min"
+    },
+    "surround-with": {
+      "fontCharacter": "\\f15f",
+      "fontId": "x-min"
+    },
+    "share": {
+      "fontCharacter": "\\f172",
+      "fontId": "x-min"
+    },
+    "git-stash": {
+      "fontCharacter": "\\f23e",
+      "fontId": "x-min"
+    },
+    "git-stash-apply": {
+      "fontCharacter": "\\f240",
+      "fontId": "x-min"
+    },
+    "git-stash-pop": {
+      "fontCharacter": "\\f23f",
+      "fontId": "x-min"
+    },
+    "vscode": {
+      "fontCharacter": "\\f110",
+      "fontId": "x-min"
+    },
+    "vscode-insiders": {
+      "fontCharacter": "\\f111",
+      "fontId": "x-min"
+    },
+    "code-oss": {
+      "fontCharacter": "\\f2d0",
+      "fontId": "x-min"
+    },
+    "run-coverage": {
+      "fontCharacter": "\\f188",
+      "fontId": "x-min"
+    },
+    "run-all-coverage": {
+      "fontCharacter": "\\f18b",
+      "fontId": "x-min"
+    },
+    "coverage": {
+      "fontCharacter": "\\f2b2",
+      "fontId": "x-min"
+    },
+    "github-project": {
+      "fontCharacter": "\\f23a",
+      "fontId": "x-min"
+    },
+    "map-vertical": {
+      "fontCharacter": "\\f1e8",
+      "fontId": "x-min"
+    },
+    "fold-vertical": {
+      "fontCharacter": "\\f1e8",
+      "fontId": "x-min"
+    },
+    "map-vertical-filled": {
+      "fontCharacter": "\\f1e9",
+      "fontId": "x-min"
+    },
+    "fold-vertical-filled": {
+      "fontCharacter": "\\f1e9",
+      "fontId": "x-min"
+    },
+    "go-to-search": {
+      "fontCharacter": "\\f235",
+      "fontId": "x-min"
+    },
+    "percentage": {
+      "fontCharacter": "\\f1c2",
+      "fontId": "x-min"
+    },
+    "sort-percentage": {
+      "fontCharacter": "\\f1c2",
+      "fontId": "x-min"
+    },
+    "attach": {
+      "fontCharacter": "\\f308",
+      "fontId": "x-min"
+    },
+    "go-to-editing-session": {
+      "fontCharacter": "\\f237",
+      "fontId": "x-min"
+    },
+    "edit-session": {
+      "fontCharacter": "\\f27c",
+      "fontId": "x-min"
+    },
+    "code-review": {
+      "fontCharacter": "\\f2cf",
+      "fontId": "x-min"
+    },
+    "copilot-warning": {
+      "fontCharacter": "\\f2b5",
+      "fontId": "x-min"
+    },
+    "python": {
+      "fontCharacter": "\\f1b2",
+      "fontId": "x-min"
+    },
+    "copilot-large": {
+      "fontCharacter": "\\f2bb",
+      "fontId": "x-min"
+    },
+    "copilot-warning-large": {
+      "fontCharacter": "\\f2b6",
+      "fontId": "x-min"
+    },
+    "keyboard-tab": {
+      "fontCharacter": "\\f217",
+      "fontId": "x-min"
+    },
+    "copilot-blocked": {
+      "fontCharacter": "\\f2be",
+      "fontId": "x-min"
+    },
+    "copilot-not-connected": {
+      "fontCharacter": "\\f2ba",
+      "fontId": "x-min"
+    },
+    "flag": {
+      "fontCharacter": "\\f25e",
+      "fontId": "x-min"
+    },
+    "lightbulb-empty": {
+      "fontCharacter": "\\f1fd",
+      "fontId": "x-min"
+    },
+    "symbol-method-arrow": {
+      "fontCharacter": "\\f151",
+      "fontId": "x-min"
+    },
+    "copilot-unavailable": {
+      "fontCharacter": "\\f2b7",
+      "fontId": "x-min"
+    },
+    "repo-pinned": {
+      "fontCharacter": "\\f199",
+      "fontId": "x-min"
+    },
+    "keyboard-tab-above": {
+      "fontCharacter": "\\f219",
+      "fontId": "x-min"
+    },
+    "keyboard-tab-below": {
+      "fontCharacter": "\\f218",
+      "fontId": "x-min"
+    },
+    "git-pull-request-done": {
+      "fontCharacter": "\\f245",
+      "fontId": "x-min"
+    },
+    "mcp": {
+      "fontCharacter": "\\f1e5",
+      "fontId": "x-min"
+    },
+    "extensions-large": {
+      "fontCharacter": "\\f270",
+      "fontId": "x-min"
+    },
+    "layout-panel-dock": {
+      "fontCharacter": "\\f20d",
+      "fontId": "x-min"
+    },
+    "layout-sidebar-left-dock": {
+      "fontCharacter": "\\f207",
+      "fontId": "x-min"
+    },
+    "layout-sidebar-right-dock": {
+      "fontCharacter": "\\f204",
+      "fontId": "x-min"
+    },
+    "copilot-in-progress": {
+      "fontCharacter": "\\f2bc",
+      "fontId": "x-min"
+    },
+    "copilot-error": {
+      "fontCharacter": "\\f2bd",
+      "fontId": "x-min"
+    },
+    "copilot-success": {
+      "fontCharacter": "\\f2b8",
+      "fontId": "x-min"
+    },
+    "chat-sparkle": {
+      "fontCharacter": "\\f2ef",
+      "fontId": "x-min"
+    },
+    "search-sparkle": {
+      "fontCharacter": "\\f17d",
+      "fontId": "x-min"
+    },
+    "edit-sparkle": {
+      "fontCharacter": "\\f27b",
+      "fontId": "x-min"
+    },
+    "copilot-snooze": {
+      "fontCharacter": "\\f2b9",
+      "fontId": "x-min"
+    },
+    "send-to-remote-agent": {
+      "fontCharacter": "\\f17a",
+      "fontId": "x-min"
+    },
+    "comment-discussion-sparkle": {
+      "fontCharacter": "\\f2c6",
+      "fontId": "x-min"
+    },
+    "chat-sparkle-warning": {
+      "fontCharacter": "\\f2f0",
+      "fontId": "x-min"
+    },
+    "chat-sparkle-error": {
+      "fontCharacter": "\\f2f1",
+      "fontId": "x-min"
+    },
+    "collection": {
+      "fontCharacter": "\\f2ca",
+      "fontId": "x-min"
+    },
+    "new-collection": {
+      "fontCharacter": "\\f1d6",
+      "fontId": "x-min"
+    },
+    "thinking": {
+      "fontCharacter": "\\f133",
+      "fontId": "x-min"
+    },
+    "build": {
+      "fontCharacter": "\\f2f6",
+      "fontId": "x-min"
+    },
+    "comment-discussion-quote": {
+      "fontCharacter": "\\f2c7",
+      "fontId": "x-min"
+    },
+    "cursor": {
+      "fontCharacter": "\\f2b0",
+      "fontId": "x-min"
+    },
+    "eraser": {
+      "fontCharacter": "\\f276",
+      "fontId": "x-min"
+    },
+    "file-text": {
+      "fontCharacter": "\\f264",
+      "fontId": "x-min"
+    },
+    "quotes": {
+      "fontCharacter": "\\f1af",
+      "fontId": "x-min"
+    },
+    "rename": {
+      "fontCharacter": "\\f1a1",
+      "fontId": "x-min"
+    },
+    "run-with-deps": {
+      "fontCharacter": "\\f186",
+      "fontId": "x-min"
+    },
+    "debug-connected": {
+      "fontCharacter": "\\f2a0",
+      "fontId": "x-min"
+    },
+    "strikethrough": {
+      "fontCharacter": "\\f160",
+      "fontId": "x-min"
+    },
+    "open-in-product": {
+      "fontCharacter": "\\f1cc",
+      "fontId": "x-min"
+    },
+    "index-zero": {
+      "fontCharacter": "\\f225",
+      "fontId": "x-min"
+    },
+    "agent": {
+      "fontCharacter": "\\f319",
+      "fontId": "x-min"
+    },
+    "edit-code": {
+      "fontCharacter": "\\f27d",
+      "fontId": "x-min"
+    },
+    "repo-selected": {
+      "fontCharacter": "\\f196",
+      "fontId": "x-min"
+    },
+    "skip": {
+      "fontCharacter": "\\f16e",
+      "fontId": "x-min"
+    },
+    "merge-into": {
+      "fontCharacter": "\\f1e1",
+      "fontId": "x-min"
+    },
+    "git-branch-changes": {
+      "fontCharacter": "\\f24f",
+      "fontId": "x-min"
+    },
+    "git-branch-staged-changes": {
+      "fontCharacter": "\\f24d",
+      "fontId": "x-min"
+    },
+    "git-branch-conflicts": {
+      "fontCharacter": "\\f24e",
+      "fontId": "x-min"
+    },
+    "git-branch": {
+      "fontCharacter": "\\f24c",
+      "fontId": "x-min"
+    },
+    "git-branch-create": {
+      "fontCharacter": "\\f24c",
+      "fontId": "x-min"
+    },
+    "git-branch-delete": {
+      "fontCharacter": "\\f24c",
+      "fontId": "x-min"
+    },
+    "search-large": {
+      "fontCharacter": "\\f17e",
+      "fontId": "x-min"
+    },
+    "terminal-git-bash": {
+      "fontCharacter": "\\f13a",
+      "fontId": "x-min"
+    },
+    "window-active": {
+      "fontCharacter": "\\f10a",
+      "fontId": "x-min"
+    },
+    "forward": {
+      "fontCharacter": "\\f255",
+      "fontId": "x-min"
+    },
+    "download": {
+      "fontCharacter": "\\f27e",
+      "fontId": "x-min"
+    },
+    "clockface": {
+      "fontCharacter": "\\f2d7",
+      "fontId": "x-min"
+    },
+    "unarchive": {
+      "fontCharacter": "\\f123",
+      "fontId": "x-min"
+    },
+    "session-in-progress": {
+      "fontCharacter": "\\f175",
+      "fontId": "x-min"
+    },
+    "collection-small": {
+      "fontCharacter": "\\f2cb",
+      "fontId": "x-min"
+    },
+    "vm-small": {
+      "fontCharacter": "\\f114",
+      "fontId": "x-min"
+    },
+    "cloud-small": {
+      "fontCharacter": "\\f2d3",
+      "fontId": "x-min"
+    },
+    "add-small": {
+      "fontCharacter": "\\f31b",
+      "fontId": "x-min"
+    },
+    "remove-small": {
+      "fontCharacter": "\\f1a3",
+      "fontId": "x-min"
+    },
+    "worktree-small": {
+      "fontCharacter": "\\f104",
+      "fontId": "x-min"
+    },
+    "worktree": {
+      "fontCharacter": "\\f103",
+      "fontId": "x-min"
+    },
+    "screen-cut": {
+      "fontCharacter": "\\f182",
+      "fontId": "x-min"
+    },
+    "ask": {
+      "fontCharacter": "\\f309",
+      "fontId": "x-min"
+    },
+    "openai": {
+      "fontCharacter": "\\f1c9",
+      "fontId": "x-min"
+    },
+    "claude": {
+      "fontCharacter": "\\f2da",
+      "fontId": "x-min"
+    },
+    "open-in-window": {
+      "fontCharacter": "\\f1cb",
+      "fontId": "x-min"
+    },
+    "new-session": {
+      "fontCharacter": "\\f1d3",
+      "fontId": "x-min"
+    }
+  }
+}

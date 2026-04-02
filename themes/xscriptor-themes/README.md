@@ -66,23 +66,11 @@
 </ol>
 
 <ul>
-  <li><code>Xscriptor Product Icons</code> (glyph variant)</li>
-  <li><code>Xscriptor Product Icons Text (1 Letter)</code></li>
-  <li><code>Xscriptor Product Icons Numbers</code></li>
+  <li><code>x Product Icons</code> (glyph variant)</li>
 </ul>
 
 <pre><code>{
-  "workbench.productIconTheme": "xscriptor-product-icons"
-}
-</code></pre>
-
-<pre><code>{
-  "workbench.productIconTheme": "xscriptor-product-icons-text"
-}
-</code></pre>
-
-<pre><code>{
-  "workbench.productIconTheme": "xscriptor-product-icons-numbers"
+  "workbench.productIconTheme": "x-product-icons"
 }
 </code></pre>
 
