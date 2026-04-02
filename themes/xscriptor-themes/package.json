@@ -5,34 +5,98 @@
   "version": "1.1.0",
   "publisher": "xscriptor",
   "license": "SEE LICENSE IN LICENSE",
-  "engines": { "vscode": "^1.85.0" },
-  "extensionKind": ["ui"],
-  "categories": ["Themes"],
-  "keywords": ["theme", "dark", "light", "xscriptor", "colors", "icons", "icon-theme"],
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "extensionKind": [
+    "ui"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "light",
+    "xscriptor",
+    "colors",
+    "icons",
+    "icon-theme"
+  ],
   "icon": "image/icon.png",
-  "galleryBanner": { "color": "#0D1117", "theme": "dark" },
-
+  "galleryBanner": {
+    "color": "#0D1117",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/xscriptor/vscode",
     "directory": "themes/xscriptor-themes"
   },
-  "bugs": { "url": "https://github.com/xscriptor/vscode/issues" },
+  "bugs": {
+    "url": "https://github.com/xscriptor/vscode/issues"
+  },
   "homepage": "https://github.com/xscriptor/vscode/tree/main/themes/xscriptor-themes",
-
+  "scripts": {
+    "build:product-icons": "node icons/scripts/build-product-icons.mjs"
+  },
   "contributes": {
     "themes": [
-      { "label": "X",            "uiTheme": "vs-dark",  "path": "./themes/x.json" },
-      { "label": "Madrid", "uiTheme": "vs", "path": "./themes/madrid.json" },
-      { "label": "Praha",        "uiTheme": "vs-dark",  "path": "./themes/praha.json" },
-      { "label": "Berlin",          "uiTheme": "vs-dark",  "path": "./themes/berlin.json" },
-      { "label": "London", "uiTheme": "vs", "path": "./themes/london.json" },
-      { "label": "Oslo",               "uiTheme": "vs-dark",  "path": "./themes/oslo.json" },
-      { "label": "Helsinki",      "uiTheme": "vs", "path": "./themes/helsinki.json" },
-      { "label": "Tokio",       "uiTheme": "vs-dark",  "path": "./themes/tokio.json" },
-      { "label": "Lahabana",       "uiTheme": "vs-dark",  "path": "./themes/lahabana.json" },
-      { "label": "Paris",       "uiTheme": "vs-dark",  "path": "./themes/paris.json" },
-      { "label": "Bogotá",       "uiTheme": "vs-dark",  "path": "./themes/bogota.json" }
+      {
+        "label": "X",
+        "uiTheme": "vs-dark",
+        "path": "./themes/x.json"
+      },
+      {
+        "label": "Madrid",
+        "uiTheme": "vs",
+        "path": "./themes/madrid.json"
+      },
+      {
+        "label": "Praha",
+        "uiTheme": "vs-dark",
+        "path": "./themes/praha.json"
+      },
+      {
+        "label": "Berlin",
+        "uiTheme": "vs-dark",
+        "path": "./themes/berlin.json"
+      },
+      {
+        "label": "London",
+        "uiTheme": "vs",
+        "path": "./themes/london.json"
+      },
+      {
+        "label": "Oslo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oslo.json"
+      },
+      {
+        "label": "Helsinki",
+        "uiTheme": "vs",
+        "path": "./themes/helsinki.json"
+      },
+      {
+        "label": "Tokio",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokio.json"
+      },
+      {
+        "label": "Lahabana",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lahabana.json"
+      },
+      {
+        "label": "Paris",
+        "uiTheme": "vs-dark",
+        "path": "./themes/paris.json"
+      },
+      {
+        "label": "Bogotá",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bogota.json"
+      }
     ],
     "iconThemes": [
       {
@@ -58,30 +122,27 @@
     ],
     "productIconThemes": [
       {
-        "id": "xscriptor-product-icons",
-        "label": "Xscriptor Product Icons",
-        "path": "./icons/xscriptor-product-icons.json"
-      },
-      {
-        "id": "xscriptor-product-icons-text",
-        "label": "Xscriptor Product Icons Text (1 Letter)",
-        "path": "./icons/xscriptor-product-icons-text.json"
-      },
-      {
-        "id": "xscriptor-product-icons-numbers",
-        "label": "Xscriptor Product Icons Numbers",
-        "path": "./icons/xscriptor-product-icons-numbers.json"
+        "id": "x",
+        "label": "X",
+        "path": "./icons/x-min-product-icon-theme.json"
       }
     ]
   },
-
   "files": [
     "themes/*.json",
     "icons/**/*.svg",
     "icons/*.json",
     "icons/fonts/*.woff",
+    "icons/product icons/fonts/*.woff",
+    "icons/product icons/preview.html",
+    "icons/product icons/preview-x.html",
+    "icons/product icons/preview-x-min.html",
     "image/icon.png",
     "README.md",
     "LICENSE"
-  ]
+  ],
+  "devDependencies": {
+    "@vscode/codicons": "^0.0.45",
+    "fantasticon": "^4.1.0"
+  }
 }

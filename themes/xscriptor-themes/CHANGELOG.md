@@ -8,6 +8,10 @@ All important modifications to this VSCode theme collection will be documented i
 - Tokio theme: Fixed tab bar background color to match tab panel color (#191919 instead of #0a0a0a)
 - Tokio & X themes: Refined tab styling with transparent borders and golden icon colors
 
+### Changed
+- Rebuilt Product Icon Theme from scratch as `x` using a custom SVG set (16x16, filled shapes) with an integrated X marker on every glyph
+- Added local generation pipeline with Node + Fantasticon, plus HTML preview, and replaced previous default product icon theme mapping
+
 ## [1.1.0] - 2026-04-01
 ### Added
 - Enhanced visual hierarchy with bracket pair guides (6 nesting levels) using palette colors
