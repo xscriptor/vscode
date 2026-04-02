@@ -134,9 +134,6 @@
     "icons/*.json",
     "icons/fonts/*.woff",
     "icons/product icons/fonts/*.woff",
-    "icons/product icons/preview.html",
-    "icons/product icons/preview-x.html",
-    "icons/product icons/preview-x-min.html",
     "image/icon.png",
     "README.md",
     "LICENSE"
