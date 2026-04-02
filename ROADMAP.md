@@ -1,18 +1,18 @@
 ## Phase 1 · Repository foundation (already done) <!-- phase:foundation -->
 
-- [/] Consolidate monorepo structure with packages in `extensions/`, `themes/`, and `ui-mods/` (#5)
-- [/] Publish root documentation: `README.md`, `CONTRIBUTING.md`, `SECURITY.md`, `CODE_OF_CONDUCT.md`, `SUPPORT.md`, `CHANGELOG.md` (#6)
-- [/] Normalize package `README.md` files to GitHub-compatible HTML format (#7)
-- [/] Define initial visual identity and previews in `assets/` and theme folders (#8)
-- [/] Keep per-package licensing strategy (`MIT` for tooling and dedicated licenses for themes) (#9)
+- [x] Consolidate monorepo structure with packages in `extensions/`, `themes/`, and `ui-mods/` (#5)
+- [x] Publish root documentation: `README.md`, `CONTRIBUTING.md`, `SECURITY.md`, `CODE_OF_CONDUCT.md`, `SUPPORT.md`, `CHANGELOG.md` (#6)
+- [x] Normalize package `README.md` files to GitHub-compatible HTML format (#7)
+- [x] Define initial visual identity and previews in `assets/` and theme folders (#8)
+- [x] Keep per-package licensing strategy (`MIT` for tooling and dedicated licenses for themes) (#9)
 
 ## Phase 2 · Governance and automation <!-- phase:automation -->
 
-- [ ] Integrate `xgh/github-roadmap-sync` into the main repo flow (`.github/scripts/sync_roadmap.py`) (#10)
-- [ ] Create `roadmap-sync.yml` workflow to sync `ROADMAP.md` with GitHub Issues (#11)
-- [ ] Define phase label convention and create baseline labels on GitHub (#12)
-- [ ] Run local `--dry-run` with authenticated `gh` and validate duplicate prevention (#13)
-- [ ] Document roadmap sync usage in root documentation (#14)
+- [x] Integrate `xgh/github-roadmap-sync` into the main repo flow (`.github/scripts/sync_roadmap.py`) (#10)
+- [x] Create `roadmap-sync.yml` workflow to sync `ROADMAP.md` with GitHub Issues (#11)
+- [x] Define phase label convention and create baseline labels on GitHub (#12)
+- [x] Run local `--dry-run` with authenticated `gh` and validate duplicate prevention (#13)
+- [x] Document roadmap sync usage in root documentation (#14)
 
 ## Phase 3 · Theme quality <!-- phase:themes-quality -->
 
@@ -25,20 +25,20 @@
 
 ## Phase 4 · Versioning and releases <!-- phase:releases -->
 
-- [ ] Define semantic versioning strategy for `xglass`, `x-dark-colors`, and `xscriptor-themes` (#21)
-- [ ] Bump version in `extensions/xglass/package.json` with matching changelog notes (#22)
-- [ ] Bump version in `themes/x-dark-colors/package.json` with matching changelog notes (#23)
-- [ ] Bump version in `themes/xscriptor-themes/package.json` with matching changelog notes (#24)
-- [ ] Standardize release notes per package (highlights, breaking changes, migrations) (#25)
-- [ ] Prepare pipeline/manual process to package `.vsix` for each package (#26)
+- [x] Define semantic versioning strategy for `xglass`, `x-dark-colors`, and `xscriptor-themes` (#21)
+- [x] Bump version in `extensions/xglass/package.json` with matching changelog notes (#22)
+- [x] Bump version in `themes/x-dark-colors/package.json` with matching changelog notes (#23)
+- [x] Bump version in `themes/xscriptor-themes/package.json` with matching changelog notes (#24)
+- [x] Standardize release notes per package (highlights, breaking changes, migrations) (#25)
+- [x] Prepare pipeline/manual process to package `.vsix` for each package (#26)
 
 ## Phase 5 · XGlass functional improvements <!-- phase:xglass-improvements -->
 
-- [ ] Review `xglass.alpha` and `xglass.step` defaults based on real usage feedback (#27)
-- [ ] Add clearer validation and error messages for Linux/X11 environments (#28)
-- [ ] Improve behavior in compositors that ignore opacity (#29)
-- [ ] Review keybindings for potential conflicts with common shortcuts (#30)
-- [ ] Expand platform-specific troubleshooting documentation (#31)
+- [x] Review `xglass.alpha` and `xglass.step` defaults based on real usage feedback (#27)
+- [x] Add clearer validation and error messages for Linux/X11 environments (#28)
+- [x] Improve behavior in compositors that ignore opacity (#29)
+- [x] Review keybindings for potential conflicts with common shortcuts (#30)
+- [x] Expand platform-specific troubleshooting documentation (#31)
 
 ## Phase 6 · UI Mods and UX improvements <!-- phase:ui-mods -->
 
