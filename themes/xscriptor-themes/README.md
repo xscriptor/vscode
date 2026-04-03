@@ -1,8 +1,8 @@
-<h1 align="center">Xscriptor Themes Collection</h1>
+<h1 align="center">Xscriptor</h1>
 
-<p align="center">
+<p align="center"><em>
   A curated pack of themes and icon sets for Visual Studio Code, from warm evening palettes to clean, bright daytime styles.
-</p>
+</em></p>
 
 <h2>Previews</h2>
 <p align="center"><img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/xscriptor-themes/screenshots/xtvsc01.jpg" alt="Xscriptor Themes preview 1" width="900" /></p>
@@ -84,18 +84,19 @@
 <p>Terminal install (VSIX):</p>
 <pre><code>code --install-extension xscriptor-themes-1.1.0.vsix</code></pre>
 
-<h2>References</h2>
+<h2 align="center">Related Documents</h2>
+
 <ul>
-  <li><a href="./CHANGELOG.md">CHANGELOG.md</a></li>
-  <li><a href="./references.md">references.md</a></li>
+  <li><a href="https://github.com/xscriptor/vscode/blob/main/themes/xscriptor-themes/LICENSE">License</a></li>
+  <li><a href="https://github.com/xscriptor/vscode/blob/main/CODE_OF_CONDUCT.md">Code of Conduct</a></li>
+  <li><a href="https://github.com/xscriptor/vscode/blob/main/CONTRIBUTING.md">Contributions</a></li>
+  <li><a href="https://github.com/xscriptor/vscode/blob/main/ROADMAP.md">Roadmap</a></li>
 </ul>
 
-<h2>Contributing</h2>
-<p>
-  Open issues or suggestions in <a href="https://github.com/xscriptor/vscode/issues">github.com/xscriptor/vscode/issues</a>.
-</p>
 
-<h2>License</h2>
-<p>
-  Licensed as described in <a href="./LICENSE">LICENSE</a>.
-</p>
+<div align="center">
+<h2 align="center">X</h2>
+
+<a href="https://github.com/xscriptor">XGitHub</a> &middot;
+<a href="https://dev.xscriptor.com">XWeb</a>
+</div>

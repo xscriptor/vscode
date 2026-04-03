@@ -74,11 +74,19 @@
   Report bugs or request improvements at <a href="https://github.com/xscriptor/vscode/issues">github.com/xscriptor/vscode/issues</a>.
 </p>
 
-<h2>License</h2>
-<p>
-  Licensed as described in <a href="./LICENSE">LICENSE</a>.
-</p>
+<h2 align="center">Related Documents</h2>
 
-<p>
-  Recommended with <a href="https://marketplace.visualstudio.com/items?itemName=xscriptor.xglass">XGlass</a> for transparent setups.
-</p>
+<ul>
+  <li><a href="https://github.com/xscriptor/vscode/blob/main/themes/x-dark-colors/LICENSE">License</a></li>
+  <li><a href="https://github.com/xscriptor/vscode/blob/main/CODE_OF_CONDUCT.md">Code of Conduct</a></li>
+  <li><a href="https://github.com/xscriptor/vscode/blob/main/CONTRIBUTING.md">Contributions</a></li>
+  <li><a href="https://github.com/xscriptor/vscode/blob/main/ROADMAP.md">Roadmap</a></li>
+</ul>
+
+
+<div align="center">
+<h2 align="center">X</h2>
+
+<a href="https://github.com/xscriptor">XGitHub</a> &middot;
+<a href="https://dev.xscriptor.com">XWeb</a>
+</div>

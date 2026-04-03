@@ -129,7 +129,9 @@ sudo pacman -S xorg-xprop
   <li>Or search for <strong>XGlass</strong> in the Extensions view.</li>
 </ul>
 
-<h2 id="license">License</h2>
-<p><a href="./LICENSE.md">MIT</a></p>
+<div align="center">
+<h2 align="center" id="x">X</h2>
 
-<p>Repository: <a href="https://github.com/xscriptor/vscode">github.com/xscriptor/vscode</a></p>
+<a href="https://github.com/xscriptor">XGitHub</a> &middot;
+<a href="https://dev.xscriptor.com">XWeb</a>
+</div>
