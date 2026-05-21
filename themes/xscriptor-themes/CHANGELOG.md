@@ -3,7 +3,7 @@
 All important modifications to this VSCode theme collection will be documented in this file.
 
 ---
-## [1.1.1] - 2026-21-05
+## [1.1.1] - 2026-05-21
 
 ### Added
 - Accessibility audit to improve theme usability while preserving X's visual identity.
