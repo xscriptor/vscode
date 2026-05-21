@@ -1,7 +1,7 @@
-<h1 align="center">Xscriptor</h1>
+<h1 align="center">Xscriptor Themes</h1>
 
 <p align="center"><em>
-  A curated pack of themes and icon sets for Visual Studio Code, from warm evening palettes to clean, bright daytime styles.
+  This suite represents the modern and unified visual ecosystem of X, designed specifically for advanced users, terminal enthusiasts, and developers who work long hours and demand absolute consistency in both aesthetics and accessibility.
 </em></p>
 
 <h2>Previews</h2>
@@ -12,12 +12,12 @@
 <p align="center"><img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/xscriptor-themes/screenshots/xtvsc05.jpg" alt="Xscriptor Themes preview 5" width="900" /></p>
 <p align="center"><img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/xscriptor-themes/screenshots/xtvsc04.jpg" alt="Xscriptor Themes preview 6" width="900" /></p>
 
-<h2>Featured Theme</h2>
+<h2 align="center">Featured Theme</h2>
 <p>
   <strong>X</strong> is the flagship dark theme: ultra-dark background, warm accents, and balanced contrast for long coding sessions.
 </p>
 
-<h2>Theme Collection</h2>
+<h2 align="center">Theme Collection</h2>
 
 <h3>Icon Themes</h3>
 <ul>
@@ -74,7 +74,7 @@
 }
 </code></pre>
 
-<h2>Installation</h2>
+<h2 align="center">Installation</h2>
 <ol>
   <li>Open Extensions view (<code>Ctrl+Shift+X</code>).</li>
   <li>Search for <code>X Themes</code> or <code>xscriptor</code>.</li>
@@ -82,7 +82,7 @@
 </ol>
 
 <p>Terminal install (VSIX):</p>
-<pre><code>code --install-extension xscriptor-themes-1.1.0.vsix</code></pre>
+<pre><code>code --install-extension xscriptor-themes-1.1.1.vsix</code></pre>
 
 <h2 align="center">Related Documents</h2>
 
@@ -94,9 +94,20 @@
 </ul>
 
 
-<div align="center">
-<h2 align="center">X</h2>
 
-<a href="https://github.com/xscriptor">XGitHub</a> &middot;
-<a href="https://dev.xscriptor.com">XWeb</a>
+<div id="x" align="center">
+<h2>X</h2>
+
+<a href="https://dev.xscriptor.com">
+  <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/verified-filled.svg" width="24" alt="X Web" />
+</a>
+ & 
+<a href="https://github.com/xscriptor">
+  <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/github.svg" width="24" alt="X Github Profile" />
+</a>
+ & 
+<a href="https://www.xscriptor.com">
+  <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/quotes.svg" width="24" alt="Xscriptor web" />
+</a>
+
 </div>
