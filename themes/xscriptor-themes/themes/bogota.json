@@ -19,7 +19,7 @@
 		"button.foreground": "#222222",
 		"button.hoverBackground": "#ffed89",
 		"button.secondaryBackground": "#3e1f1f",
-		"button.secondaryForeground": "#8b888f",
+		"button.secondaryForeground": "#f7f1ff",
 		"button.secondaryHoverBackground": "#222222",
 		"charts.blue": "#47e6ff",
 		"charts.foreground": "#f7f1ff",
@@ -111,7 +111,7 @@
 		"editorLightBulb.foreground": "#ffed89",
 		"editorLightBulbAutoFix.foreground": "#7bd88f",
 		"editorLineNumber.activeForeground": "#bab6c0",
-		"editorLineNumber.foreground": "#525053",
+		"editorLineNumber.foreground": "#7a7a7a",
 		"editorLink.activeForeground": "#47e6ff",
 		"editorMarkerNavigation.background": "#5c3b3b",
 		"editorMarkerNavigationError.background": "#fc618d",
@@ -385,10 +385,8 @@
 		"welcomePage.background": "#140706",
 		"welcomePage.buttonBackground": "#5c3b3b",
 		"welcomePage.buttonHoverBackground": "#ffed89",
-		"widget.shadow": "#222222",
 		"welcomePage.tileBackground": "#222222",
-		"widget.shadow": "#0a0a0a",
-		
+		"widget.shadow": "#0a0a0a"
 	},
 	"tokenColors": [
 		{

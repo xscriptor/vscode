@@ -1,0 +1,1510 @@
+{
+  "generatedAt": "2026-05-21T20:21:39.486Z",
+  "thresholds": {
+    "minNormal": 4.5,
+    "minLarge": 3
+  },
+  "summary": {
+    "themesChecked": 11,
+    "totalPairs": 176,
+    "totalFailures": 0
+  },
+  "themes": [
+    {
+      "name": "X Greyscale",
+      "file": "themes/berlin.json",
+      "pairs": [
+        {
+          "pair": "button",
+          "foreground": "#ffffff",
+          "background": "#666666",
+          "contrast": 5.74,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "button.secondary",
+          "foreground": "#ffffff",
+          "background": "#555555",
+          "contrast": 7.46,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "extensionButton.prominent",
+          "foreground": "#ffffff",
+          "background": "#666666",
+          "contrast": 5.74,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "badge",
+          "foreground": "#111111",
+          "background": "#888888",
+          "contrast": 5.33,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "activityBarBadge",
+          "foreground": "#111111",
+          "background": "#888888",
+          "contrast": 5.33,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.activeSelection",
+          "foreground": "#ffffff",
+          "background": "#555555",
+          "contrast": 7.46,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.inactiveSelection",
+          "foreground": "#cccccc",
+          "background": "#404040",
+          "contrast": 6.46,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.hover",
+          "foreground": "#cccccc",
+          "background": "#2a2a2a",
+          "contrast": 8.94,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editor",
+          "foreground": "#d4d4d4",
+          "background": "#000000",
+          "contrast": 14.17,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editorLineNumber",
+          "foreground": "#858585",
+          "background": "#000000",
+          "contrast": 5.69,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editorLineNumber.active",
+          "foreground": "#c6c6c6",
+          "background": "#000000",
+          "contrast": 12.29,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "input",
+          "foreground": "#cccccc",
+          "background": "#333333",
+          "contrast": 7.87,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "dropdown",
+          "foreground": "#cccccc",
+          "background": "#333333",
+          "contrast": 7.87,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "panelTitle.active",
+          "foreground": "#cccccc",
+          "background": "#0d0d0d",
+          "contrast": 12.1,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "panelTitle.inactive",
+          "foreground": "#999999",
+          "background": "#0d0d0d",
+          "contrast": 6.82,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "notification",
+          "foreground": "#cccccc",
+          "background": "#1a1a1a",
+          "contrast": 10.84,
+          "passAA": true,
+          "passLargeAA": true
+        }
+      ],
+      "failures": [],
+      "missing": []
+    },
+    {
+      "name": "X Summer Night",
+      "file": "themes/bogota.json",
+      "pairs": [
+        {
+          "pair": "button",
+          "foreground": "#222222",
+          "background": "#ffed89",
+          "contrast": 13.43,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "button.secondary",
+          "foreground": "#f7f1ff",
+          "background": "#3e1f1f",
+          "contrast": 13.36,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "extensionButton.prominent",
+          "foreground": "#f7f1ff",
+          "background": "#363537",
+          "contrast": 11.03,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "badge",
+          "foreground": "#222222",
+          "background": "#ffed89",
+          "contrast": 13.43,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "activityBarBadge",
+          "foreground": "#222222",
+          "background": "#ffed89",
+          "contrast": 13.43,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.activeSelection",
+          "foreground": "#ffed89",
+          "background": "#f7f1ff0c",
+          "contrast": 15.45,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.inactiveSelection",
+          "foreground": "#ffed89",
+          "background": "#bab6c00c",
+          "contrast": 15.84,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.hover",
+          "foreground": "#f7f1ff",
+          "background": "#f7f1ff0c",
+          "contrast": 16.55,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editor",
+          "foreground": "#f7f1ff",
+          "background": "#140606",
+          "contrast": 17.93,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editorLineNumber",
+          "foreground": "#7a7a7a",
+          "background": "#140606",
+          "contrast": 4.62,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editorLineNumber.active",
+          "foreground": "#bab6c0",
+          "background": "#140606",
+          "contrast": 9.96,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "input",
+          "foreground": "#f7f1ff",
+          "background": "#191919",
+          "contrast": 15.89,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "dropdown",
+          "foreground": "#f7f1ff",
+          "background": "#060101",
+          "contrast": 18.75,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "panelTitle.active",
+          "foreground": "#f7f1ff",
+          "background": "#191919",
+          "contrast": 15.89,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "panelTitle.inactive",
+          "foreground": "#8b888f",
+          "background": "#191919",
+          "contrast": 5.04,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "notification",
+          "foreground": "#bab6c0",
+          "background": "#363537",
+          "contrast": 6.12,
+          "passAA": true,
+          "passLargeAA": true
+        }
+      ],
+      "failures": [],
+      "missing": []
+    },
+    {
+      "name": "X Nord Light",
+      "file": "themes/helsinki.json",
+      "pairs": [
+        {
+          "pair": "button",
+          "foreground": "#1a1a1a",
+          "background": "#bfb8ab",
+          "contrast": 8.83,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "button.secondary",
+          "foreground": "#1a1a1a",
+          "background": "#d3d1cb",
+          "contrast": 11.4,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "extensionButton.prominent",
+          "foreground": "#d3d1cb",
+          "background": "#582087",
+          "contrast": 6.98,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "badge",
+          "foreground": "#1a1a1a",
+          "background": "#f8fafe",
+          "contrast": 16.66,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "activityBarBadge",
+          "foreground": "#070502",
+          "background": "#b2a733",
+          "contrast": 8.21,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.activeSelection",
+          "foreground": "#28251f",
+          "background": "#d3cec5",
+          "contrast": 9.75,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.inactiveSelection",
+          "foreground": "#28251f",
+          "background": "#d3cec5",
+          "contrast": 9.75,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.hover",
+          "foreground": "#1d1d1c",
+          "background": "#d6d2ca",
+          "contrast": 11.19,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editor",
+          "foreground": "#544d40",
+          "background": "#f1efee",
+          "contrast": 7.29,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editorLineNumber",
+          "foreground": "#666666",
+          "background": "#f1efee",
+          "contrast": 5.01,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editorLineNumber.active",
+          "foreground": "#333333",
+          "background": "#f1efee",
+          "contrast": 11.02,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "input",
+          "foreground": "#1d1d1c",
+          "background": "#e2e0dc",
+          "contrast": 12.8,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "dropdown",
+          "foreground": "#1d1d1c",
+          "background": "#e2e0dc",
+          "contrast": 12.8,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "panelTitle.active",
+          "foreground": "#1d1d1c",
+          "background": "#cfcdc5",
+          "contrast": 10.6,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "panelTitle.inactive",
+          "foreground": "#4a4a4a",
+          "background": "#cfcdc5",
+          "contrast": 5.57,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "notification",
+          "foreground": "#1d1d1c",
+          "background": "#d3d1cb",
+          "contrast": 11.05,
+          "passAA": true,
+          "passLargeAA": true
+        }
+      ],
+      "failures": [],
+      "missing": []
+    },
+    {
+      "name": "X Summer Night",
+      "file": "themes/lahabana.json",
+      "pairs": [
+        {
+          "pair": "button",
+          "foreground": "#222222",
+          "background": "#e5ff9d",
+          "contrast": 14.49,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "button.secondary",
+          "foreground": "#f7f1ff",
+          "background": "#363537",
+          "contrast": 11.03,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "extensionButton.prominent",
+          "foreground": "#f7f1ff",
+          "background": "#363537",
+          "contrast": 11.03,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "badge",
+          "foreground": "#222222",
+          "background": "#e5ff9d",
+          "contrast": 14.49,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "activityBarBadge",
+          "foreground": "#222222",
+          "background": "#e5ff9d",
+          "contrast": 14.49,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.activeSelection",
+          "foreground": "#e5ff9d",
+          "background": "#f7f1ff0c",
+          "contrast": 14.3,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.inactiveSelection",
+          "foreground": "#e5ff9d",
+          "background": "#bab6c00c",
+          "contrast": 14.79,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.hover",
+          "foreground": "#f7f1ff",
+          "background": "#f7f1ff0c",
+          "contrast": 14.19,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editor",
+          "foreground": "#f7f1ff",
+          "background": "#191919",
+          "contrast": 15.89,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editorLineNumber",
+          "foreground": "#8b888f",
+          "background": "#191919",
+          "contrast": 5.04,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editorLineNumber.active",
+          "foreground": "#bab6c0",
+          "background": "#191919",
+          "contrast": 8.82,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "input",
+          "foreground": "#f7f1ff",
+          "background": "#1a1919",
+          "contrast": 15.86,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "dropdown",
+          "foreground": "#8b888f",
+          "background": "#222222",
+          "contrast": 4.56,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "panelTitle.active",
+          "foreground": "#e5ff9d",
+          "background": "#191919",
+          "contrast": 16.01,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "panelTitle.inactive",
+          "foreground": "#8b888f",
+          "background": "#191919",
+          "contrast": 5.04,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "notification",
+          "foreground": "#bab6c0",
+          "background": "#363537",
+          "contrast": 6.12,
+          "passAA": true,
+          "passLargeAA": true
+        }
+      ],
+      "failures": [],
+      "missing": []
+    },
+    {
+      "name": "X Greyscale Inverted",
+      "file": "themes/london.json",
+      "pairs": [
+        {
+          "pair": "button",
+          "foreground": "#000000",
+          "background": "#999999",
+          "contrast": 7.37,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "button.secondary",
+          "foreground": "#000000",
+          "background": "#cccccc",
+          "contrast": 13.08,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "extensionButton.prominent",
+          "foreground": "#000000",
+          "background": "#999999",
+          "contrast": 7.37,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "badge",
+          "foreground": "#000000",
+          "background": "#777777",
+          "contrast": 4.69,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "activityBarBadge",
+          "foreground": "#000000",
+          "background": "#777777",
+          "contrast": 4.69,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.activeSelection",
+          "foreground": "#000000",
+          "background": "#aaaaaa",
+          "contrast": 9.04,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.inactiveSelection",
+          "foreground": "#333333",
+          "background": "#bfbfbf",
+          "contrast": 6.87,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.hover",
+          "foreground": "#333333",
+          "background": "#d5d5d5",
+          "contrast": 8.61,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editor",
+          "foreground": "#2b2b2b",
+          "background": "#ffffff",
+          "contrast": 14.16,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editorLineNumber",
+          "foreground": "#666666",
+          "background": "#ffffff",
+          "contrast": 5.74,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editorLineNumber.active",
+          "foreground": "#393939",
+          "background": "#ffffff",
+          "contrast": 11.55,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "input",
+          "foreground": "#333333",
+          "background": "#cccccc",
+          "contrast": 7.87,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "dropdown",
+          "foreground": "#333333",
+          "background": "#cccccc",
+          "contrast": 7.87,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "panelTitle.active",
+          "foreground": "#333333",
+          "background": "#f2f2f2",
+          "contrast": 11.29,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "panelTitle.inactive",
+          "foreground": "#666666",
+          "background": "#f2f2f2",
+          "contrast": 5.13,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "notification",
+          "foreground": "#333333",
+          "background": "#e5e5e5",
+          "contrast": 10.03,
+          "passAA": true,
+          "passLargeAA": true
+        }
+      ],
+      "failures": [],
+      "missing": []
+    },
+    {
+      "name": "Xscriptor Theme Light",
+      "file": "themes/madrid.json",
+      "pairs": [
+        {
+          "pair": "button",
+          "foreground": "#ffffff",
+          "background": "#031a99",
+          "contrast": 13.03,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "button.secondary",
+          "foreground": "#333333",
+          "background": "#c9cac8",
+          "contrast": 7.68,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "extensionButton.prominent",
+          "foreground": "#1a1a1a",
+          "background": "#c9cac8",
+          "contrast": 10.58,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "badge",
+          "foreground": "#ffffff",
+          "background": "#031a99",
+          "contrast": 13.03,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "activityBarBadge",
+          "foreground": "#ffffff",
+          "background": "#031a99",
+          "contrast": 13.03,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.activeSelection",
+          "foreground": "#1a1a1a",
+          "background": "#e8e8e8",
+          "contrast": 14.2,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.inactiveSelection",
+          "foreground": "#1a1a1a",
+          "background": "#f0f0f0",
+          "contrast": 15.27,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.hover",
+          "foreground": "#1a1a1a",
+          "background": "#f0f0f0",
+          "contrast": 15.27,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editor",
+          "foreground": "#1a1a1a",
+          "background": "#ffffff",
+          "contrast": 17.4,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editorLineNumber",
+          "foreground": "#333333",
+          "background": "#ffffff",
+          "contrast": 12.63,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editorLineNumber.active",
+          "foreground": "#1a1a1a",
+          "background": "#ffffff",
+          "contrast": 17.4,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "input",
+          "foreground": "#1a1a1a",
+          "background": "#e5e6e6",
+          "contrast": 13.92,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "dropdown",
+          "foreground": "#1a1a1a",
+          "background": "#dddddd",
+          "contrast": 12.81,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "panelTitle.active",
+          "foreground": "#1a1a1a",
+          "background": "#ffffff",
+          "contrast": 17.4,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "panelTitle.inactive",
+          "foreground": "#333333",
+          "background": "#ffffff",
+          "contrast": 12.63,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "notification",
+          "foreground": "#f7f1ff",
+          "background": "#363537",
+          "contrast": 11.03,
+          "passAA": true,
+          "passLargeAA": true
+        }
+      ],
+      "failures": [],
+      "missing": []
+    },
+    {
+      "name": "X Nord",
+      "file": "themes/oslo.json",
+      "pairs": [
+        {
+          "pair": "button",
+          "foreground": "#e2e2e3",
+          "background": "#404754",
+          "contrast": 7.22,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "button.secondary",
+          "foreground": "#e2e2e3",
+          "background": "#2c2e34",
+          "contrast": 10.48,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "extensionButton.prominent",
+          "foreground": "#2c2e34",
+          "background": "#a7df78",
+          "contrast": 8.7,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "badge",
+          "foreground": "#f8fafd",
+          "background": "#181a1f",
+          "contrast": 16.65,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "activityBarBadge",
+          "foreground": "#f8fafd",
+          "background": "#3d5fa8",
+          "contrast": 5.91,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.activeSelection",
+          "foreground": "#d7dae0",
+          "background": "#2c313a",
+          "contrast": 9.33,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.inactiveSelection",
+          "foreground": "#d7dae0",
+          "background": "#2c313a",
+          "contrast": 9.33,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.hover",
+          "foreground": "#e2e2e3",
+          "background": "#292d35",
+          "contrast": 10.66,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editor",
+          "foreground": "#abb2bf",
+          "background": "#0e1011",
+          "contrast": 8.95,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editorLineNumber",
+          "foreground": "#7f8490",
+          "background": "#0e1011",
+          "contrast": 5.09,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editorLineNumber.active",
+          "foreground": "#c0c6d0",
+          "background": "#0e1011",
+          "contrast": 11.11,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "input",
+          "foreground": "#e2e2e3",
+          "background": "#1d1f23",
+          "contrast": 12.75,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "dropdown",
+          "foreground": "#e2e2e3",
+          "background": "#1d1f23",
+          "contrast": 12.75,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "panelTitle.active",
+          "foreground": "#e2e2e3",
+          "background": "#30323a",
+          "contrast": 9.87,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "panelTitle.inactive",
+          "foreground": "#b0b6c2",
+          "background": "#30323a",
+          "contrast": 6.28,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "notification",
+          "foreground": "#e2e2e3",
+          "background": "#2c2e34",
+          "contrast": 10.48,
+          "passAA": true,
+          "passLargeAA": true
+        }
+      ],
+      "failures": [],
+      "missing": []
+    },
+    {
+      "name": "X Summer Night",
+      "file": "themes/paris.json",
+      "pairs": [
+        {
+          "pair": "button",
+          "foreground": "#222222",
+          "background": "#fce566",
+          "contrast": 12.53,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "button.secondary",
+          "foreground": "#f7f1ff",
+          "background": "#2D1F3E",
+          "contrast": 13.78,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "extensionButton.prominent",
+          "foreground": "#f7f1ff",
+          "background": "#363537",
+          "contrast": 11.03,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "badge",
+          "foreground": "#222222",
+          "background": "#fce566",
+          "contrast": 12.53,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "activityBarBadge",
+          "foreground": "#222222",
+          "background": "#fce566",
+          "contrast": 12.53,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.activeSelection",
+          "foreground": "#fce566",
+          "background": "#f7f1ff0c",
+          "contrast": 14.18,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.inactiveSelection",
+          "foreground": "#fce566",
+          "background": "#bab6c00c",
+          "contrast": 14.56,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.hover",
+          "foreground": "#f7f1ff",
+          "background": "#f7f1ff0c",
+          "contrast": 16.27,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editor",
+          "foreground": "#f7f1ff",
+          "background": "#10081a",
+          "contrast": 17.71,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editorLineNumber",
+          "foreground": "#7a7a7a",
+          "background": "#10081a",
+          "contrast": 4.57,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editorLineNumber.active",
+          "foreground": "#bab6c0",
+          "background": "#10081a",
+          "contrast": 9.84,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "input",
+          "foreground": "#f7f1ff",
+          "background": "#191919",
+          "contrast": 15.89,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "dropdown",
+          "foreground": "#f7f1ff",
+          "background": "#10081a",
+          "contrast": 17.71,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "panelTitle.active",
+          "foreground": "#f7f1ff",
+          "background": "#191919",
+          "contrast": 15.89,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "panelTitle.inactive",
+          "foreground": "#8b888f",
+          "background": "#191919",
+          "contrast": 5.04,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "notification",
+          "foreground": "#bab6c0",
+          "background": "#363537",
+          "contrast": 6.12,
+          "passAA": true,
+          "passLargeAA": true
+        }
+      ],
+      "failures": [],
+      "missing": []
+    },
+    {
+      "name": "X Dark Colors",
+      "file": "themes/praha.json",
+      "pairs": [
+        {
+          "pair": "button",
+          "foreground": "#000000",
+          "background": "#B8E6A0",
+          "contrast": 14.86,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "button.secondary",
+          "foreground": "#FFFFFF",
+          "background": "#30363D",
+          "contrast": 12.2,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "extensionButton.prominent",
+          "foreground": "#FFFFFF",
+          "background": "#30363D",
+          "contrast": 12.2,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "badge",
+          "foreground": "#1a1a1a",
+          "background": "#FF9AA2",
+          "contrast": 8.62,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "activityBarBadge",
+          "foreground": "#1a1a1a",
+          "background": "#FF9AA2",
+          "contrast": 8.62,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.activeSelection",
+          "foreground": "#FFFFFF",
+          "background": "#1A1A1A",
+          "contrast": 17.4,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.inactiveSelection",
+          "foreground": "#FFFFFF",
+          "background": "#1A1A1A",
+          "contrast": 17.4,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.hover",
+          "foreground": "#FFFFFF",
+          "background": "#1A1A1A",
+          "contrast": 17.4,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editor",
+          "foreground": "#FFFFFF",
+          "background": "#1A1A1A",
+          "contrast": 17.4,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editorLineNumber",
+          "foreground": "#8f9bd4",
+          "background": "#1A1A1A",
+          "contrast": 6.47,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editorLineNumber.active",
+          "foreground": "#FFFFFF",
+          "background": "#1A1A1A",
+          "contrast": 17.4,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "input",
+          "foreground": "#FFFFFF",
+          "background": "#1A1A1A",
+          "contrast": 17.4,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "dropdown",
+          "foreground": "#FFFFFF",
+          "background": "#1A1A1A",
+          "contrast": 17.4,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "panelTitle.active",
+          "foreground": "#FFFFFF",
+          "background": "#1A1A1A",
+          "contrast": 17.4,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "panelTitle.inactive",
+          "foreground": "#8f9bd4",
+          "background": "#1A1A1A",
+          "contrast": 6.47,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "notification",
+          "foreground": "#FFFFFF",
+          "background": "#1A1A1A",
+          "contrast": 17.4,
+          "passAA": true,
+          "passLargeAA": true
+        }
+      ],
+      "failures": [],
+      "missing": []
+    },
+    {
+      "name": "X Summer Night",
+      "file": "themes/tokio.json",
+      "pairs": [
+        {
+          "pair": "button",
+          "foreground": "#222222",
+          "background": "#fce566",
+          "contrast": 12.53,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "button.secondary",
+          "foreground": "#f7f1ff",
+          "background": "#363537",
+          "contrast": 11.03,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "extensionButton.prominent",
+          "foreground": "#f7f1ff",
+          "background": "#363537",
+          "contrast": 11.03,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "badge",
+          "foreground": "#222222",
+          "background": "#fce566",
+          "contrast": 12.53,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "activityBarBadge",
+          "foreground": "#222222",
+          "background": "#fce566",
+          "contrast": 12.53,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.activeSelection",
+          "foreground": "#fce566",
+          "background": "#f7f1ff0c",
+          "contrast": 12.37,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.inactiveSelection",
+          "foreground": "#fce566",
+          "background": "#bab6c00c",
+          "contrast": 12.79,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.hover",
+          "foreground": "#f7f1ff",
+          "background": "#f7f1ff0c",
+          "contrast": 14.19,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editor",
+          "foreground": "#f7f1ff",
+          "background": "#191919",
+          "contrast": 15.89,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editorLineNumber",
+          "foreground": "#8b888f",
+          "background": "#191919",
+          "contrast": 5.04,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editorLineNumber.active",
+          "foreground": "#bab6c0",
+          "background": "#191919",
+          "contrast": 8.82,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "input",
+          "foreground": "#f7f1ff",
+          "background": "#191919",
+          "contrast": 15.89,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "dropdown",
+          "foreground": "#f7f1ff",
+          "background": "#191919",
+          "contrast": 15.89,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "panelTitle.active",
+          "foreground": "#fce566",
+          "background": "#191919",
+          "contrast": 13.85,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "panelTitle.inactive",
+          "foreground": "#8b888f",
+          "background": "#191919",
+          "contrast": 5.04,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "notification",
+          "foreground": "#bab6c0",
+          "background": "#363537",
+          "contrast": 6.12,
+          "passAA": true,
+          "passLargeAA": true
+        }
+      ],
+      "failures": [],
+      "missing": []
+    },
+    {
+      "name": "Xscriptor Theme",
+      "file": "themes/x.json",
+      "pairs": [
+        {
+          "pair": "button",
+          "foreground": "#222222",
+          "background": "#fce566",
+          "contrast": 12.53,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "button.secondary",
+          "foreground": "#222222",
+          "background": "#fce566",
+          "contrast": 12.53,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "extensionButton.prominent",
+          "foreground": "#222222",
+          "background": "#fce566",
+          "contrast": 12.53,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "badge",
+          "foreground": "#222222",
+          "background": "#fce566",
+          "contrast": 12.53,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "activityBarBadge",
+          "foreground": "#222222",
+          "background": "#fce566",
+          "contrast": 12.53,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.activeSelection",
+          "foreground": "#fce566",
+          "background": "#f7f1ff0c",
+          "contrast": 14.37,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.inactiveSelection",
+          "foreground": "#fce566",
+          "background": "#bab6c00c",
+          "contrast": 14.75,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "list.hover",
+          "foreground": "#f7f1ff",
+          "background": "#f7f1ff0c",
+          "contrast": 16.49,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editor",
+          "foreground": "#f7f1ff",
+          "background": "#0a0a0a",
+          "contrast": 17.89,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editorLineNumber",
+          "foreground": "#7a7a7a",
+          "background": "#0a0a0a",
+          "contrast": 4.61,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "editorLineNumber.active",
+          "foreground": "#bab6c0",
+          "background": "#0a0a0a",
+          "contrast": 9.94,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "input",
+          "foreground": "#f7f1ff",
+          "background": "#1a1919",
+          "contrast": 15.86,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "dropdown",
+          "foreground": "#8b888f",
+          "background": "#222222",
+          "contrast": 4.56,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "panelTitle.active",
+          "foreground": "#fce566",
+          "background": "#0a0a0a",
+          "contrast": 15.59,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "panelTitle.inactive",
+          "foreground": "#8b888f",
+          "background": "#0a0a0a",
+          "contrast": 5.67,
+          "passAA": true,
+          "passLargeAA": true
+        },
+        {
+          "pair": "notification",
+          "foreground": "#bab6c0",
+          "background": "#363537",
+          "contrast": 6.12,
+          "passAA": true,
+          "passLargeAA": true
+        }
+      ],
+      "failures": [],
+      "missing": []
+    }
+  ]
+}

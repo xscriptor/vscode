@@ -84,10 +84,16 @@
 <p>Terminal install (VSIX):</p>
 <pre><code>code --install-extension xscriptor-themes-1.1.1.vsix</code></pre>
 
+<h2 align="center">Accessibility</h2>
+<p>
+  All themes meet WCAG 2.1 AA contrast checks for the audited UI pairs.
+</p>
+
 <h2 align="center">Related Documents</h2>
 
 <ul>
   <li><a href="https://github.com/xscriptor/vscode/blob/main/themes/xscriptor-themes/LICENSE">License</a></li>
+  <li><a href="https://github.com/xscriptor/vscode/blob/main/themes/xscriptor-themes/docs/accessibility.md">Accessibility</a></li>
   <li><a href="https://github.com/xscriptor/vscode/blob/main/CODE_OF_CONDUCT.md">Code of Conduct</a></li>
   <li><a href="https://github.com/xscriptor/vscode/blob/main/CONTRIBUTING.md">Contributions</a></li>
   <li><a href="https://github.com/xscriptor/vscode/blob/main/ROADMAP.md">Roadmap</a></li>
@@ -98,16 +104,15 @@
 <div id="x" align="center">
 <h2>X</h2>
 
-<a href="https://dev.xscriptor.com">
-  <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/verified-filled.svg" width="24" alt="X Web" />
+<a href="https://dev.xscriptor.com">Web
 </a>
  & 
 <a href="https://github.com/xscriptor">
-  <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/github.svg" width="24" alt="X Github Profile" />
+  Github
 </a>
  & 
 <a href="https://www.xscriptor.com">
-  <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/quotes.svg" width="24" alt="Xscriptor web" />
+  X
 </a>
 
 </div>

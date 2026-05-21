@@ -111,7 +111,7 @@
 		"editorLightBulb.foreground": "#fce566",
 		"editorLightBulbAutoFix.foreground": "#7bd88f",
 		"editorLineNumber.activeForeground": "#bab6c0",
-		"editorLineNumber.foreground": "#525053",
+		"editorLineNumber.foreground": "#7a7a7a",
 		"editorLink.activeForeground": "#5ad4e6",
 		"editorMarkerNavigation.background": "#363537",
 		"editorMarkerNavigationError.background": "#fc618d",
