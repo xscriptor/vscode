@@ -3,8 +3,14 @@
 All important modifications to this VSCode theme collection will be documented in this file.
 
 ---
-## [1.1.1] - 2026-04-02
+## [1.1.1] - 2026-05-21
+
+### Added
+- Accessibility audit to improve theme usability while preserving X's visual identity.
+
 ### Fixed
+- shading in the selection section in the praha theme.
+- Return button colors for X.
 - Tokio theme: Fixed tab bar background color to match tab panel color (#191919 instead of #0a0a0a)
 - Tokio & X themes: Refined tab styling with transparent borders and golden icon colors
 
