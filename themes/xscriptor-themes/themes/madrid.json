@@ -8,9 +8,9 @@
 		"activityBar.foreground": "#1a1a1a",
 		"activityBar.inactiveForeground": "#333333",
 		"activityBarBadge.background": "#031a99",
-		"activityBarBadge.foreground": "#1a1a1a",
+		"activityBarBadge.foreground": "#ffffff",
 		"badge.background": "#031a99",
-		"badge.foreground": "#1a1a1a",
+		"badge.foreground": "#ffffff",
 		"breadcrumb.activeSelectionForeground": "#1a1a1a",
 		"breadcrumb.focusForeground": "#1a1a1a",
 		"breadcrumb.foreground": "#333333",
@@ -174,7 +174,7 @@
 		"inputValidation.warningBorder": "#cc6600",
 		"inputValidation.warningForeground": "#1a1a1a",
 		"list.activeSelectionBackground": "#e8e8e8",
-		"list.activeSelectionForeground": "#cc9900",
+		"list.activeSelectionForeground": "#1a1a1a",
 		"list.dropBackground": "#333333",
 		"list.errorForeground": "#cc0033",
 		"list.focusBackground": "#dddddd",
@@ -184,7 +184,7 @@
 		"list.hoverForeground": "#1a1a1a",
 		"list.inactiveFocusBackground": "#dddddd",
 		"list.inactiveSelectionBackground": "#f0f0f0",
-		"list.inactiveSelectionForeground": "#cc9900",
+		"list.inactiveSelectionForeground": "#1a1a1a",
 		"list.invalidItemForeground": "#cc0033",
 		"list.warningForeground": "#cc6600",
 		"listFilterWidget.background": "#dddddd",
@@ -211,7 +211,7 @@
 		"notificationToast.border": "#363537",
 		"notifications.background": "#363537",
 		"notifications.border": "#363537",
-		"notifications.foreground": "#1a1a1a",
+		"notifications.foreground": "#f7f1ff",
 		"notificationsErrorIcon.foreground": "#cc0033",
 		"notificationsInfoIcon.foreground": "#0099cc",
 		"notificationsWarningIcon.foreground": "#cc6600",
@@ -373,8 +373,7 @@
 		"titleBar.inactiveForeground": "#4a4a4a",
 		"walkThrough.embeddedEditorBackground": "#e6e6e6",
 		"welcomePage.tileBackground": "#dddddd",
-		"widget.shadow": "#00000026",
-		
+		"widget.shadow": "#00000026"
 	},
 	"tokenColors": [
 		{

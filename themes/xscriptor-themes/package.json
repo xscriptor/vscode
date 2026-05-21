@@ -2,7 +2,7 @@
   "name": "xscriptor-themes",
   "displayName": "Xscriptor Themes",
   "description": "Collection of themes for Visual Studio Code by Xscriptor.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "publisher": "xscriptor",
   "license": "SEE LICENSE IN LICENSE",
   "engines": {
@@ -38,7 +38,8 @@
   },
   "homepage": "https://github.com/xscriptor/vscode/tree/main/themes/xscriptor-themes",
   "scripts": {
-    "build:product-icons": "node icons/scripts/build-product-icons.mjs"
+    "build:product-icons": "node icons/scripts/build-product-icons.mjs",
+    "contrast:json": "node scripts/contrast-check.mjs --format json"
   },
   "contributes": {
     "themes": [
