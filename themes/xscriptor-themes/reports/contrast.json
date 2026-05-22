@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T20:21:39.486Z",
+  "generatedAt": "2026-05-22T11:26:20.784Z",
   "thresholds": {
     "minNormal": 4.5,
     "minLarge": 3
@@ -168,9 +168,9 @@
         },
         {
           "pair": "extensionButton.prominent",
-          "foreground": "#f7f1ff",
-          "background": "#363537",
-          "contrast": 11.03,
+          "foreground": "#222222",
+          "background": "#ffed89",
+          "contrast": 13.43,
           "passAA": true,
           "passLargeAA": true
         },
@@ -288,9 +288,9 @@
       "pairs": [
         {
           "pair": "button",
-          "foreground": "#1a1a1a",
-          "background": "#bfb8ab",
-          "contrast": 8.83,
+          "foreground": "#070502",
+          "background": "#b2a733",
+          "contrast": 8.21,
           "passAA": true,
           "passLargeAA": true
         },
@@ -304,9 +304,9 @@
         },
         {
           "pair": "extensionButton.prominent",
-          "foreground": "#d3d1cb",
-          "background": "#582087",
-          "contrast": 6.98,
+          "foreground": "#070502",
+          "background": "#b2a733",
+          "contrast": 8.21,
           "passAA": true,
           "passLargeAA": true
         },
@@ -440,9 +440,9 @@
         },
         {
           "pair": "extensionButton.prominent",
-          "foreground": "#f7f1ff",
-          "background": "#363537",
-          "contrast": 11.03,
+          "foreground": "#222222",
+          "background": "#e5ff9d",
+          "contrast": 14.49,
           "passAA": true,
           "passLargeAA": true
         },
@@ -712,9 +712,9 @@
         },
         {
           "pair": "extensionButton.prominent",
-          "foreground": "#1a1a1a",
-          "background": "#c9cac8",
-          "contrast": 10.58,
+          "foreground": "#ffffff",
+          "background": "#031a99",
+          "contrast": 13.03,
           "passAA": true,
           "passLargeAA": true
         },
@@ -832,9 +832,9 @@
       "pairs": [
         {
           "pair": "button",
-          "foreground": "#e2e2e3",
-          "background": "#404754",
-          "contrast": 7.22,
+          "foreground": "#181a1f",
+          "background": "#76cce0",
+          "contrast": 9.52,
           "passAA": true,
           "passLargeAA": true
         },
@@ -848,9 +848,9 @@
         },
         {
           "pair": "extensionButton.prominent",
-          "foreground": "#2c2e34",
-          "background": "#a7df78",
-          "contrast": 8.7,
+          "foreground": "#181a1f",
+          "background": "#76cce0",
+          "contrast": 9.52,
           "passAA": true,
           "passLargeAA": true
         },
@@ -984,9 +984,9 @@
         },
         {
           "pair": "extensionButton.prominent",
-          "foreground": "#f7f1ff",
-          "background": "#363537",
-          "contrast": 11.03,
+          "foreground": "#222222",
+          "background": "#fce566",
+          "contrast": 12.53,
           "passAA": true,
           "passLargeAA": true
         },
@@ -1120,9 +1120,9 @@
         },
         {
           "pair": "extensionButton.prominent",
-          "foreground": "#FFFFFF",
-          "background": "#30363D",
-          "contrast": 12.2,
+          "foreground": "#000000",
+          "background": "#B8E6A0",
+          "contrast": 14.86,
           "passAA": true,
           "passLargeAA": true
         },
@@ -1256,9 +1256,9 @@
         },
         {
           "pair": "extensionButton.prominent",
-          "foreground": "#f7f1ff",
-          "background": "#363537",
-          "contrast": 11.03,
+          "foreground": "#222222",
+          "background": "#fce566",
+          "contrast": 12.53,
           "passAA": true,
           "passLargeAA": true
         },
