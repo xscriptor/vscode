@@ -3,6 +3,12 @@
 All important modifications to this VSCode theme collection will be documented in this file.
 
 ---
+## [1.1.2] - 2026-05-21
+
+### Added
+- New keys validation for compatibility with kyro trae and antigravity
+- Highlight buttons with the color identity of theme
+
 ## [1.1.1] - 2026-05-21
 
 ### Added
