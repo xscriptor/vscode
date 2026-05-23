@@ -45,9 +45,9 @@
 </ul>
 
 <h2 id="previews">Previews</h2>
-<p align="center">
-  <img src="https://i.imgur.com/H9jGuBc.gif" referrerpolicy="no-referrer" alt="Demo">
-</p>
+
+  <img align="center" src="https://i.imgur.com/H9jGuBc.gif" referrerpolicy="no-referrer" alt="Demo">
+
 
 <p align="center">
   <img src="./themes/xscriptor-themes/screenshots/xtvsc02.jpg" alt="Xscriptor preview 1" width="49%" />
