@@ -46,7 +46,7 @@
 
 <h2 id="previews">Previews</h2>
 <p align="center">
-  <img src="https://i.imgur.com/H9jGuBc.gif"/>
+  <img src="https://i.imgur.com/H9jGuBc.gif" referrerpolicy="no-referrer" alt="Demo">
 </p>
 
 <p align="center">
