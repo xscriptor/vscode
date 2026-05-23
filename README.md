@@ -23,7 +23,7 @@
 
 <hr />
 
-<h2>Contents</h2>
+<h2 align="center">Contents</h2>
 <ul>
   <li><a href="#repository-structure">Repository Structure</a></li>
   <li><a href="#previews">Previews</a></li>
@@ -33,9 +33,11 @@
   <li><a href="#contributing">Contributing</a></li>
   <li><a href="#security">Security</a></li>
   <li><a href="#license">License</a></li>
+  <li><a href="#related-repos">Related repos</a></li>
+  <li><a href="#x">X</a></li>
 </ul>
 
-<h2 id="repository-structure">Repository Structure</h2>
+<h2 align="center" id="repository-structure">Repository Structure</h2>
 
 <ul>
   <li><code>themes/</code>: Theme collections (<code>xscriptor-themes</code>, <code>x-dark-colors</code>).</li>
@@ -44,7 +46,12 @@
   <li><code>assets/</code>: Shared previews and branding assets.</li>
 </ul>
 
-<h2 id="previews">Previews</h2>
+<h2 align="center" id="previews">Previews</h2>
+<div align="center">
+<a href="https://i.imgur.com/H9jGuBc.gif">
+<img src="https://i.imgur.com/wZFxTbz.gif" width="900" alt="Demo" >
+</a>
+</div>
 
 <p align="center">
   <img src="./themes/xscriptor-themes/screenshots/xtvsc02.jpg" alt="Xscriptor preview 1" width="49%" />
@@ -55,7 +62,7 @@
   <img src="./assets/previews/preview4.jpg" alt="Xscriptor preview 4" width="49%" />
 </p>
 
-<h2 id="quick-install">Quick Install</h2>
+<h2 align="center" id="quick-install">Quick Install</h2>
 
 <ul>
   <li>Open Extensions view and search for <code>Xscriptor</code>.</li>
@@ -63,7 +70,7 @@
   <li>For local builds, open a package folder and press <code>F5</code> to run an Extension Development Host.</li>
 </ul>
 
-<h2 id="usage">Usage</h2>
+<h2 align="center" id="usage">Usage</h2>
 
 <ul>
   <li>Color Theme: open <code>Preferences &gt; Color Theme</code> and select an Xscriptor theme.</li>
@@ -71,36 +78,62 @@
   <li>XGlass: run <code>xglass: Enable Transparency Mode</code>, <code>xglass: + transparency</code>, or <code>xglass: - transparency</code>.</li>
 </ul>
 
-<h2 id="compatibility">Compatibility</h2>
+<h2 align="center" id="compatibility">Compatibility</h2>
 
 <p>
   Packages are designed for VS Code and VS Code forks, including VSCodium, Code - OSS, Cursor, Antigravity, and Trae.
 </p>
 
-<h2 id="contributing">Contributing</h2>
+<h2 align="center" id="contributing">Contributing</h2>
 
 <p>
   Contributions are welcome. See <a href="./CONTRIBUTING.md">CONTRIBUTING.md</a> for workflow and conventions.
 </p>
 
-<h2>Community Docs</h2>
+<h2 align="center">Community Docs</h2>
 <ul>
   <li><a href="./CODE_OF_CONDUCT.md">Code of Conduct</a></li>
   <li><a href="./SUPPORT.md">Support</a></li>
   <li><a href="./CHANGELOG.md">Changelog</a></li>
 </ul>
 
-<h2 id="security">Security</h2>
+<h2 align="center" id="security">Security</h2>
 
 <p>
   To report vulnerabilities, read <a href="./SECURITY.md">SECURITY.md</a> and follow the private disclosure process.
 </p>
 
-<h2 id="license">License</h2>
+<h2 align="center" id="license">License</h2>
 
 <ul>
   <li>Default: repository code is under <a href="./LICENSE">MIT License</a>.</li>
   <li>Themes inside <code>themes/</code> keep their own package-level license files.</li>
 </ul>
 
+<h2 align="center" id="related-repos">Related Repos</h2>
+<ul>
+  <li><a href="https://github.com/xscriptor/terminal">Terminal </a> <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/terminal-bash.svg" /></li>
+  <li><a href="https://github.com/xscriptor/nvim">Nvim </a><img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/file-text.svg"/></li>
+  <li><a href="https://github.com/xscriptor/jetbrains">Jetbrains </a><img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/project.svg"/></li>
+  <li><a href="https://github.com/xscriptor/gitnapse">Gitnapse </a><img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/github-alt.svg"/></li>
+  <li><a href="https://github.com/xscriptor/obsidian">Obsidian </a><img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/markdown.svg"/></li>
+  <li><a href="https://github.com/xscriptor/xfetch">XFetch </a><img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/git-fetch.svg"/></li>
+</ul>
 
+
+<div id="x" align="center">
+<h2>X</h2>
+
+<a href="https://dev.xscriptor.com">
+  <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/verified-filled.svg" width="24" alt="X Web" />
+</a>
+ & 
+<a href="https://github.com/xscriptor">
+  <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/github.svg" width="24" alt="X Github Profile" />
+</a>
+ & 
+<a href="https://www.xscriptor.com">
+  <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/quotes.svg" width="24" alt="Xscriptor web" />
+</a>
+
+</div>
