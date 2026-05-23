@@ -110,7 +110,7 @@
   <li>Themes inside <code>themes/</code> keep their own package-level license files.</li>
 </ul>
 
-<h2 align="center" id="related-repos">Related repos</h2>
+<h2 align="center" id="related-repos">Related Repos</h2>
 <ul>
   <li><a href="https://github.com/xscriptor/terminal">Terminal </a> <img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/terminal-bash.svg" /></li>
   <li><a href="https://github.com/xscriptor/nvim">Nvim </a><img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/file-text.svg"/></li>
