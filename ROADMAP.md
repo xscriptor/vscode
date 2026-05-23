@@ -16,10 +16,10 @@
 
 ## Phase 3 · Theme quality <!-- phase:themes-quality -->
 
-- [ ] Audit contrast and readability for all themes in `themes/x-dark-colors/themes/*.json` (#15)
-- [ ] Audit contrast and readability for all themes in `themes/xscriptor-themes/themes/*.json` (#16)
-- [ ] Normalize naming (accents, city names, variants) across theme labels and docs (#17)
-- [ ] Review consistency between syntax colors and UI colors (activity bar, status bar, badges) (#18)
+- [x] Audit contrast and readability for all themes in `themes/x-dark-colors/themes/*.json` (#15)
+- [x] Audit contrast and readability for all themes in `themes/xscriptor-themes/themes/*.json` (#16)
+- [x] Normalize naming (accents, city names, variants) across theme labels and docs (#17)
+- [x] Review consistency between syntax colors and UI colors (activity bar, status bar, badges) (#18)
 - [ ] Improve accessibility for transparency combinations with `xglass` (#19)
 - [ ] Add a visual QA checklist per theme (JS/TS, JSON, Markdown, diff, terminal) (#20)
 
@@ -45,12 +45,12 @@
 - [ ] Align preset structure between `ui-mods/x-ui/` and `ui-mods/xscriptor-ui/` (#32)
 - [ ] Add before/after previews for each major mod (#33)
 - [ ] Publish step-by-step installation guide for Custom UI Style (#34)
-- [ ] Review mod compatibility with newer VS Code releases (#35)
+- [x] Review mod compatibility with newer VS Code releases (#35)
 
 ## Phase 7 · Ongoing maintenance <!-- phase:maintenance -->
 
 - [ ] Create a monthly routine for issue triage and prioritization (#36)
-- [ ] Review broken links and missing images across documentation (#37)
+- [x] Review broken links and missing images across documentation (#37)
 - [ ] Track user feedback to prioritize new palettes and improvements (#38)
-- [ ] Keep root `CHANGELOG.md` updated for every release (#39)
-- [ ] Define acceptance criteria for roadmap task closure (#40)
+- [/] Keep root `CHANGELOG.md` updated for every release (#39)
+- [x] Define acceptance criteria for roadmap task closure (#40)
