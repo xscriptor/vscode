@@ -3,6 +3,15 @@
 All important modifications to this VSCode theme collection will be documented in this file.
 
 ---
+## [1.1.3] - 2026-05-24
+
+### Updated
+- X Theme: Fixed tab panel background color to match tab bar color (#181a1f instead of #30323a).
+- Oslo Theme: Fixed tab panel background color to match tab bar color (#181a1f instead of #30323a).
+- Colors updated for consistency in all themes.
+- Updated docs.
+- Uploaded gif demo.
+
 ## [1.1.2] - 2026-05-21
 
 ### Added
