@@ -46,7 +46,7 @@
 
 <h2 id="previews">Previews</h2>
 <div align="center">
-<img src="https://i.imgur.com/OoY1SSh.gif" width="600" alt="Demo" >
+<img src="https://i.imgur.com/OoY1SSh.gif" width="900" alt="Demo" >
 </div>
 
 <p align="center">
