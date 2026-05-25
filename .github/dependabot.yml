@@ -1,0 +1,9 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/themes/xscriptor-themes"
+    schedule:
+      interval: "monthly"
+      time: "09:00"
+      timezone: "UTC"
+    open-pull-requests-limit: 5
