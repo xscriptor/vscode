@@ -91,7 +91,14 @@
 
 <h2 align="center" align="center">Accessibility</h2>
 <p>
-  All themes meet WCAG 2.1 AA contrast checks for the audited UI pairs.
+  All themes meet WCAG 2.1 AA contrast checks for the audited UI pairs: <a href="https://github.com/xscriptor/vscode/blob/main/themes/xscriptor-themes/reports/contrast.json">contrast.json</a>
+</p>
+
+<h2 align="center" align="center">Security</h2>
+<p>
+  Automated OSV dependency scan (SARIF):
+  <a href="https://github.com/xscriptor/vscode/blob/main/themes/xscriptor-themes/reports/osv-results-xscriptor-themes.sarif">osv-results-xscriptor-themes.sarif</a>.
+  The latest report shows no known vulnerabilities in declared dependencies.
 </p>
 
 <h2 align="center" align="center">Related Documents</h2>
@@ -99,6 +106,8 @@
 <ul>
   <li><a href="https://github.com/xscriptor/vscode/blob/main/themes/xscriptor-themes/LICENSE">License</a></li>
   <li><a href="https://github.com/xscriptor/vscode/blob/main/themes/xscriptor-themes/docs/accessibility.md">Accessibility</a></li>
+  <li><a href="https://github.com/xscriptor/vscode/blob/main/themes/xscriptor-themes/reports/contrast.json">Contrast Report</a></li>
+  <li><a href="https://github.com/xscriptor/vscode/blob/main/themes/xscriptor-themes/reports/osv-results-xscriptor-themes.sarif">OSV Scan Report</a></li>
   <li><a href="https://github.com/xscriptor/vscode/blob/main/CODE_OF_CONDUCT.md">Code of Conduct</a></li>
   <li><a href="https://github.com/xscriptor/vscode/blob/main/CONTRIBUTING.md">Contributions</a></li>
   <li><a href="https://github.com/xscriptor/vscode/blob/main/ROADMAP.md">Roadmap</a></li>
