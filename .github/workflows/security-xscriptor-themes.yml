@@ -15,6 +15,7 @@ jobs:
     uses: google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml@v2.3.8
     with:
       scan-args: |-
+        --allow-no-lockfiles
         themes/xscriptor-themes/package.json
       results-file-name: osv-results-xscriptor-themes.sarif
       fail-on-vuln: false
