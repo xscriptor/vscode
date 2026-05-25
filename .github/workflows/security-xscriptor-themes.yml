@@ -8,30 +8,13 @@ on:
 permissions:
   contents: read
   security-events: write
+  actions: read
 
 jobs:
   osv-scan:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Run OSV Scanner (xscriptor-themes)
-        uses: google/osv-scanner-action@v1
-        continue-on-error: true
-        with:
-          scan-args: >-
-            --format sarif
-            --output osv-results.sarif
-            themes/xscriptor-themes/package.json
-
-      - name: Upload OSV results artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: osv-results-xscriptor-themes
-          path: osv-results.sarif
-
-      - name: Upload OSV results to code scanning
-        uses: github/codeql-action/upload-sarif@v3
-        with:
-          sarif_file: osv-results.sarif
+    uses: google/osv-scanner-action/.github/workflows/osv-scanner-reusable.yml@v2.3.8
+    with:
+      scan-args: |-
+        themes/xscriptor-themes/package.json
+      results-file-name: osv-results-xscriptor-themes.sarif
+      fail-on-vuln: false
