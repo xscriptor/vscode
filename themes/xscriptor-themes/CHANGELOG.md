@@ -3,6 +3,15 @@
 All important modifications to this VSCode theme collection will be documented in this file.
 
 ---
+## [1.1.4] - 2026-06-23
+
+### Added
+- New **Miami** theme (dark, vibrant neon palette) with matching internal name.
+
+### Fixed
+- Bogotá, Lahabana, Paris, Tokio themes: fixed duplicate internal `"name"` field (all were set to `"X Summer Night"`).
+- All 12 theme JSON files: renamed internal `"name"` to match filename (Madrid, Berlin, Oslo, etc.) for consistency and to avoid VS Code theme resolution conflicts.
+
 ## [1.1.3] - 2026-05-24
 
 ### Updated

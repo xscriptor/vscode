@@ -15,6 +15,8 @@
   <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000" />
   <img alt="Antigravity" src="https://img.shields.io/badge/Antigravity-6C3CE0" />
   <img alt="Trae" src="https://img.shields.io/badge/Trae-412991" />
+  <img alt="Windsurf" src="https://img.shields.io/badge/Windsurf-4B32C3" />
+  <img alt="Positron" src="https://img.shields.io/badge/Positron-4477AA" />
   <img alt="MIT" src="https://img.shields.io/badge/License-MIT-yellow" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
@@ -30,6 +32,7 @@
   <li><a href="#quick-install">Quick Install</a></li>
   <li><a href="#usage">Usage</a></li>
   <li><a href="#compatibility">Compatibility</a></li>
+  <li><a href="#colors">Colors</a></li>
   <li><a href="#contributing">Contributing</a></li>
   <li><a href="#security">Security</a></li>
   <li><a href="#license">License</a></li>
@@ -84,6 +87,27 @@
   Packages are designed for VS Code and VS Code forks, including VSCodium, Code - OSS, Cursor, Antigravity, and Trae.
 </p>
 
+<h2 align="center" id="colors">Colors</h2>
+
+
+<div align="center">
+  <a href="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_x.svg"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_x.svg" height="100" alt="X"/></a>
+  <a href="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_madrid.svg"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_madrid.svg" height="100" alt="Madrid"/></a>
+  <a href="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_lahabana.svg"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_lahabana.svg" height="100" alt="Lahabana"/></a>
+  <a href="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_miami.svg"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_miami.svg" height="100" alt="Miami"/></a>
+  <a href="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_paris.svg"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_paris.svg" height="100" alt="Paris"/></a>
+  <a href="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_tokio.svg"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_tokio.svg" height="100" alt="Tokio"/></a>
+</div>
+<div align="center">
+  <a href="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_oslo.svg"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_oslo.svg" height="100" alt="Oslo"/></a>
+  <a href="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_helsinki.svg"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_helsinki.svg" height="100" alt="Helsinki"/></a>
+  <a href="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_berlin.svg"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_berlin.svg" height="100" alt="Berlin"/></a>
+  <a href="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_london.svg"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_london.svg" height="100" alt="London"/></a>
+  <a href="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_praha.svg"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_praha.svg" height="100" alt="Praha"/></a>
+  <a href="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_bogota.svg"><img src="https://raw.githubusercontent.com/xscriptor/xassets/main/colors/palette_bogota.svg" height="100" alt="Bogota"/></a>
+</div>
+
+
 <h2 align="center" id="contributing">Contributing</h2>
 
 <p>
@@ -119,7 +143,6 @@
   <li><a href="https://github.com/xscriptor/obsidian">Obsidian </a><img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/markdown.svg"/></li>
   <li><a href="https://github.com/xscriptor/xfetch">XFetch </a><img src="https://xscriptor.github.io/icons/icons/code/product-design/xsvg/git-fetch.svg"/></li>
 </ul>
-
 
 <div id="x" align="center">
 <h2>X</h2>
