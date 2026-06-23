@@ -116,6 +116,11 @@
         "path": "./icons/oslo.json"
       },
       {
+        "id": "colors-icons",
+        "label": "Colors",
+        "path": "./icons/colors.json"
+      },
+      {
         "id": "x-icons",
         "label": "X",
         "path": "./icons/x.json"

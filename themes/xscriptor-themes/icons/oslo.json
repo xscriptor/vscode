@@ -1,4 +1,5 @@
 {
+  "showLanguageModeIcons": true,
   "iconDefinitions": {
     "file": {
       "iconPath": "./oslo/file.svg"
@@ -99,6 +100,9 @@
   },
   "file": "file",
   "folder": "folder",
+  "folderExpanded": "folder",
+  "rootFolder": "folder",
+  "rootFolderExpanded": "folder",
   "fileExtensions": {
     "jsx": "jsx",
     "tsx": "tsx",
@@ -189,14 +193,52 @@
   },
   "fileNames": {
     "package.json": "json",
+    "package-lock.json": "json",
     "tsconfig.json": "json",
+    "jsconfig.json": "json",
     "README.md": "markdown",
+    "CHANGELOG.md": "markdown",
+    "LICENSE": "text",
+    ".gitignore": "text",
+    ".dockerignore": "text",
+    ".editorconfig": "text",
+    ".env": "text",
+    ".env.local": "text",
+    ".env.example": "text",
     "index.html": "html",
     "index.js": "js",
     "index.ts": "ts",
     "Dockerfile": "text",
     "docker-compose.yml": "yaml",
     "docker-compose.yaml": "yaml",
-    ".dockerignore": "text"
+    "Makefile": "text"
+  },
+  "languageIds": {
+    "javascript": "js",
+    "typescript": "ts",
+    "javascriptreact": "jsx",
+    "typescriptreact": "tsx",
+    "python": "python",
+    "html": "html",
+    "css": "css",
+    "json": "json",
+    "jsonc": "json",
+    "markdown": "markdown",
+    "java": "java",
+    "c": "c",
+    "cpp": "cpp",
+    "go": "go",
+    "rust": "rust",
+    "ruby": "ruby",
+    "csharp": "csharp",
+    "php": "php",
+    "sql": "sql",
+    "yaml": "yaml",
+    "xml": "xml",
+    "kotlin": "kotlin",
+    "swift": "swift",
+    "dart": "dart",
+    "scala": "scala",
+    "r": "r"
   }
 }

@@ -7,10 +7,21 @@ All important modifications to this VSCode theme collection will be documented i
 
 ### Added
 - New **Miami** theme (dark, vibrant neon palette) with matching internal name.
+- New **X** icon theme (generated SVGs): 171 icons with colored backgrounds, language abbreviations, and an 'x' marker. 294 folder name associations, 48 language IDs, 111 file extensions.
+- `languageIds` fallback layer across all 5 icon themes (Colors, X, Madrid, Oslo, XOslo) for broader file icon coverage.
+- `showLanguageModeIcons: true` on all icon themes to let language-contributed icons show through.
+- `folderNamesExpanded` support in X icon theme.
+
+### Changed
+- Renamed previous X icon theme to **Colors** (id: `colors-icons`, SVGs in `icons/colors/`).
+- New X icon theme uses programmatic SVG generation via `scripts/generate-test-icons.mjs`.
+- Expanded `folderNames` in X icon theme to 294 entries (added scripts, tools, vendor, .terraform, .kube, .cursor, .windsurf, .opencode, and ~100 more).
+- All folders starting with `.` now use the same color as `.github` in X icon theme for visual consistency.
+- Expanded `fileNames` in Oslo icon theme with 11 additional entries (.gitignore, LICENSE, .env, Makefile, etc.).
 
 ### Fixed
-- Bogotá, Lahabana, Paris, Tokio themes: fixed duplicate internal `"name"` field (all were set to `"X Summer Night"`).
-- All 12 theme JSON files: renamed internal `"name"` to match filename (Madrid, Berlin, Oslo, etc.) for consistency and to avoid VS Code theme resolution conflicts.
+- Madrid icon theme: removed dead `fileExtensions` entries (`yml`/`yaml` → `json` overridden by → `yaml`, `ps1` → `terminal` overridden by → `powershell`).
+- Oslo icon theme: added missing `folderExpanded`, `rootFolder`, and `rootFolderExpanded` properties.
 
 ## [1.1.3] - 2026-05-24
 

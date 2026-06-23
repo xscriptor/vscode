@@ -1,4 +1,5 @@
 {
+  "showLanguageModeIcons": true,
   "iconDefinitions": {
     "file": {
       "iconPath": "./madrid/file.svg"
@@ -190,9 +191,6 @@
     "lhs": "haskell",
     "ex": "elixir",
     "exs": "elixir",
-    "ps1": "terminal",
-    "yml": "json",
-    "yaml": "json",
     "toml": "json",
     "ini": "json",
     "env": "json",
@@ -227,5 +225,43 @@
     "docker-compose.yml": "docker",
     "docker-compose.yaml": "docker",
     ".dockerignore": "docker"
+  },
+  "languageIds": {
+    "javascript": "js",
+    "typescript": "ts",
+    "javascriptreact": "jsx",
+    "typescriptreact": "tsx",
+    "mdx": "mdx",
+    "python": "python",
+    "html": "html",
+    "css": "css",
+    "json": "json",
+    "jsonc": "json",
+    "markdown": "markdown",
+    "java": "java",
+    "c": "c",
+    "cpp": "cpp",
+    "go": "go",
+    "rust": "rust",
+    "ruby": "ruby",
+    "csharp": "csharp",
+    "php": "php",
+    "sql": "sql",
+    "yaml": "yaml",
+    "xml": "xml",
+    "kotlin": "kotlin",
+    "swift": "swift",
+    "dart": "dart",
+    "scala": "scala",
+    "r": "r",
+    "dockerfile": "docker",
+    "shellscript": "bash",
+    "powershell": "powershell",
+    "lua": "lua",
+    "cobol": "cobol",
+    "elixir": "elixir",
+    "haskell": "haskell",
+    "perl": "perl",
+    "objective-c": "objectivec"
   }
 }
