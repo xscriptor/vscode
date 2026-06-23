@@ -9,16 +9,16 @@
 </p>
 
 <p align="center">
-  <img alt="Antigravity" src="https://xscriptor.github.io/badges/ide/antigravity.svg" />
-  <img alt="Cursor" src="https://xscriptor.github.io/badges/editors/cursor.svg" />
-  <img alt="Code OSS" src="https://xscriptor.github.io/badges/editors/code-oss.svg" />
-  <img alt="Trae" src="https://xscriptor.github.io/badges/ide/trae-ai.svg" />
-  <img alt="VS Code" src="https://xscriptor.github.io/badges/editors/vscode.svg" />
-  <img alt="VSCodium" src="https://xscriptor.github.io/badges/editors/vscodium.svg" />
-  <img alt="MIT" src="https://xscriptor.github.io/badges/licenses/mit.svg" />
-  <img alt="CSS" src="https://xscriptor.github.io/badges/languages/css.svg" />
-  <img alt="JavaScript" src="https://xscriptor.github.io/badges/languages/javascript.svg" />
-  <img alt="CSharp" src="https://xscriptor.github.io/badges/languages/csharp.svg" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+  <img alt="VSCodium" src="https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=white" />
+  <img alt="Code OSS" src="https://img.shields.io/badge/Code%20OSS-007ACC" />
+  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000" />
+  <img alt="Antigravity" src="https://img.shields.io/badge/Antigravity-6C3CE0" />
+  <img alt="Trae" src="https://img.shields.io/badge/Trae-412991" />
+  <img alt="MIT" src="https://img.shields.io/badge/License-MIT-yellow" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
 </p>
 
 <hr />

@@ -111,6 +111,7 @@
   <li><a href="https://github.com/xscriptor/vscode/blob/main/CODE_OF_CONDUCT.md">Code of Conduct</a></li>
   <li><a href="https://github.com/xscriptor/vscode/blob/main/CONTRIBUTING.md">Contributions</a></li>
   <li><a href="https://github.com/xscriptor/vscode/blob/main/ROADMAP.md">Roadmap</a></li>
+  <li><a href="https://github.com/xscriptor/vscode/blob/main/colors.md">Colors</a></li>
 </ul>
 
 
