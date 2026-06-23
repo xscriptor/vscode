@@ -1,9 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none">
-  <rect width="24" height="24" rx="2" fill="#666666"/>
-  <g fill="white">
-    <path d="M6 6h6l6 6v6l-6-6z" fill="white"/>
-    <path d="M12 12l6 6H12z" fill="#888888"/>
-    <circle cx="9" cy="9" r="1" fill="#666666"/>
-    <text x="12" y="22" text-anchor="middle" fill="white" font-family="monospace" font-size="6" font-weight="bold">DART</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16">
+  <rect x="0" y="0" width="24" height="24" fill="#c162de" rx="3" ry="3"/>
+  <text x="12" y="15.15" text-anchor="middle" fill="#0a0a0a" font-family="Arial, sans-serif" font-size="9" font-weight="bold">DT</text>
+  <text x="21" y="7" text-anchor="middle" fill="#0a0a0a" font-family="Arial, sans-serif" font-size="4" font-weight="bold" opacity="0.8">x</text>
 </svg>

@@ -1,8 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none">
-  <rect width="24" height="24" rx="2" fill="#555555"/>
-  <g fill="white">
-    <path d="M6 8c2-2 4-2 6 0s4 2 6 0c0 2-2 4-4 4s-4-2-6 0c-2 2-2 4 0 6" stroke="white" stroke-width="1.5" fill="none"/>
-    <circle cx="16" cy="8" r="1" fill="white"/>
-    <text x="12" y="20" text-anchor="middle" fill="white" font-family="monospace" font-size="5" font-weight="bold">SWIFT</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16">
+  <rect x="0" y="0" width="24" height="24" fill="#8cc265" rx="3" ry="3"/>
+  <text x="12" y="15.15" text-anchor="middle" fill="#0a0a0a" font-family="Arial, sans-serif" font-size="9" font-weight="bold">SW</text>
+  <text x="21" y="7" text-anchor="middle" fill="#0a0a0a" font-family="Arial, sans-serif" font-size="4" font-weight="bold" opacity="0.8">x</text>
 </svg>

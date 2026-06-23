@@ -1,10 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none">
-  <rect width="24" height="24" rx="2" fill="#000080"/>
-  <g fill="white">
-    <circle cx="8" cy="8" r="3" fill="#FFF" stroke="#000080" stroke-width="0.5"/>
-    <circle cx="16" cy="16" r="2" fill="#000080" stroke="#FFF" stroke-width="0.5"/>
-    <path d="M4 18h8v1H4v-1z"/>
-    <path d="M6 15h4v1H6v-1z"/>
-    <path d="M8 12h2v1H8v-1z"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16">
+  <rect x="0" y="0" width="24" height="24" fill="#007a9e" rx="3" ry="3"/>
+  <text x="12" y="14.45" text-anchor="middle" fill="#f7f1ff" font-family="Arial, sans-serif" font-size="7" font-weight="bold">LUA</text>
+  <text x="21" y="7" text-anchor="middle" fill="#f7f1ff" font-family="Arial, sans-serif" font-size="4" font-weight="bold" opacity="0.8">x</text>
 </svg>

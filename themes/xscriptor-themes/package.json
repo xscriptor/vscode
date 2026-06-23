@@ -121,14 +121,54 @@
         "path": "./icons/colors.json"
       },
       {
+        "id": "praha-icons",
+        "label": "Praha",
+        "path": "./icons/praha.json"
+      },
+      {
+        "id": "berlin-icons",
+        "label": "Berlin",
+        "path": "./icons/berlin.json"
+      },
+      {
+        "id": "london-icons",
+        "label": "London",
+        "path": "./icons/london.json"
+      },
+      {
+        "id": "helsinki-icons",
+        "label": "Helsinki",
+        "path": "./icons/helsinki.json"
+      },
+      {
+        "id": "lahabana-icons",
+        "label": "Lahabana",
+        "path": "./icons/lahabana.json"
+      },
+      {
+        "id": "miami-icons",
+        "label": "Miami",
+        "path": "./icons/miami.json"
+      },
+      {
+        "id": "paris-icons",
+        "label": "Paris",
+        "path": "./icons/paris.json"
+      },
+      {
+        "id": "bogota-icons",
+        "label": "Bogotá",
+        "path": "./icons/bogota.json"
+      },
+      {
         "id": "x-icons",
         "label": "X",
         "path": "./icons/x.json"
       },
       {
-        "id": "xoslo-icons",
-        "label": "XOslo",
-        "path": "./icons/xoslo.json"
+        "id": "tokio-icons",
+        "label": "Tokio",
+        "path": "./icons/tokio.json"
       }
     ],
     "productIconThemes": [
