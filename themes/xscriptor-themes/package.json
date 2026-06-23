@@ -89,6 +89,11 @@
         "path": "./themes/lahabana.json"
       },
       {
+        "label": "Miami",
+        "uiTheme": "vs-dark",
+        "path": "./themes/miami.json"
+      },
+      {
         "label": "Paris",
         "uiTheme": "vs-dark",
         "path": "./themes/paris.json"
