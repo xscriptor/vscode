@@ -7,7 +7,7 @@
 <h2 align="center">Previews</h2>
 <div align="center">
 <a href="https://imgur.com/xKWZvYn">
-
+<img src="https://i.imgur.com/hFZBleT.gif" width="900" alt="Demo" >
 </a>
 </div>
 <p align="center"><img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/xscriptor-themes/screenshots/xtvsc01.jpg" alt="Xscriptor Themes preview 1" width="900" /></p>
