@@ -39,10 +39,19 @@
 
 <h3>Icon Themes</h3>
 <ul>
-  <li><strong>X</strong></li>
-  <li><strong>Madrid</strong></li>
-  <li><strong>Oslo</strong></li>
-  <li><strong>XOslo</strong></li>
+  <li>X</li>
+  <li>Praha</li>
+  <li>Tokio</li>
+  <li>Oslo</li>
+  <li>Berlin</li>
+  <li>Paris</li>
+  <li>Bogota</li>
+  <li>Lahabana</li>
+  <li>Miami</li>
+  <li>Madrid</li>
+  <li>Helsinki</li>
+  <li>London</li>
+  <li>Colors</li>
 </ul>
 
 <h3>Dark Themes</h3>
@@ -55,6 +64,7 @@
   <li>Paris</li>
   <li>Bogota</li>
   <li>Lahabana</li>
+  <li>Miami</li>
 </ul>
 
 <h3>Light Themes</h3>
