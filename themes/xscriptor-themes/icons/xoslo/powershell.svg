@@ -1,9 +1,0 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none">
-  <rect width="24" height="24" rx="2" fill="#C0C0C0"/>
-  <g fill="white">
-    <path d="M6 8l4 3-4 3v-2H4v-2h2V8z"/>
-    <rect x="12" y="14" width="6" height="1"/>
-  </g>
-  <text x="18" y="8" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="6" font-weight="bold">x</text>
-</svg>
-

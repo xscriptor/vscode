@@ -1,13 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16">
-  <!-- Camera body -->
-  <rect x="3" y="7" width="18" height="12" rx="2" ry="2" fill="#948ae3" stroke="#69676c" stroke-width="0.5"/>
-  <!-- Camera lens -->
-  <circle cx="12" cy="13" r="4" fill="#363537" stroke="#69676c" stroke-width="0.5"/>
-  <circle cx="12" cy="13" r="2.5" fill="#525053"/>
-  <!-- Camera flash -->
-  <rect x="16" y="8" width="2" height="1.5" rx="0.5" fill="#fd9353"/>
-  <!-- Camera viewfinder -->
-  <rect x="6" y="5" width="4" height="2" rx="1" fill="#5ad4e6"/>
-  <!-- X in center of lens -->
-  <text x="12" y="15" text-anchor="middle" fill="#fce566" font-family="Arial, sans-serif" font-size="6" font-weight="bold">x</text>
+  <rect x="0" y="0" width="24" height="24" fill="#4d2699" rx="3" ry="3"/>
+  <text x="12" y="14.45" text-anchor="middle" fill="#f7f1ff" font-family="Arial, sans-serif" font-size="7" font-weight="bold">IMG</text>
+  <text x="21" y="7" text-anchor="middle" fill="#f7f1ff" font-family="Arial, sans-serif" font-size="4" font-weight="bold" opacity="0.8">x</text>
 </svg>

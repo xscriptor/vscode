@@ -6,16 +6,29 @@
 
 <h2 align="center">Previews</h2>
 <div align="center">
-<a href="https://i.imgur.com/qlsfNP9.gif">
-<img src="https://i.imgur.com/qlsfNP9.gif" width="900" alt="Demo" >
+<a href="https://imgur.com/xKWZvYn">
+<img src="https://i.imgur.com/0e0Ifob.gif" width="900" alt="Demo" >
+</a>
+<hr />
+<a href="https://imgur.com/xKWZvYn">
+<img src="https://i.imgur.com/ndPKOgr.gif" width="900" alt="Demo" >
+</a>
+<hr />
+<a href="https://imgur.com/xKWZvYn">
+<img src="https://i.imgur.com/refvlZa.gif" width="900" alt="Demo" >
 </a>
 </div>
+
+<details>
+<summary><b>Static previews</b></summary>
+
 <p align="center"><img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/xscriptor-themes/screenshots/xtvsc01.jpg" alt="Xscriptor Themes preview 1" width="900" /></p>
-<p align="center"><img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/xscriptor-themes/screenshots/xtvsc00.jpg" alt="Xscriptor Themes preview 2" width="900" /></p>
 <p align="center"><img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/xscriptor-themes/screenshots/xtvsc03.jpg" alt="Xscriptor Themes preview 3" width="900" /></p>
 <p align="center"><img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/xscriptor-themes/screenshots/xtvsc02.jpg" alt="Xscriptor Themes preview 4" width="900" /></p>
 <p align="center"><img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/xscriptor-themes/screenshots/xtvsc05.jpg" alt="Xscriptor Themes preview 5" width="900" /></p>
 <p align="center"><img src="https://raw.githubusercontent.com/xscriptor/vscode/refs/heads/main/themes/xscriptor-themes/screenshots/xtvsc04.jpg" alt="Xscriptor Themes preview 6" width="900" /></p>
+
+</details>
 
 <h2 align="center" align="center">Featured Theme</h2>
 <p>
@@ -26,10 +39,19 @@
 
 <h3>Icon Themes</h3>
 <ul>
-  <li><strong>X</strong></li>
-  <li><strong>Madrid</strong></li>
-  <li><strong>Oslo</strong></li>
-  <li><strong>XOslo</strong></li>
+  <li>X</li>
+  <li>Praha</li>
+  <li>Tokio</li>
+  <li>Oslo</li>
+  <li>Berlin</li>
+  <li>Paris</li>
+  <li>Bogota</li>
+  <li>Lahabana</li>
+  <li>Miami</li>
+  <li>Madrid</li>
+  <li>Helsinki</li>
+  <li>London</li>
+  <li>Colors</li>
 </ul>
 
 <h3>Dark Themes</h3>
@@ -42,6 +64,7 @@
   <li>Paris</li>
   <li>Bogota</li>
   <li>Lahabana</li>
+  <li>Miami</li>
 </ul>
 
 <h3>Light Themes</h3>

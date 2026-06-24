@@ -51,10 +51,21 @@
 
 <h2 align="center" id="previews">Previews</h2>
 <div align="center">
-<a href="https://i.imgur.com/qlsfNP9.gif">
-<img src="https://i.imgur.com/qlsfNP9.gif" width="900" alt="Demo" >
+<a href="https://imgur.com/xKWZvYn">
+<img src="https://i.imgur.com/0e0Ifob.gif" width="900" alt="Demo" >
+</a>
+<hr />
+<a href="https://imgur.com/xKWZvYn">
+<img src="https://i.imgur.com/ndPKOgr.gif" width="900" alt="Demo" >
+</a>
+<hr />
+<a href="https://imgur.com/xKWZvYn">
+<img src="https://i.imgur.com/refvlZa.gif" width="900" alt="Demo" >
 </a>
 </div>
+
+<details>
+<summary><b>Static previews</b></summary>
 
 <p align="center">
   <img src="./themes/xscriptor-themes/screenshots/xtvsc02.jpg" alt="Xscriptor preview 1" width="49%" />
@@ -64,6 +75,8 @@
   <img src="./assets/previews/preview3.jpg" alt="Xscriptor preview 3" width="49%" />
   <img src="./assets/previews/preview4.jpg" alt="Xscriptor preview 4" width="49%" />
 </p>
+
+</details>
 
 <h2 align="center" id="quick-install">Quick Install</h2>
 

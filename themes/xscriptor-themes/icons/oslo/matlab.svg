@@ -1,10 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none">
-  <rect width="24" height="24" rx="2" fill="#666666"/>
-  <g fill="white">
-    <path d="M4 16c2-4 4-2 6-6s2-6 4-4 2 4 4 2 2-2 2 0" stroke="white" stroke-width="1.5" fill="none"/>
-    <circle cx="6" cy="14" r="0.5" fill="white"/>
-    <circle cx="12" cy="8" r="0.5" fill="white"/>
-    <circle cx="18" cy="12" r="0.5" fill="white"/>
-    <text x="12" y="22" text-anchor="middle" fill="white" font-family="monospace" font-size="4" font-weight="bold">MATLAB</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16">
+  <rect x="0" y="0" width="24" height="24" fill="#4aa5f0" rx="3" ry="3"/>
+  <text x="12" y="15.15" text-anchor="middle" fill="#0a0a0a" font-family="Arial, sans-serif" font-size="9" font-weight="bold">M</text>
+  <text x="21" y="7" text-anchor="middle" fill="#0a0a0a" font-family="Arial, sans-serif" font-size="4" font-weight="bold" opacity="0.8">x</text>
 </svg>
